@@ -82,14 +82,23 @@ def cache_embeddings(goal_categories, output_path, clip_model="RN50"):
     save_to_disk(text_embedding, goal_categories, output_path)
 
 
-def load_categories_from_dataset(path):
-    files = glob.glob(os.path.join(path, "*json.gz"))
+def load_categories_from_dataset(dataset_path):
+    path = os.path.join(dataset_path, "**/content/*json.gz")
+    files = glob.glob(path, recursive=True)
 
     categories = []
-    for f in tqdm(files):
-        dataset = load_dataset(f)
-        for goal_key in dataset["goals_by_category"].keys():
-            categories.append(goal_key.split("_")[1])
+    # for f in tqdm(files):
+    #     dataset = load_dataset(f)
+    #     for goal_key in dataset["goals_by_category"].keys():
+    #         categories.append(goal_key.split("_")[1])
+    # return list(set(categories))
+    categories = []
+    for file in tqdm(files):
+        dataset = load_dataset(file)
+        for goal_key, goals in dataset["goals"].items():
+            for goal in goals:
+                if goal.get("object_category") is not None:
+                    categories.append(goal["object_category"].lower())
     return list(set(categories))
 
 
@@ -120,28 +129,29 @@ def clean_instruction(instruction):
 
 def cache_ovon_goals(dataset_path, output_path):
     goal_categories = load_categories_from_dataset(dataset_path)
-    val_seen_categories = load_categories_from_dataset(
-        dataset_path.replace("train", "val_seen")
-    )
-    val_unseen_easy_categories = load_categories_from_dataset(
-        dataset_path.replace("train", "val_unseen_easy")
-    )
-    val_unseen_hard_categories = load_categories_from_dataset(
-        dataset_path.replace("train", "val_unseen_hard")
-    )
-    goal_categories.extend(val_seen_categories)
-    goal_categories.extend(val_unseen_easy_categories)
-    goal_categories.extend(val_unseen_hard_categories)
+    # val_seen_categories = load_categories_from_dataset(
+    #     dataset_path.replace("train", "val_seen")
+    # )
+    # val_unseen_easy_categories = load_categories_from_dataset(
+    #     dataset_path.replace("train", "val_unseen_easy")
+    # )
+    # val_unseen_hard_categories = load_categories_from_dataset(
+    #     dataset_path.replace("train", "val_unseen_hard")
+    # )
+    # goal_categories.extend(val_seen_categories)
+    # goal_categories.extend(val_unseen_easy_categories)
+    # goal_categories.extend(val_unseen_hard_categories)
 
     print("Total goal categories: {}".format(len(goal_categories)))
-    print(
-        "Train categories: {}, Val seen categories: {}, Val unseen easy categories: {}, Val unseen hard categories: {}".format(
-            len(goal_categories),
-            len(val_seen_categories),
-            len(val_unseen_easy_categories),
-            len(val_unseen_hard_categories),
-        )
-    )
+    # print(
+    #     "Train categories: {}, Val seen categories: {}, Val unseen easy categories: {}, Val unseen hard categories: {}".format(
+    #         len(goal_categories),
+    #         len(val_seen_categories),
+    #         len(val_unseen_easy_categories),
+    #         len(val_unseen_hard_categories),
+    #     )
+    # )
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     cache_embeddings(goal_categories, output_path)
 
 
@@ -187,7 +197,8 @@ def cache_language_goals(dataset_path, output_path, model):
 
 
 def cache_goat_goals(dataset_path, output_path, model):
-    files = glob.glob(os.path.join(dataset_path, "*json.gz"))
+    path = os.path.join(dataset_path, "**/content/*json.gz")
+    files = glob.glob(path, recursive=True)
     instructions = set()
     first_3_words = set()
     filtered_goals = 0

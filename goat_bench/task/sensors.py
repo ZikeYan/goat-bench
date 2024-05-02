@@ -5,14 +5,20 @@ from typing import TYPE_CHECKING, Any, Optional
 
 import numpy as np
 from gym import spaces
+import habitat_sim
 from habitat.core.embodied_task import EmbodiedTask
 from habitat.core.registry import registry
 from habitat.core.simulator import RGBSensor, Sensor, SensorTypes, Simulator
 from habitat.core.utils import try_cv2_import
 from habitat.tasks.nav.nav import NavigationEpisode
-
+from habitat.tasks.nav.instance_image_nav_task import InstanceImageParameters
+from habitat_sim import bindings as hsim
 from goat_bench.task.goat_task import GoatEpisode
-
+from habitat.core.simulator import (
+    VisualObservation,
+)
+from habitat_sim.agent.agent import AgentState, SixDOFPose
+from habitat.utils.geometry_utils import quaternion_from_coeff
 cv2 = try_cv2_import()
 
 
@@ -604,17 +610,19 @@ class GoatGoalSensor(Sensor):
     def __init__(
         self,
         *args: Any,
+        sim,
         config: "DictConfig",
         **kwargs: Any,
     ):
         self.image_cache_base_dir = config.image_cache
         self.image_encoder = config.image_cache_encoder
         self.image_cache = None
-        self.language_cache = load_pickle(config.language_cache)
-        self.object_cache = load_pickle(config.object_cache)
+        # self.language_cache = load_pickle(config.language_cache)
+        # self.object_cache = load_pickle(config.object_cache)
         self._current_scene_id = ""
         self._current_episode_id = ""
         self._current_episode_image_goal = None
+        self._sim = sim
         super().__init__(config=config)
 
     def _get_uuid(self, *args: Any, **kwargs: Any) -> str:
@@ -627,7 +635,111 @@ class GoatGoalSensor(Sensor):
         return spaces.Box(
             low=-np.inf, high=np.inf, shape=(1024,), dtype=np.float32
         )
+    def _add_sensor(
+        self, img_params: InstanceImageParameters, sensor_uuid: str
+    ) -> None:
+        # [TODO] cache image goal
+        spec = habitat_sim.CameraSensorSpec()
+        spec.uuid = sensor_uuid
+        spec.sensor_type = habitat_sim.SensorType.COLOR
+        spec.resolution = img_params.image_dimensions
+        spec.hfov = img_params.hfov
+        spec.sensor_subtype = habitat_sim.SensorSubType.PINHOLE
+        self._sim.add_sensor(spec)
 
+        agent = self._sim.get_agent(0)
+        agent_state = agent.get_state()
+        agent.set_state(
+            AgentState(
+                position=agent_state.position,
+                rotation=agent_state.rotation,
+                sensor_states={
+                    **agent_state.sensor_states,
+                    sensor_uuid: SixDOFPose(
+                        position=np.array(img_params.position),
+                        rotation=quaternion_from_coeff(img_params.rotation),
+                    ),
+                },
+            ),
+            infer_sensor_states=False,
+        )
+    def _remove_sensor(self, sensor_uuid: str) -> None:
+        agent = self._sim.get_agent(0)
+        del self._sim._sensors[sensor_uuid]
+        hsim.SensorFactory.delete_subtree_sensor(agent.scene_node, sensor_uuid)
+        del agent._sensors[sensor_uuid]
+        agent.agent_config.sensor_specifications = [
+            s
+            for s in agent.agent_config.sensor_specifications
+            if s.uuid != sensor_uuid
+        ]
+    def _get_instance_image_goal(
+        self, img_params: InstanceImageParameters
+    ) -> VisualObservation:
+        """To render the instance image goal, a temporary HabitatSim sensor is
+        created with the specified InstanceImageParameters. This sensor renders
+        the image and is then removed.
+        """
+        sensor_uuid = "instance_imagegoal_sensor"
+        self._add_sensor(img_params, sensor_uuid)
+
+        self._sim._sensors[sensor_uuid].draw_observation()
+        img = self._sim._sensors[sensor_uuid].get_observation()[:, :, :3]
+
+        self._remove_sensor(sensor_uuid)
+        return img
+    # def get_observation(
+    #     self,
+    #     observations,
+    #     *args: Any,
+    #     episode: Any,
+    #     task: Any,
+    #     **kwargs: Any,
+    # ) -> np.ndarray:
+    #     episode_id = f"{episode.scene_id}_{episode.episode_id}"
+
+    #     if self._current_scene_id != episode.scene_id:
+    #         self._current_scene_id = episode.scene_id
+    #         scene_id = episode.scene_id.split("/")[-1].split(".")[0]
+    #         self.image_cache = load_pickle(
+    #             os.path.join(
+    #                 self.image_cache_base_dir,
+    #                 f"{scene_id}_{self.image_encoder}_embedding.pkl",
+    #             )
+    #         )
+
+    #     output_embedding = np.zeros((1024,), dtype=np.float32)
+
+    #     task_type = "none"
+    #     if task.active_subtask_idx < len(episode.tasks):
+    #         if episode.tasks[task.active_subtask_idx][1] == "object":
+    #             category = episode.tasks[task.active_subtask_idx][0]
+    #             output_embedding = self.object_cache[category]
+    #             task_type = "object"
+    #         elif episode.tasks[task.active_subtask_idx][1] == "description":
+    #             instance_id = episode.tasks[task.active_subtask_idx][2]
+    #             goal = [
+    #                 g
+    #                 for g in episode.goals[task.active_subtask_idx]
+    #                 if g["object_id"] == instance_id
+    #             ]
+    #             uuid = goal[0]["lang_desc"].lower()
+    #             output_embedding = self.language_cache[uuid]
+    #             task_type = "lang"
+    #         elif episode.tasks[task.active_subtask_idx][1] == "image":
+    #             instance_id = episode.tasks[task.active_subtask_idx][2]
+    #             curent_task = episode.tasks[task.active_subtask_idx]
+    #             scene_id = episode.scene_id.split("/")[-1].split(".")[0]
+
+    #             uuid = "{}_{}".format(scene_id, instance_id)
+
+    #             output_embedding = self.image_cache[
+    #                 "{}_{}".format(scene_id, instance_id)
+    #             ][curent_task[-1]]["embedding"]
+    #             task_type = "image"
+    #         else:
+    #             raise NotImplementedError
+    #     return output_embedding
     def get_observation(
         self,
         observations,
@@ -638,24 +750,12 @@ class GoatGoalSensor(Sensor):
     ) -> np.ndarray:
         episode_id = f"{episode.scene_id}_{episode.episode_id}"
 
-        if self._current_scene_id != episode.scene_id:
-            self._current_scene_id = episode.scene_id
-            scene_id = episode.scene_id.split("/")[-1].split(".")[0]
-            self.image_cache = load_pickle(
-                os.path.join(
-                    self.image_cache_base_dir,
-                    f"{scene_id}_{self.image_encoder}_embedding.pkl",
-                )
-            )
-
-        output_embedding = np.zeros((1024,), dtype=np.float32)
-
         task_type = "none"
         if task.active_subtask_idx < len(episode.tasks):
             if episode.tasks[task.active_subtask_idx][1] == "object":
                 category = episode.tasks[task.active_subtask_idx][0]
-                output_embedding = self.object_cache[category]
                 task_type = "object"
+                return (category, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "description":
                 instance_id = episode.tasks[task.active_subtask_idx][2]
                 goal = [
@@ -664,22 +764,22 @@ class GoatGoalSensor(Sensor):
                     if g["object_id"] == instance_id
                 ]
                 uuid = goal[0]["lang_desc"].lower()
-                output_embedding = self.language_cache[uuid]
                 task_type = "lang"
+                return (uuid, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "image":
                 instance_id = episode.tasks[task.active_subtask_idx][2]
-                curent_task = episode.tasks[task.active_subtask_idx]
-                scene_id = episode.scene_id.split("/")[-1].split(".")[0]
-
-                uuid = "{}_{}".format(scene_id, instance_id)
-
-                output_embedding = self.image_cache[
-                    "{}_{}".format(scene_id, instance_id)
-                ][curent_task[-1]]["embedding"]
+                goal = [
+                    g
+                    for g in episode.goals[task.active_subtask_idx]
+                    if g["object_id"] == instance_id
+                ]
+                img_param = InstanceImageParameters(**goal[0]["image_goals"][episode.tasks[task.active_subtask_idx][3]])
+                img = self._get_instance_image_goal(img_param)
                 task_type = "image"
+                return (img, task_type)
             else:
                 raise NotImplementedError
-        return output_embedding
+        # return output_embedding
 
 
 @registry.register_sensor
@@ -696,8 +796,8 @@ class GoatMultiGoalSensor(Sensor):
         self.image_cache_base_dir = config.image_cache
         self.image_encoder = config.image_cache_encoder
         self.image_cache = None
-        self.language_cache = load_pickle(config.language_cache)
-        self.object_cache = load_pickle(config.object_cache)
+        #self.language_cache = load_pickle(config.language_cache)
+        #self.object_cache = load_pickle(config.object_cache)
         self._current_scene_id = ""
         self._current_episode_id = ""
         self._current_episode_image_goal = None

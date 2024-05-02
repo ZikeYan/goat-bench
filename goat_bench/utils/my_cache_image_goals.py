@@ -14,7 +14,6 @@ from goat_bench.models.encoders.clip import CLIPEncoder
 from goat_bench.models.encoders.vc1 import VC1Encoder
 from goat_bench.utils.utils import save_image, save_pickle
 
-
 class CacheGoals:
     def __init__(
         self,
@@ -55,7 +54,7 @@ class CacheGoals:
         config = get_config(self.config_path)
         with read_write(config):
             config.habitat.dataset.data_path = os.path.join(
-                self.data_path, f"{self.split}/{self.split}.json.gz"
+                self.data_path, f"{self.split}/content/{scene}.json.gz"
             )
             config.habitat.dataset.content_scenes = [scene]
 
@@ -118,7 +117,6 @@ class CacheGoals:
         )
         save_pickle(data_goal, out_path)
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -133,11 +131,6 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--output-path",
-        type=str,
-        default="",
-    )
-    parser.add_argument(
-        "--scene",
         type=str,
         default="",
     )
@@ -166,4 +159,9 @@ if __name__ == "__main__":
         encoder=args.encoder,
         add_noise=args.add_noise,
     )
-    cache.run(args.scene)
+
+    scene_files = glob.glob(os.path.join(args.input_path, args.split, "content", "*.json.gz"))
+    scenes = [os.path.basename(scene_file).split('.')[0] for scene_file in scene_files]
+
+    for scene in scenes:
+        cache.run(scene)

@@ -1,37 +1,19 @@
 #!/bin/bash
-#SBATCH --job-name=goat
-#SBATCH --output=slurm_logs/eval/goat-%j.out
-#SBATCH --error=slurm_logs/eval/goat-%j.err
-#SBATCH --gpus a40:1
-#SBATCH --nodes 1
-#SBATCH --cpus-per-task 6
-#SBATCH --ntasks-per-node 1
-#SBATCH --partition=cvmlp-lab
-#SBATCH --qos=short
-#SBATCH --exclude=xaea-12
-#SBATCH --signal=USR1@100
 
 export GLOG_minloglevel=2
 export HABITAT_SIM_LOG=quiet
 export MAGNUM_LOG=quiet
 
-MAIN_ADDR=$(scontrol show hostnames "${SLURM_JOB_NODELIST}" | head -n 1)
-export MAIN_ADDR
+export PYTHONPATH=habitat-sim/src_python
 
-source /srv/flash1/rramrakhya3/miniconda3/etc/profile.d/conda.sh
-conda deactivate
-conda activate goat
-
-export PYTHONPATH=/srv/flash1/rramrakhya3/fall_2023/habitat-sim/src_python/
-
-DATA_PATH="data/datasets/goat/v0.1.4"
+DATA_PATH="data/dataset/goat-bench/data/datasets/goat_bench/hm3d/v1"
 # eval_ckpt_path_dir="data/new_checkpoints/goat/ver/resnetclip_rgb_multimodal/seed_1/"
 # tensorboard_dir="tb/goat/ver/resnetclip_rgb_multimodal/seed_1/val_seen/"
-# split="val_seen"
+split="val_seen"
 
 export OVON_IL_DONT_CHEAT=1
 
-python -um goat.run \
+python -um goat_bench.run \
   --run-type eval \
   --exp-config config/experiments/ver_goat.yaml \
   habitat_baselines.num_environments=1 \

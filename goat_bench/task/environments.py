@@ -3,6 +3,7 @@ from typing import TYPE_CHECKING, Optional, Type
 
 import gym
 import habitat
+import habitat_sim
 import numpy as np
 from habitat import Dataset
 from habitat.core.environments import RLTaskEnv
@@ -73,3 +74,5 @@ class GymGoatEnv(gym.Wrapper):
         base_env = GoatRLEnv(config=config, dataset=dataset)
         env = HabGymWrapper(base_env)
         super().__init__(env)
+    def get_agent_state(self, agent_id: int = 0) -> habitat_sim.AgentState:
+        return self.env._env._env._sim.get_agent(agent_id).get_state()

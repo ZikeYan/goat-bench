@@ -1,24 +1,23 @@
-# @package _global_
-
 defaults:
   - /habitat: habitat_config_base
+  # - /habitat/task: pointnav
   - /habitat/task: objectnav
-  - /habitat/simulator/agents@habitat.simulator.agents.main_agent: rgb_agent
+  - /habitat/simulator/agents@habitat.simulator.agents.main_agent: rgbd_agent
   - _self_
 
 habitat:
   env_task: GymGoatEnv
   environment:
-    max_episode_steps: 5000
+    max_episode_steps: 10000
 
   task:
     type: Goat-v1
     actions:
       subtask_stop:
         type: SubtaskStopAction
-    success_measure: success
+    success_measure: GoatSuccess
     reward_measure: goat_distance_to_goal_reward
-
+    
   simulator:
     turn_angle: 30
     tilt_angle: 30
@@ -31,13 +30,20 @@ habitat:
             height: 640
             hfov: 42
             position: [0, 1.31, 0]
+          depth_sensor:
+            width: 360
+            height: 640
+            hfov: 42
+            position: [0, 1.31, 0]
         height: 1.41
         radius: 0.17
     habitat_sim_v0:
       gpu_device_id: 0
       allow_sliding: False
-  
+      gpu_gpu: True
+
   dataset:
     type: Goat-v1
-    split: train
-    data_path: data/datasets/goat/v0.1.3/{split}/{split}.json.gz
+    split: val_seen
+    data_path: goat-bench/data/dataset/goat-bench/data/datasets/goat_bench/hm3d/v1/{split}/{split}.json.gz
+    scenes_dir: goat-bench/data/scene_datasets/

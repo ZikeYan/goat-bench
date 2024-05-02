@@ -8,6 +8,7 @@ import attr
 from habitat.core.registry import registry
 from habitat.core.simulator import AgentState
 from habitat.core.utils import DatasetFloatJSONEncoder
+from goat_bench.dataset.objectnav_dataset import ObjectNavDatasetV2
 from habitat.datasets.pointnav.pointnav_dataset import (
     CONTENT_SCENES_PATH_FIELD,
     DEFAULT_SCENE_PATH_PREFIX,
@@ -31,6 +32,7 @@ if TYPE_CHECKING:
 
 @registry.register_dataset(name="Goat-v1")
 class GoatDatasetV1(PointNavDatasetV1):
+# class GoatDatasetV1(ObjectNavDatasetV2):
     r"""
     Class inherited from PointNavDataset that loads GOAT dataset.
     """

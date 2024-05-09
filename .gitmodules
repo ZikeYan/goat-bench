@@ -1,0 +1,3 @@
+[submodule "eai-vc"]
+	path = eai-vc
+	url = https://github.com/facebookresearch/eai-vc.git

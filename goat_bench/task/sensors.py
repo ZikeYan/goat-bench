@@ -623,6 +623,7 @@ class GoatGoalSensor(Sensor):
         self._current_episode_id = ""
         self._current_episode_image_goal = None
         self._sim = sim
+        self._return_gt_pos = True
         super().__init__(config=config)
 
     def _get_uuid(self, *args: Any, **kwargs: Any) -> str:
@@ -755,6 +756,8 @@ class GoatGoalSensor(Sensor):
             if episode.tasks[task.active_subtask_idx][1] == "object":
                 category = episode.tasks[task.active_subtask_idx][0]
                 task_type = "object"
+                if self._return_gt_pos:
+                    return (category, task_type, episode.goals[task.active_subtask_idx][0]['position'])
                 return (category, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "description":
                 instance_id = episode.tasks[task.active_subtask_idx][2]
@@ -765,6 +768,8 @@ class GoatGoalSensor(Sensor):
                 ]
                 uuid = goal[0]["lang_desc"].lower()
                 task_type = "lang"
+                if self._return_gt_pos:
+                    return (uuid, task_type, episode.goals[task.active_subtask_idx][0]['position'])
                 return (uuid, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "image":
                 instance_id = episode.tasks[task.active_subtask_idx][2]
@@ -776,6 +781,8 @@ class GoatGoalSensor(Sensor):
                 img_param = InstanceImageParameters(**goal[0]["image_goals"][episode.tasks[task.active_subtask_idx][3]])
                 img = self._get_instance_image_goal(img_param)
                 task_type = "image"
+                if self._return_gt_pos:
+                    return (img, task_type, episode.goals[task.active_subtask_idx][0]['position'])
                 return (img, task_type)
             else:
                 raise NotImplementedError

@@ -16,7 +16,7 @@ from goat_bench.models.encoders.resnet_gn import ResNet
 
 def write_json(data, path):
     with open(path, "w") as file:
-        file.write(json.dumps(data))
+        file.write(json.dumps(data, indent=4))
 
 
 def load_json(path):

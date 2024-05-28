@@ -22,7 +22,7 @@ from habitat.utils.geometry_utils import quaternion_from_coeff
 cv2 = try_cv2_import()
 
 
-from goat_bench.utils.utils import load_pickle
+from goat_bench.utils.utils import load_pickle, load_json
 
 if TYPE_CHECKING:
     from omegaconf import DictConfig
@@ -617,6 +617,7 @@ class GoatGoalSensor(Sensor):
         self.image_cache_base_dir = config.image_cache
         self.image_encoder = config.image_cache_encoder
         self.image_cache = None
+        self.language_parse_cache = load_json(config.language_parse_cache)
         # self.language_cache = load_pickle(config.language_cache)
         # self.object_cache = load_pickle(config.object_cache)
         self._current_scene_id = ""
@@ -767,9 +768,11 @@ class GoatGoalSensor(Sensor):
                     if g["object_id"] == instance_id
                 ]
                 uuid = goal[0]["lang_desc"].lower()
+                uuid_dict = self.language_parse_cache[uuid]
+                uuid_dict['description'] = uuid
                 task_type = "lang"
                 if self._return_gt_pos:
-                    return (uuid, task_type, episode.goals[task.active_subtask_idx][0]['position'])
+                    return (uuid_dict, task_type, episode.goals[task.active_subtask_idx][0]['position'])
                 return (uuid, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "image":
                 instance_id = episode.tasks[task.active_subtask_idx][2]

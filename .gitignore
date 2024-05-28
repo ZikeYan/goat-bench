@@ -12,8 +12,8 @@ habitat-lab
 .vscode
 
 # data
-data
-
+data/*
+!data/languagenav/lang_parse/
 # logs
 tb/
 train.log

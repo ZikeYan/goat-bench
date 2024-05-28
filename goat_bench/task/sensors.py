@@ -769,7 +769,7 @@ class GoatGoalSensor(Sensor):
                 ]
                 uuid = goal[0]["lang_desc"].lower()
                 uuid_dict = self.language_parse_cache[uuid]
-                uuid_dict['description'] = uuid
+                uuid_dict['goal'] = uuid
                 task_type = "lang"
                 if self._return_gt_pos:
                     return (uuid_dict, task_type, episode.goals[task.active_subtask_idx][0]['position'])

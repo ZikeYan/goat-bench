@@ -1,0 +1,353 @@
+habitat:
+  dataset:
+    content_scenes:
+    - '*'
+    data_path: data/datasets/goat_bench/hm3d/v1/val_seen/val_seen.json.gz
+    scenes_dir: data/scene_datasets/
+    split: val_seen
+    type: Goat-v1
+  env_task: GymGoatEnv
+  env_task_gym_dependencies: []
+  env_task_gym_id: ''
+  environment:
+    iterator_options:
+      cycle: true
+      group_by_scene: true
+      max_scene_repeat_episodes: -1
+      max_scene_repeat_steps: 50000
+      num_episode_sample: -1
+      shuffle: false
+      step_repetition_range: 0.2
+    max_episode_seconds: 10000000
+    max_episode_steps: 5000
+  gym:
+    achieved_goal_keys: []
+    action_keys: null
+    auto_name: ''
+    desired_goal_keys: []
+    obs_keys: null
+  seed: 100
+  simulator:
+    ac_freq_ratio: 4
+    action_space_config: v2-goat
+    action_space_config_arguments: {}
+    additional_object_paths: []
+    agents:
+      main_agent:
+        height: 1.41
+        ik_arm_urdf: data/robots/hab_fetch/robots/fetch_onlyarm.urdf
+        is_set_start_state: false
+        joint_start_noise: 0.1
+        radius: 0.17
+        robot_type: FetchRobot
+        robot_urdf: data/robots/hab_fetch/robots/hab_fetch.urdf
+        sim_sensors:
+          depth_sensor:
+            height: 640
+            hfov: 42
+            max_depth: 10.0
+            min_depth: 0.0
+            noise_model: None
+            noise_model_kwargs: {}
+            normalize_depth: false
+            orientation:
+            - 0.0
+            - 0.0
+            - 0.0
+            position:
+            - 0.0
+            - 1.31
+            - 0.0
+            sensor_subtype: PINHOLE
+            type: HabitatSimDepthSensor
+            width: 360
+          rgb_sensor:
+            height: 640
+            hfov: 42
+            noise_model: None
+            noise_model_kwargs: {}
+            orientation:
+            - 0.0
+            - 0.0
+            - 0.0
+            position:
+            - 0.0
+            - 1.31
+            - 0.0
+            sensor_subtype: PINHOLE
+            type: HabitatSimRGBSensor
+            width: 360
+        start_position:
+        - 0.0
+        - 0.0
+        - 0.0
+        start_rotation:
+        - 0.0
+        - 0.0
+        - 0.0
+        - 1.0
+    agents_order:
+    - main_agent
+    auto_sleep: false
+    concur_render: false
+    create_renderer: false
+    ctrl_freq: 120.0
+    debug_render: false
+    debug_render_goal: true
+    debug_render_robot: false
+    default_agent_id: 0
+    ep_info: null
+    forward_step_size: 0.25
+    grasp_impulse: 10000.0
+    habitat_sim_v0:
+      allow_sliding: false
+      enable_gfx_replay_save: false
+      enable_physics: false
+      frustum_culling: true
+      gpu_device_id: 0
+      gpu_gpu: true
+      leave_context_with_background_renderer: false
+      physics_config_file: ./data/default.physics_config.json
+    hold_thresh: 0.15
+    kinematic_mode: false
+    load_objs: false
+    navmesh_settings:
+      agent_max_climb: 0.1
+      cell_height: 0.05
+    needs_markers: true
+    requires_textures: true
+    robot_joint_start_noise: 0.0
+    scene: data/scene_datasets/habitat-test-scenes/van-gogh-room.glb
+    scene_dataset: default
+    seed: ${habitat.seed}
+    step_physics: true
+    tilt_angle: 30
+    turn_angle: 30
+    type: GOATSim-v0
+    update_robot: true
+  task:
+    actions:
+      stop:
+        type: StopAction
+      move_forward:
+        type: MoveForwardAction
+      turn_left:
+        type: TurnLeftAction
+      turn_right:
+        type: TurnRightAction
+      look_up:
+        type: LookUpAction
+      look_down:
+        type: LookDownAction
+      subtask_stop:
+        type: SubtaskStopAction
+    art_succ_thresh: 0.15
+    base_angle_noise: 0.523599
+    base_noise: 0.05
+    cache_robot_init: false
+    constraint_violation_drops_object: false
+    constraint_violation_ends_episode: true
+    count_obj_collisions: true
+    desired_resting_position:
+    - 0.5
+    - 0.0
+    - 1.0
+    easy_init: false
+    ee_exclude_region: 0.0
+    ee_sample_factor: 0.2
+    enable_safe_drop: false
+    end_on_success: true
+    filter_nav_to_tasks: []
+    force_regenerate: false
+    goal_sensor_uuid: objectgoal
+    joint_max_impulse: -1.0
+    lab_sensors:
+      compass_sensor:
+        type: CompassSensor
+      goat_goal_sensor:
+        image_cache: data/datasets/iin/hm3d/v2/_embeddings/
+        image_cache_encoder: CLIP_goat
+        language_cache: data/languagenav/hm3d/v5_final/embeddings/_clip_embedding.pkl
+        language_parse_cache: data/languagenav/lang_parse/parse_val_seen_spacy.json
+        object_cache: data/clip_embeddings/ovon_stretch_final_cache.pkl
+        type: GoatGoalSensor
+      gps_sensor:
+        dimensionality: 2
+        type: GPSSensor
+    measurements:
+      distance_to_goal:
+        distance_to: VIEW_POINTS
+        type: GoatDistanceToGoal
+      success:
+        success_distance: 0.25
+        type: GoatSuccess
+      goat_distance_to_goal_reward:
+        success_distance: 0.25
+        type: GoatDistanceToGoalReward
+      spl:
+        type: GoatSPL
+      soft_spl:
+        type: GoatSoftSPL
+      top_down_map:
+        draw_border: true
+        draw_goal_aabbs: true
+        draw_goal_positions: true
+        draw_shortest_path: false
+        draw_source: true
+        draw_view_points: true
+        fog_of_war:
+          draw: true
+          fov: 90
+          visibility_dist: 5.0
+        map_padding: 3
+        map_resolution: 1024
+        max_episode_steps: 10000
+        type: GoatTopDownMap
+    min_start_distance: 3.0
+    must_look_at_targ: true
+    num_spawn_attempts: 200
+    obj_succ_thresh: 0.3
+    object_in_hand_sample_prob: 0.167
+    pddl_domain_def: replica_cad
+    physics_stability_steps: 1
+    render_target: true
+    reward_measure: goat_distance_to_goal_reward
+    robot_at_thresh: 2.0
+    settle_steps: 5
+    should_enforce_target_within_reach: false
+    should_save_to_cache: false
+    slack_reward: -0.001
+    spawn_max_dists_to_obj: 2.0
+    spawn_region_scale: 0.2
+    success_measure: success
+    success_reward: 10.0
+    success_state: 0.0
+    task_spec: ''
+    task_spec_base_path: task/rearrange/pddl/
+    type: Goat-v1
+    use_marker_t: true
+habitat_baselines:
+  ablate_memory: false
+  checkpoint_folder: data/new_checkpoints
+  checkpoint_interval: -1
+  debug: false
+  eval:
+    evals_per_ep: 1
+    should_load_ckpt: true
+    split: ''
+    use_ckpt_config: false
+    video_option: []
+  eval_ckpt_path_dir: ''
+  eval_keys_to_include_in_name: []
+  force_blind_policy: false
+  force_torch_single_threaded: true
+  load_resume_state_config: false
+  log_file: train.log
+  log_interval: 10
+  num_checkpoints: 400
+  num_environments: 1
+  num_processes: -1
+  num_updates: 270000
+  profiling:
+    capture_start_step: -1
+    num_steps_to_capture: -1
+  rl:
+    auxiliary_losses: {}
+    ddppo:
+      backbone: resnet50_clip_avgpool
+      distrib_backend: NCCL
+      force_distributed: false
+      num_recurrent_layers: 2
+      pretrained: false
+      pretrained_encoder: false
+      pretrained_weights: data/ddppo-models/gibson-2plus-resnet50.pth
+      reset_critic: true
+      rnn_type: LSTM
+      sync_frac: 0.6
+      train_encoder: false
+    policy:
+      action_dist:
+        action_activation: tanh
+        clamp_std: true
+        log_std_init: 0.0
+        max_log_std: 2
+        max_std: 1
+        min_log_std: -5
+        min_std: 1.0e-06
+        scheduled_std: false
+        std_init: ???
+        use_log_std: true
+        use_softplus: false
+        use_std_param: false
+      action_distribution_type: categorical
+      add_clip_linear_projection: false
+      augmentations_name: jitter+shift
+      avgpooled_image: false
+      backbone: resnet50
+      clip_model: RN50
+      depth_ckpt: ''
+      drop_path_rate: 0.0
+      finetune:
+        enabled: false
+        lr: 1.5e-05
+        start_actor_update_at: 1500
+        start_actor_warmup_at: 750
+        start_critic_update_at: 1000
+        start_critic_warmup_at: 500
+      freeze_backbone: true
+      hierarchical_policy: ???
+      late_fusion: false
+      name: PointNavResnetCLIPPolicy
+      obs_transforms: {}
+      pretrained_encoder: data/visual_encoders/omnidata_DINO_02.pth
+      randomize_augmentations_over_envs: false
+      resnet_baseplanes: 32
+      rgb_image_size: 224
+      use_augmentations: true
+      use_augmentations_test_time: true
+    ppo:
+      clip_param: 0.2
+      entropy_coef: 0.01
+      entropy_target_factor: 0.0
+      eps: 1.0e-05
+      gamma: 0.99
+      hidden_size: 512
+      lr: 0.00025
+      max_grad_norm: 0.2
+      num_mini_batch: 2
+      num_steps: 64
+      ppo_epoch: 4
+      reward_window_size: 50
+      tau: 0.95
+      use_adaptive_entropy_pen: false
+      use_clipped_value_loss: true
+      use_double_buffered_sampler: false
+      use_gae: true
+      use_linear_clip_decay: false
+      use_linear_lr_decay: false
+      use_normalized_advantage: false
+      value_loss_coef: 0.5
+    preemption:
+      append_slurm_job_id: false
+      save_resume_state_interval: 100
+      save_state_batch_only: false
+    ver:
+      num_inference_workers: 2
+      overlap_rollouts_and_learn: false
+      variable_experience: true
+  should_load_agent_state: true
+  tensorboard_dir: ''
+  test_episode_count: -1
+  torch_gpu_id: 0
+  total_num_steps: -1.0
+  trainer_name: goat_ppo
+  verbose: true
+  video_dir: /videos
+  video_fps: 10
+  video_render_views: []
+  wb:
+    entity: ''
+    group: ''
+    project_name: ''
+    run_name: ''
+  writer_type: tb

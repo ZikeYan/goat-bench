@@ -124,7 +124,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--config",
         type=str,
-        default="goat-bench/config/tasks/instance_imagenav_stretch_hm3d.yaml",
+        default="config/tasks/instance_imagenav_stretch_hm3d.yaml",
     )
     parser.add_argument(
         "--input-path",

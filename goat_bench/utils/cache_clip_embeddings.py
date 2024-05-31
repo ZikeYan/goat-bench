@@ -237,7 +237,7 @@ def cache_language_goals(dataset_path, output_path, model):
     cache_embeddings(list(instructions), output_path, model)
 
 
-def cache_goat_goals(dataset_path, output_path, model, split):
+def cache_goat_goals(dataset_path, output_path, model, split, task_type="image_desc"):
     # if split !="":
     #     path = os.path.join(dataset_path, f"{split}/content/*json.gz")
     # else:
@@ -276,12 +276,15 @@ def cache_goat_goals(dataset_path, output_path, model, split):
     # print("First 3 words: {}".format(first_3_words))
     # write_txt(list(instructions), output_path + f"inst_{split}.txt")
     # os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    
-    with open(output_path + f"inst_{split}.txt", 'r') as file:
-        instructions = [line.strip() for line in file.readlines()]
-
+    if task_type=="lang":
+        with open(output_path + f"inst_{split}.txt", 'r') as file:
+            instructions = [line.strip() for line in file.readlines()]
+            cache_parsed_insts_spacy(list(instructions), output_path, split)
+    else:
+        img_descs = load_json(f"data/imagenav/{split}_image_goal.json")
+        cache_image_desc_spacy(img_descs, output_path, split)
     # cache_embeddings(list(instructions), output_path, model)
-    cache_parsed_insts_spacy(list(instructions), output_path, split)
+    
 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
 headers = {"Authorization": "Bearer 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"}
@@ -315,7 +318,23 @@ def cache_parsed_insts_spacy(instructions, output_path, split=None):
         }
     write_json(results, output_fname)
     
-
+def cache_image_desc_spacy(img_descs, output_path, split=None):
+    parser = TaskDescriptionParser()
+    if split != "":
+        output_fname = output_path + f"{split}_caption_parse_spacy.json"
+    else:
+        output_fname = output_path + "caption_parse_spacy.json"
+    results = {}
+    for k in img_descs.keys():
+        inst = img_descs[k]['image_caption']
+        target, adjectives, objects = parser.extract_objects_and_adjectives(inst)
+        results[k] = {
+            "target":target,
+            "adjs":adjectives,
+            "nearby":objects,
+            "caption":inst
+        }
+    write_json(results, output_fname)
 
 def cache_parsed_insts(instructions, output_path, split=None):
     if split != "":
@@ -338,20 +357,11 @@ def cache_parsed_insts(instructions, output_path, split=None):
     try:
         results = load_json(output_fname)
         fails = load_json(fail_fname)
-        cleaned = load_json(output_path + f"cleaned_{split}.json")
+        # cleaned = load_json(output_path + f"cleaned_{split}.json")
     except Exception as e:
         results = {}
         fails = {}
     max_try = 1
-    print(len(list(results.keys())+list(fails.keys())))
-    print(len(set(list(results.keys())+list(cleaned.keys()))))
-    cnt = 0
-    for k in fails.keys():
-        if k not in cleaned.keys():
-            cnt+=1
-            print(k)
-    print(cnt)
-    quit()
     for inst in sorted(instructions):
         inst = inst.strip()
         if inst in results.keys() or inst in fails.keys():

@@ -1,0 +1,7273 @@
+{
+    "4ok3usBNeis/1_freezer_2_24": {
+        "target": "dishwasher",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "floor"
+        ],
+        "caption": "a white dishwasher sitting on the floor"
+    },
+    "4ok3usBNeis/1_boiler_117_12": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "stove"
+        ],
+        "caption": "a white refrigerator sitting next to a white stove"
+    },
+    "4ok3usBNeis/2_freezer_2_55": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "4ok3usBNeis/2_carpet_68_83": {
+        "target": "rug",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "border",
+            "trim"
+        ],
+        "caption": "a red rug with gold trim and border"
+    },
+    "4ok3usBNeis/2_dresser_5_34": {
+        "target": "kitchen floor",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "rug"
+        ],
+        "caption": "a kitchen floor with a wooden dresser and a rug"
+    },
+    "4ok3usBNeis/3_dresser_486_88": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "door"
+        ],
+        "caption": "a room with a wooden door and a window"
+    },
+    "4ok3usBNeis/4_freezer_2_23": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a broken door and a broken door"
+    },
+    "4ok3usBNeis/4_refrigerator_4_15": {
+        "target": "refrigerator freezer",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator freezer"
+    },
+    "4ok3usBNeis/5_boiler_117_4": {
+        "target": "gas boiler",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a gas boiler in a room with a green wall"
+    },
+    "4ok3usBNeis/5_freezer_2_14": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall",
+            "kitchen"
+        ],
+        "caption": "a white refrigerator sitting in a kitchen next to a wall"
+    },
+    "4ok3usBNeis/5_freezer_2_17": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator sitting next to a white refrigerator"
+    },
+    "4ok3usBNeis/6_refrigerator_4_30": {
+        "target": "refrigerator freezer",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator freezer"
+    },
+    "4ok3usBNeis/6_carpet_68_48": {
+        "target": "rug",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "border"
+        ],
+        "caption": "a red rug with a gold border"
+    },
+    "4ok3usBNeis/6_carpet_68_239": {
+        "target": "rug",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "border"
+        ],
+        "caption": "a red rug with a gold border"
+    },
+    "4ok3usBNeis/6_carpet_68_38": {
+        "target": "rug",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "border"
+        ],
+        "caption": "a red rug with a white border"
+    },
+    "4ok3usBNeis/7_carpet_68_205": {
+        "target": "rug",
+        "adjs": [
+            "white",
+            "red"
+        ],
+        "nearby": [
+            "border"
+        ],
+        "caption": "a red and white rug with a gold border"
+    },
+    "4ok3usBNeis/7_freezer_3_16": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a refrigerator and a refrigerator in a room"
+    },
+    "4ok3usBNeis/8_boiler_117_0": {
+        "target": "gas furnace",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a gas furnace in a room with a wall"
+    },
+    "4ok3usBNeis/9_refrigerator_334_15": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a stove and a refrigerator"
+    },
+    "4ok3usBNeis/9_refrigerator_334_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and stove in it"
+    },
+    "5cdEh9F2hJL/0_mirror_30_35": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "wall"
+        ],
+        "caption": "a room with a wall and ceiling that has been torn off"
+    },
+    "5cdEh9F2hJL/0_refrigerator_288_45": {
+        "target": "wardrobe",
+        "adjs": [
+            "white",
+            "large"
+        ],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a large white wardrobe with a black door"
+    },
+    "5cdEh9F2hJL/1_mirror_30_27": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a toilet and a mirror"
+    },
+    "5cdEh9F2hJL/1_mirror_30_21": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "shower",
+            "toilet"
+        ],
+        "caption": "a bathroom with a toilet and a shower"
+    },
+    "5cdEh9F2hJL/2_refrigerator_288_27": {
+        "target": "kitchen door",
+        "adjs": [],
+        "nearby": [
+            "interior"
+        ],
+        "caption": "a kitchen door is being repaired and the interior is being stripped"
+    },
+    "5cdEh9F2hJL/2_hanging clothes_93_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "paint",
+            "paper"
+        ],
+        "caption": "a painting with a lot of paint and paper"
+    },
+    "5cdEh9F2hJL/3_carpet_270_17": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "chairs",
+            "couch coffee table"
+        ],
+        "caption": "a living room with a couch, coffee table and chairs"
+    },
+    "5cdEh9F2hJL/3_hanging clothes_134_0": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "paper",
+            "room",
+            "items"
+        ],
+        "caption": "a pile of paper and other items in a room"
+    },
+    "5cdEh9F2hJL/3_hanging clothes_93_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "paint",
+            "paper"
+        ],
+        "caption": "a painting with a lot of paint and paper"
+    },
+    "5cdEh9F2hJL/3_refrigerator_288_43": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "wall"
+        ],
+        "caption": "a room with a broken door and a wall"
+    },
+    "5cdEh9F2hJL/4_calendar_326_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "wall"
+        ],
+        "caption": "a room with a ceiling and a wall"
+    },
+    "5cdEh9F2hJL/4_refrigerator_288_16": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a broken refrigerator in a kitchen"
+    },
+    "5cdEh9F2hJL/5_carpet_270_42": {
+        "target": "couch",
+        "adjs": [
+            "large",
+            "sectional"
+        ],
+        "nearby": [],
+        "caption": "a large sectional couch with a large sectional couch"
+    },
+    "5cdEh9F2hJL/5_refrigerator_288_42": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "tornado",
+            "home",
+            "hallway"
+        ],
+        "caption": "a door is shown in the hallway of a home that was damaged by a tornado"
+    },
+    "5cdEh9F2hJL/6_hanging clothes_93_1": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "room",
+            "items"
+        ],
+        "caption": "a pile of clothes and other items in a room"
+    },
+    "5cdEh9F2hJL/6_refrigerator_288_19": {
+        "target": "fire",
+        "adjs": [],
+        "nearby": [
+            "house",
+            "monday",
+            "st louis",
+            "town",
+            "quebec",
+            "wall"
+        ],
+        "caption": "a fire damaged a wall in a house in the town of st louis, quebec, on monday"
+    },
+    "5cdEh9F2hJL/6_calendar_326_50": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "sign"
+        ],
+        "caption": "a door with a sign on it that says,'we are going to the door '"
+    },
+    "5cdEh9F2hJL/6_carpet_270_43": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "couch"
+        ],
+        "caption": "a large rug with a large couch and a large rug with a large rug"
+    },
+    "5cdEh9F2hJL/7_refrigerator_288_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "walls"
+        ],
+        "caption": "a room with white walls and a large window"
+    },
+    "5cdEh9F2hJL/8_calendar_31_0": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "ceiling"
+        ],
+        "caption": "a man is painting the ceiling in a bathroom"
+    },
+    "5cdEh9F2hJL/9_refrigerator_288_48": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "middle",
+            "hole"
+        ],
+        "caption": "a white door with a black hole in the middle"
+    },
+    "5cdEh9F2hJL/9_refrigerator_288_53": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "hole"
+        ],
+        "caption": "a kitchen with a hole in the wall"
+    },
+    "5cdEh9F2hJL/9_calendar_326_49": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "painting"
+        ],
+        "caption": "a white door with a painting on it"
+    },
+    "6s7QHgap2fW/0_book_66_14": {
+        "target": "bookcase",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a bookcase with many books on it"
+    },
+    "6s7QHgap2fW/0_radiator_209_38": {
+        "target": "ra rad rad rad rad rad rad rad rad",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a ra rad rad rad rad rad rad rad rad ra"
+    },
+    "6s7QHgap2fW/0_glass_610_24": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "middle",
+            "glass"
+        ],
+        "caption": "a window with a broken glass in the middle of a room"
+    },
+    "6s7QHgap2fW/0_radiator_36_20": {
+        "target": "rad rad rad rad rad rad rad rad rad",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a rad rad rad rad rad rad rad rad rad"
+    },
+    "6s7QHgap2fW/0_window glass_120_15": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a window that has been ripped and has been repaired"
+    },
+    "6s7QHgap2fW/1_plant_141_14": {
+        "target": "plant",
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "window",
+            "cup"
+        ],
+        "caption": "a small plant in a window with a cup"
+    },
+    "6s7QHgap2fW/2_plant_141_9": {
+        "target": "pot",
+        "adjs": [],
+        "nearby": [
+            "window sie",
+            "plants"
+        ],
+        "caption": "a pot of potted plants on a window sie"
+    },
+    "6s7QHgap2fW/2_book_64_31": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a shelf full of books"
+    },
+    "6s7QHgap2fW/2_glass_610_27": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "pane"
+        ],
+        "caption": "a window with a broken pane"
+    },
+    "6s7QHgap2fW/3_mirror_595_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "tile",
+            "mirror"
+        ],
+        "caption": "a bathroom with white tile and a mirror"
+    },
+    "6s7QHgap2fW/3_mirror_595_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "6s7QHgap2fW/3_parapet_242_31": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wood floors",
+            "window"
+        ],
+        "caption": "a room with wood floors and a window"
+    },
+    "6s7QHgap2fW/3_parapet_268_19": {
+        "target": "rad rad rad rad rad rad rad rad rad",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a rad rad rad rad rad rad rad rad rad"
+    },
+    "6s7QHgap2fW/4_parapet_268_17": {
+        "target": "vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent",
+        "adjs": [],
+        "nearby": [],
+        "caption": "vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent"
+    },
+    "6s7QHgap2fW/4_window glass_319_7": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "window pane"
+        ],
+        "caption": "a window with a window pane and a window pane"
+    },
+    "6s7QHgap2fW/5_glass_610_11": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "window"
+        ],
+        "caption": "a room with a window and a ceiling"
+    },
+    "6s7QHgap2fW/5_plant_141_12": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "flowers"
+        ],
+        "caption": "a window with a pot of flowers in it"
+    },
+    "6s7QHgap2fW/5_plant_141_4": {
+        "target": "pot",
+        "adjs": [],
+        "nearby": [
+            "window sie",
+            "plant"
+        ],
+        "caption": "a pot with a plant in it sitting on a window sie"
+    },
+    "6s7QHgap2fW/6_glass_610_37": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a window and a sink"
+    },
+    "6s7QHgap2fW/7_glass_610_18": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and window"
+    },
+    "6s7QHgap2fW/8_glass_610_5": {
+        "target": "kitchen sink",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen sink with a window and a sink"
+    },
+    "6s7QHgap2fW/9_plant_141_8": {
+        "target": "pot",
+        "adjs": [],
+        "nearby": [
+            "window sie",
+            "plants"
+        ],
+        "caption": "a pot of potted plants on a window sie"
+    },
+    "6s7QHgap2fW/9_plant_141_16": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "flowers",
+            "vase"
+        ],
+        "caption": "a window with a vase of flowers on it"
+    },
+    "6s7QHgap2fW/9_radiator_192_16": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "rad rad rad",
+            "rad",
+            "rad rad",
+            "ra"
+        ],
+        "caption": "a kitchen with a rad rad and a rad rad rad rad ra"
+    },
+    "6s7QHgap2fW/9_glass_610_48": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and window in it"
+    },
+    "6s7QHgap2fW/9_plant_141_3": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "window sie",
+            "flower"
+        ],
+        "caption": "a vase with a flower in it sitting on a window sie"
+    },
+    "7MXmsvcQjpJ/0_piano_1063_4": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "window",
+            "chair"
+        ],
+        "caption": "a piano in a room with a chair and a window"
+    },
+    "7MXmsvcQjpJ/0_flowerpot_764_3": {
+        "target": "metal sculpture",
+        "adjs": [],
+        "nearby": [
+            "plant"
+        ],
+        "caption": "a metal sculpture with a plant in it"
+    },
+    "7MXmsvcQjpJ/0_piano_1063_3": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "chair"
+        ],
+        "caption": "a piano in a room with a chair and a piano"
+    },
+    "7MXmsvcQjpJ/1_glass_1564_1": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "bottles",
+            "trash"
+        ],
+        "caption": "a ceiling with a lot of trash and bottles"
+    },
+    "7MXmsvcQjpJ/2_book_1057_19": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "books",
+            "room",
+            "ceiling"
+        ],
+        "caption": "a pile of books in a room with a ceiling"
+    },
+    "7MXmsvcQjpJ/3_book_112_3": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "ease"
+        ],
+        "caption": "a painting on a ease in a room"
+    },
+    "7MXmsvcQjpJ/4_glass_1564_1": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "bottles",
+            "trash"
+        ],
+        "caption": "a ceiling with a lot of trash and bottles"
+    },
+    "7MXmsvcQjpJ/4_glass_1564_0": {
+        "target": "pile",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "bottles"
+        ],
+        "caption": "a large pile of bottles in a room"
+    },
+    "7MXmsvcQjpJ/5_flowerpot_764_0": {
+        "target": "plant",
+        "adjs": [
+            "large",
+            "green"
+        ],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a large green plant in a pot on a wooden floor"
+    },
+    "7MXmsvcQjpJ/6_piano_1063_4": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "window",
+            "chair"
+        ],
+        "caption": "a piano in a room with a chair and a window"
+    },
+    "7MXmsvcQjpJ/6_piano_1063_3": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "chair"
+        ],
+        "caption": "a piano in a room with a chair and a piano"
+    },
+    "7MXmsvcQjpJ/8_refrigerator_1490_3": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "rubble",
+            "pile"
+        ],
+        "caption": "a white refrigerator sitting on top of a pile of rubble"
+    },
+    "7MXmsvcQjpJ/8_glass_1564_1": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "bottles",
+            "trash"
+        ],
+        "caption": "a ceiling with a lot of trash and bottles"
+    },
+    "7MXmsvcQjpJ/8_glass_1564_0": {
+        "target": "pile",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "bottles"
+        ],
+        "caption": "a large pile of bottles in a room"
+    },
+    "7MXmsvcQjpJ/8_refrigerator_1490_11": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "metal rack"
+        ],
+        "caption": "a white refrigerator sitting on top of a metal rack"
+    },
+    "7MXmsvcQjpJ/9_picture_163_13": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "wall",
+            "painting"
+        ],
+        "caption": "a room with a window and a painting on the wall"
+    },
+    "BAbdmeyTvMZ/0_rug_84_176": {
+        "target": "floor",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "stain"
+        ],
+        "caption": "a wooden floor with a brown stain on it"
+    },
+    "BAbdmeyTvMZ/0_picture_200_86": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "woman",
+            "wall"
+        ],
+        "caption": "a picture of a woman is hanging on the wall"
+    },
+    "BAbdmeyTvMZ/0_handrail_236_0": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [
+            "staircase"
+        ],
+        "caption": "a stone wall with a staircase leading up to it"
+    },
+    "BAbdmeyTvMZ/1_refrigerator_307_13": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "BAbdmeyTvMZ/1_picture_200_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "BAbdmeyTvMZ/1_rug_108_212": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "flooring"
+        ],
+        "caption": "a bedroom with hardwood flooring and a rug"
+    },
+    "BAbdmeyTvMZ/1_picture_63_55": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "BAbdmeyTvMZ/1_rug_84_261": {
+        "target": "floor",
+        "adjs": [
+            "hardwood"
+        ],
+        "nearby": [
+            "wood",
+            "pieces"
+        ],
+        "caption": "a hardwood floor with a few pieces of wood"
+    },
+    "BAbdmeyTvMZ/2_handrail_236_72": {
+        "target": "fire place",
+        "adjs": [],
+        "nearby": [
+            "house"
+        ],
+        "caption": "a fire place in a house"
+    },
+    "BAbdmeyTvMZ/2_picture_200_56": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "room",
+            "man"
+        ],
+        "caption": "a picture of a man in a room with a window"
+    },
+    "BAbdmeyTvMZ/2_handrail_236_57": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "stone wall"
+        ],
+        "caption": "a room with a fireplace and a stone wall"
+    },
+    "BAbdmeyTvMZ/3_refrigerator_307_20": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a stove"
+    },
+    "BAbdmeyTvMZ/3_picture_200_36": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall of a room"
+    },
+    "BAbdmeyTvMZ/3_refrigerator_307_10": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "BAbdmeyTvMZ/3_refrigerator_307_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a large refrigerator and a small refrigerator"
+    },
+    "BAbdmeyTvMZ/4_mirror_147_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a toilet and a mirror"
+    },
+    "BAbdmeyTvMZ/4_hanging clothes_141_3": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "coat"
+        ],
+        "caption": "a painting of a coat hanging on a wall"
+    },
+    "BAbdmeyTvMZ/5_rug_108_173": {
+        "target": "rug",
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "bedroom",
+            "chair"
+        ],
+        "caption": "a rug in a bedroom with a bed and a chair"
+    },
+    "BAbdmeyTvMZ/6_mirror_147_13": {
+        "target": "bathroom",
+        "adjs": [
+            "additional"
+        ],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "additional bathroom with toilet"
+    },
+    "BAbdmeyTvMZ/7_handrail_236_10": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "wall"
+        ],
+        "caption": "a room with a door and a wall"
+    },
+    "BAbdmeyTvMZ/8_rug_108_31": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug"
+        ],
+        "caption": "a bed with a rug on it"
+    },
+    "BAbdmeyTvMZ/8_handrail_236_65": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stone wall"
+    },
+    "BAbdmeyTvMZ/9_picture_200_30": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "woman",
+            "dress"
+        ],
+        "caption": "a painting of a woman in a dress"
+    },
+    "CrMo8WxCyVb/0_refrigerator_374_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a stainless refrigerator with a door open in a kitchen"
+    },
+    "CrMo8WxCyVb/0_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/0_picture_547_6": {
+        "target": "painting",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a large painting hangs on the wall in a room"
+    },
+    "CrMo8WxCyVb/1_picture_543_4": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall next to a door"
+    },
+    "CrMo8WxCyVb/1_picture_382_11": {
+        "target": "pictures",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "three framed pictures hanging on the wall"
+    },
+    "CrMo8WxCyVb/1_refrigerator_374_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a stainless refrigerator with a door open in a kitchen"
+    },
+    "CrMo8WxCyVb/3_mirror_86_2": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a mirror and a painting on the wall"
+    },
+    "CrMo8WxCyVb/4_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/4_refrigerator_374_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a stainless refrigerator with a door open in a kitchen"
+    },
+    "CrMo8WxCyVb/5_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/6_refrigerator_374_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a stainless refrigerator with a door open in a kitchen"
+    },
+    "CrMo8WxCyVb/6_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/7_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/8_refrigerator_374_1": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "CrMo8WxCyVb/9_picture_453_7": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "home",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a home"
+    },
+    "CrMo8WxCyVb/9_refrigerator_374_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a stainless refrigerator with a door open in a kitchen"
+    },
+    "DYehNKdT76V/0_microwave_238_51": {
+        "target": "view",
+        "adjs": [],
+        "nearby": [
+            "house",
+            "inside"
+        ],
+        "caption": "a view of the inside of a house"
+    },
+    "DYehNKdT76V/1_island_223_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/1_microwave_238_1": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "floor"
+        ],
+        "caption": "a room with a large window and a wooden floor"
+    },
+    "DYehNKdT76V/1_microwave_238_7": {
+        "target": "glass window",
+        "adjs": [],
+        "nearby": [
+            "building",
+            "reflection"
+        ],
+        "caption": "a glass window with a reflection of a building"
+    },
+    "DYehNKdT76V/1_island_223_10": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/2_microwave_238_28": {
+        "target": "microwave oven",
+        "adjs": [],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a microwave oven with a microwave inside of it"
+    },
+    "DYehNKdT76V/2_island_223_11": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "counter"
+        ],
+        "caption": "a kitchen with a counter and a sink"
+    },
+    "DYehNKdT76V/2_microwave_238_26": {
+        "target": "kitchen stove",
+        "adjs": [],
+        "nearby": [
+            "glass top"
+        ],
+        "caption": "a kitchen stove with a glass top"
+    },
+    "DYehNKdT76V/3_island_223_2": {
+        "target": "coffee table",
+        "adjs": [],
+        "nearby": [
+            "house"
+        ],
+        "caption": "a damaged coffee table in a house"
+    },
+    "DYehNKdT76V/3_microwave_238_27": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a microwave"
+    },
+    "DYehNKdT76V/3_microwave_238_7": {
+        "target": "glass window",
+        "adjs": [],
+        "nearby": [
+            "building",
+            "reflection"
+        ],
+        "caption": "a glass window with a reflection of a building"
+    },
+    "DYehNKdT76V/4_microwave_238_48": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a window"
+    },
+    "DYehNKdT76V/4_island_223_10": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/4_island_223_8": {
+        "target": "table",
+        "adjs": [
+            "black",
+            "large"
+        ],
+        "nearby": [
+            "top"
+        ],
+        "caption": "a large black table with a wooden top"
+    },
+    "DYehNKdT76V/4_island_223_13": {
+        "target": "chest",
+        "adjs": [
+            "wooden",
+            "large"
+        ],
+        "nearby": [
+            "metal top"
+        ],
+        "caption": "a large wooden chest with a metal top"
+    },
+    "DYehNKdT76V/5_island_223_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/5_island_223_11": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "counter"
+        ],
+        "caption": "a kitchen with a counter and a sink"
+    },
+    "DYehNKdT76V/5_island_223_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/6_microwave_238_7": {
+        "target": "glass window",
+        "adjs": [],
+        "nearby": [
+            "building",
+            "reflection"
+        ],
+        "caption": "a glass window with a reflection of a building"
+    },
+    "DYehNKdT76V/7_island_223_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/8_island_223_10": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "DYehNKdT76V/8_island_223_0": {
+        "target": "kitchen counter",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a kitchen counter being installed in a kitchen"
+    },
+    "DYehNKdT76V/8_microwave_238_9": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "floor"
+        ],
+        "caption": "a room with a large window and a wooden floor"
+    },
+    "DYehNKdT76V/8_island_223_4": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "chairs",
+            "room",
+            "wall"
+        ],
+        "caption": "a table and chairs in a room with a wall"
+    },
+    "DYehNKdT76V/9_microwave_238_45": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a window with a broken glass in it"
+    },
+    "DYehNKdT76V/9_microwave_238_63": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "DYehNKdT76V/9_island_223_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a counter"
+    },
+    "Dd4bFSTQ8gi/0_rug_7_189": {
+        "target": "rug",
+        "adjs": [
+            "large",
+            "grey"
+        ],
+        "nearby": [],
+        "caption": "a large grey rug with a large grey rug"
+    },
+    "Dd4bFSTQ8gi/0_refrigerator_179_37": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink",
+            "kitchen"
+        ],
+        "caption": "a white refrigerator sitting in a kitchen next to a sink"
+    },
+    "Dd4bFSTQ8gi/0_flower vase_209_4": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "house"
+        ],
+        "caption": "a broken window in a house"
+    },
+    "Dd4bFSTQ8gi/4_mirror_73_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall above a couch"
+    },
+    "Dd4bFSTQ8gi/4_flowerpot_137_36": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "table"
+        ],
+        "caption": "a room with a table and a mirror"
+    },
+    "Dd4bFSTQ8gi/5_flowerpot_137_35": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting",
+            "chair"
+        ],
+        "caption": "a room with a red chair and a painting on the wall"
+    },
+    "Dd4bFSTQ8gi/5_rug_7_179": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch chair coffee table"
+        ],
+        "caption": "a living room with a couch, chair and coffee table"
+    },
+    "Dd4bFSTQ8gi/5_flowerpot_137_36": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "table"
+        ],
+        "caption": "a room with a table and a mirror"
+    },
+    "Dd4bFSTQ8gi/6_rug_7_175": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch and a coffee table"
+    },
+    "Dd4bFSTQ8gi/6_refrigerator_179_22": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "window",
+            "kitchen"
+        ],
+        "caption": "a white refrigerator sitting in a kitchen next to a window"
+    },
+    "Dd4bFSTQ8gi/6_rug_7_150": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "fireplace",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch, a coffee table and a fireplace"
+    },
+    "Dd4bFSTQ8gi/7_refrigerator_179_49": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "kitchen"
+        ],
+        "caption": "a refrigerator that is sitting in the middle of a kitchen"
+    },
+    "Dd4bFSTQ8gi/8_flower vase_21_5": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on the floor"
+    },
+    "Dd4bFSTQ8gi/8_rug_175_115": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "couch coffee table"
+        ],
+        "caption": "a living room with a couch, coffee table and a couch"
+    },
+    "Dd4bFSTQ8gi/8_flower vase_209_4": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "house"
+        ],
+        "caption": "a broken window in a house"
+    },
+    "Dd4bFSTQ8gi/8_flowerpot_90_5": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "basket",
+            "plant"
+        ],
+        "caption": "a painting of a plant in a basket"
+    },
+    "Dd4bFSTQ8gi/9_flower vase_21_1": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "plant"
+        ],
+        "caption": "a vase with a plant in it on a wooden floor"
+    },
+    "Dd4bFSTQ8gi/9_mirror_73_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall above a couch"
+    },
+    "Dd4bFSTQ8gi/9_refrigerator_179_13": {
+        "target": "refrigerator freezer",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "floor"
+        ],
+        "caption": "a white refrigerator freezer sitting on a wooden floor"
+    },
+    "GLAQ4DNUx5U/0_dresser_775_2": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "animals"
+        ],
+        "caption": "a white dresser with stuffed animals on top"
+    },
+    "GLAQ4DNUx5U/0_picture_538_31": {
+        "target": "tray",
+        "adjs": [
+            "small",
+            "wooden"
+        ],
+        "nearby": [
+            "picture"
+        ],
+        "caption": "a small wooden tray with a picture on it"
+    },
+    "GLAQ4DNUx5U/1_picture_538_19": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting on the wall of a room"
+    },
+    "GLAQ4DNUx5U/1_mirror_714_38": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "GLAQ4DNUx5U/1_book_585_10": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "box",
+            "hole"
+        ],
+        "caption": "a painting of a square box with a hole in it"
+    },
+    "GLAQ4DNUx5U/2_dresser_775_10": {
+        "target": "animal",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "dresser"
+        ],
+        "caption": "a stuffed animal sitting on top of a dresser"
+    },
+    "GLAQ4DNUx5U/2_picture_538_23": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a picture of a painting on a wall"
+    },
+    "GLAQ4DNUx5U/2_book_585_21": {
+        "target": "bookcase",
+        "adjs": [],
+        "nearby": [
+            "books",
+            "top"
+        ],
+        "caption": "a bookcase with books stacked on top"
+    },
+    "GLAQ4DNUx5U/2_mirror_551_15": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "trash"
+        ],
+        "caption": "a white door with a black trash can"
+    },
+    "GLAQ4DNUx5U/4_mirror_743_47": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a toilet and a mirror"
+    },
+    "GLAQ4DNUx5U/4_picture_538_29": {
+        "target": "tray",
+        "adjs": [
+            "small",
+            "wooden"
+        ],
+        "nearby": [
+            "picture"
+        ],
+        "caption": "a small wooden tray with a picture on it"
+    },
+    "GLAQ4DNUx5U/4_book_580_23": {
+        "target": "book shelf",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a book shelf with books on it"
+    },
+    "GLAQ4DNUx5U/4_picture_538_50": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "GLAQ4DNUx5U/6_dresser_775_0": {
+        "target": "animal",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "cabinet"
+        ],
+        "caption": "a stuffed animal sitting on top of a wooden cabinet"
+    },
+    "GLAQ4DNUx5U/7_dresser_775_19": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "clothes",
+            "basket"
+        ],
+        "caption": "a white dresser with a basket of clothes on top"
+    },
+    "GLAQ4DNUx5U/7_picture_538_39": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a framed hanging on the wall in a room"
+    },
+    "GLAQ4DNUx5U/7_book_580_9": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "books",
+            "floor"
+        ],
+        "caption": "a pile of books on a wooden floor"
+    },
+    "GLAQ4DNUx5U/8_mirror_488_10": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bed"
+        ],
+        "caption": "a bedroom with a large mirror and a bed"
+    },
+    "GLAQ4DNUx5U/8_book_585_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bookcase",
+            "chair"
+        ],
+        "caption": "a room with a bookcase and a chair"
+    },
+    "GLAQ4DNUx5U/8_mirror_488_12": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a mirror"
+    },
+    "GLAQ4DNUx5U/9_dresser_775_2": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "animals"
+        ],
+        "caption": "a white dresser with stuffed animals on top"
+    },
+    "HY1NcmCgn3n/0_statue_308_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "animals"
+        ],
+        "caption": "a room with a bunch of dead animals"
+    },
+    "HY1NcmCgn3n/0_picture_119_26": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "painting"
+        ],
+        "caption": "a ceiling with a painting hanging on it"
+    },
+    "HY1NcmCgn3n/1_statue_308_36": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "sculpture",
+            "dog",
+            "man"
+        ],
+        "caption": "a room with a sculpture of a man and a dog"
+    },
+    "HY1NcmCgn3n/1_picture_36_105": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "display",
+            "paintings",
+            "museum"
+        ],
+        "caption": "a man looking at paintings on display in a museum"
+    },
+    "HY1NcmCgn3n/2_picture_8_103": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "paintings",
+            "wall",
+            "chair"
+        ],
+        "caption": "a room with paintings on the wall and a chair"
+    },
+    "HY1NcmCgn3n/3_statue_308_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "animals"
+        ],
+        "caption": "a room with a bunch of dead animals"
+    },
+    "HY1NcmCgn3n/3_picture_438_34": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting on a wall in a room"
+    },
+    "HY1NcmCgn3n/3_statue_308_35": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "man",
+            "chair"
+        ],
+        "caption": "a sculpture of a man sitting on a chair"
+    },
+    "HY1NcmCgn3n/3_picture_3_25": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "woman face",
+            "corner"
+        ],
+        "caption": "a painting of a woman's face is shown in the corner of a room"
+    },
+    "HY1NcmCgn3n/4_picture_240_64": {
+        "target": "painting",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a large painting on a wall in a room"
+    },
+    "HY1NcmCgn3n/5_picture_3_101": {
+        "target": "statue",
+        "adjs": [],
+        "nearby": [
+            "woman",
+            "wall",
+            "room",
+            "painting"
+        ],
+        "caption": "a statue of a woman in a room with a painting on the wall"
+    },
+    "HY1NcmCgn3n/5_picture_36_57": {
+        "target": "hallway",
+        "adjs": [],
+        "nearby": [
+            "walls",
+            "paintings",
+            "pictures"
+        ],
+        "caption": "a hallway with paintings and pictures on the walls"
+    },
+    "HY1NcmCgn3n/6_picture_438_9": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "paintings",
+            "wall"
+        ],
+        "caption": "a room with paintings hanging on the wall"
+    },
+    "HY1NcmCgn3n/6_statue_308_24": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "man",
+            "chair"
+        ],
+        "caption": "a sculpture of a man sitting on a chair"
+    },
+    "HY1NcmCgn3n/7_statue_308_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "animals"
+        ],
+        "caption": "a room with a bunch of dead animals"
+    },
+    "HY1NcmCgn3n/7_statue_308_8": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "animals"
+        ],
+        "caption": "a room with a bunch of dead animals"
+    },
+    "HY1NcmCgn3n/8_picture_441_38": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "wall"
+        ],
+        "caption": "a man is painting a picture on a wall"
+    },
+    "HY1NcmCgn3n/8_statue_308_15": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "man",
+            "hat"
+        ],
+        "caption": "a sculpture of a man with a hat on"
+    },
+    "HY1NcmCgn3n/8_picture_441_0": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "paint roller"
+        ],
+        "caption": "a man is painting on a wall with a paint roller"
+    },
+    "HY1NcmCgn3n/8_statue_308_24": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "man",
+            "chair"
+        ],
+        "caption": "a sculpture of a man sitting on a chair"
+    },
+    "HY1NcmCgn3n/9_statue_308_27": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "man",
+            "table"
+        ],
+        "caption": "a sculpture of a man sitting on a table"
+    },
+    "LT9Jq6dN3Ea/1_flower vase_592_20": {
+        "target": "white console console console console console console console console console console console console console console console",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black and white console console console console console console console console console console console console console console console"
+    },
+    "LT9Jq6dN3Ea/1_picture_703_5": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "wall",
+            "painting"
+        ],
+        "caption": "a bathroom with a toilet and a painting on the wall"
+    },
+    "LT9Jq6dN3Ea/2_rug_105_10": {
+        "target": "rug",
+        "adjs": [],
+        "nearby": [
+            "pattern"
+        ],
+        "caption": "a rug with a white and beige pattern"
+    },
+    "LT9Jq6dN3Ea/2_rug_105_6": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "carpet",
+            "pile"
+        ],
+        "caption": "a large rug with a large pile of carpet"
+    },
+    "LT9Jq6dN3Ea/2_picture_51_3": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "marble countertop",
+            "marble counter top"
+        ],
+        "caption": "a bathroom with a marble counter top and a white marble countertop"
+    },
+    "LT9Jq6dN3Ea/3_rug_105_2": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "floor",
+            "herring pattern"
+        ],
+        "caption": "a large rug with a herring pattern on the floor"
+    },
+    "LT9Jq6dN3Ea/3_rug_105_12": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "fringe fringe"
+        ],
+        "caption": "a large rug with a large fringe fringe"
+    },
+    "LT9Jq6dN3Ea/3_rug_62_9": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "rug",
+            "cow"
+        ],
+        "caption": "a round table with a cow hide rug"
+    },
+    "LT9Jq6dN3Ea/3_rug_62_11": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "cow"
+        ],
+        "caption": "a table with a white and black spotted cow hide rug"
+    },
+    "LT9Jq6dN3Ea/4_refrigerator_416_43": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "steel appliances",
+            "cabinets"
+        ],
+        "caption": "a kitchen with stainless steel appliances and white cabinets"
+    },
+    "LT9Jq6dN3Ea/4_picture_201_15": {
+        "target": "piece",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "paint",
+            "wall"
+        ],
+        "caption": "a large piece of white paint is being applied on the wall"
+    },
+    "LT9Jq6dN3Ea/4_refrigerator_417_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a stainless refrigerator and a wooden floor"
+    },
+    "LT9Jq6dN3Ea/4_refrigerator_416_10": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stainless steel refrigerator in a kitchen"
+    },
+    "LT9Jq6dN3Ea/5_refrigerator_416_51": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a counter"
+    },
+    "LT9Jq6dN3Ea/7_flower vase_592_10": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "bench"
+        ],
+        "caption": "a mirror and a bench in a room"
+    },
+    "LT9Jq6dN3Ea/7_picture_661_5": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a framed picture"
+    },
+    "LT9Jq6dN3Ea/7_mirror_979_8": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bed"
+        ],
+        "caption": "a room with a bed and a mirror"
+    },
+    "LT9Jq6dN3Ea/7_flower vase_592_24": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "console",
+            "hallway"
+        ],
+        "caption": "a mirror and a console in a hallway"
+    },
+    "LT9Jq6dN3Ea/8_refrigerator_416_9": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wood floors",
+            "cabinets"
+        ],
+        "caption": "a kitchen with white cabinets and wood floors"
+    },
+    "LT9Jq6dN3Ea/8_refrigerator_417_35": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with white cabinets and a stainless refrigerator"
+    },
+    "LT9Jq6dN3Ea/9_picture_290_19": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "LT9Jq6dN3Ea/9_refrigerator_417_8": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "steel appliances",
+            "cabinets"
+        ],
+        "caption": "a kitchen with stainless steel appliances and white cabinets"
+    },
+    "MHPLjHsuG27/0_mirror_162_90": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "painting"
+        ],
+        "caption": "a wall with a mirror and a painting on it"
+    },
+    "MHPLjHsuG27/0_mirror_162_3": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror is being installed in the wall"
+    },
+    "MHPLjHsuG27/0_mirror_75_9": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror is on the wall in a room"
+    },
+    "MHPLjHsuG27/1_mirror_75_9": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror is on the wall in a room"
+    },
+    "MHPLjHsuG27/1_mirror_162_8": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a mirror with a hole in it"
+    },
+    "MHPLjHsuG27/2_parapet_380_13": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a broken window with a broken glass"
+    },
+    "MHPLjHsuG27/2_parapet_380_8": {
+        "target": "rad",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "base"
+        ],
+        "caption": "a white rad with a white base and a white base"
+    },
+    "MHPLjHsuG27/3_mirror_75_7": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror is on the wall in a room"
+    },
+    "MHPLjHsuG27/3_mirror_162_81": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "mirror"
+        ],
+        "caption": "a room with a wooden door and a mirror"
+    },
+    "MHPLjHsuG27/4_parapet_380_12": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a white dresser with a broken mirror"
+    },
+    "MHPLjHsuG27/5_parapet_380_4": {
+        "target": "radia",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "white",
+            "middle"
+        ],
+        "caption": "a white radia with a white radia in the middle of the radia is a white"
+    },
+    "MHPLjHsuG27/5_parapet_380_6": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "floor"
+        ],
+        "caption": "a man is standing on the floor in front of a window"
+    },
+    "MHPLjHsuG27/6_mirror_162_79": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "rad",
+            "mirror"
+        ],
+        "caption": "a white wall with a mirror and a rad rad"
+    },
+    "MHPLjHsuG27/6_mirror_75_7": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror is on the wall in a room"
+    },
+    "MHPLjHsuG27/7_mirror_75_8": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror on the wall"
+    },
+    "MHPLjHsuG27/7_mirror_162_42": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "walls"
+        ],
+        "caption": "a room with a lot of white walls and a lot of white walls"
+    },
+    "MHPLjHsuG27/8_mirror_75_6": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "room"
+        ],
+        "caption": "a mirror and a dresser in a room"
+    },
+    "MHPLjHsuG27/9_parapet_380_15": {
+        "target": "ra rad rad rad rad rad rad rad rad",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a ra rad rad rad rad rad rad rad rad ra"
+    },
+    "MHPLjHsuG27/9_parapet_380_5": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a broken window with a broken glass"
+    },
+    "MHPLjHsuG27/9_parapet_380_13": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a broken window with a broken glass"
+    },
+    "MHPLjHsuG27/9_parapet_380_1": {
+        "target": "radia",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "bunch",
+            "flowers"
+        ],
+        "caption": "a white radia with a bunch of flowers on top"
+    },
+    "MHPLjHsuG27/9_parapet_380_10": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a broken window with a broken glass"
+    },
+    "Nfvxx8J5NCo/0_microwave_45_29": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and microwave in it"
+    },
+    "Nfvxx8J5NCo/0_mirror_258_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "Nfvxx8J5NCo/0_refrigerator_55_3": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a door that has been torn off"
+    },
+    "Nfvxx8J5NCo/0_microwave_45_5": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "cabinets"
+        ],
+        "caption": "a kitchen with a microwave and cabinets"
+    },
+    "Nfvxx8J5NCo/1_refrigerator_55_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a broken door in the kitchen"
+    },
+    "Nfvxx8J5NCo/1_refrigerator_55_11": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator and a refrigerator in a kitchen"
+    },
+    "Nfvxx8J5NCo/1_refrigerator_55_17": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "kitchen",
+            "damage"
+        ],
+        "caption": "a refrigerator with a lot of damage in the kitchen"
+    },
+    "Nfvxx8J5NCo/2_microwave_45_12": {
+        "target": "microwave",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "kitchen"
+        ],
+        "caption": "a microwave and oven are damaged in a kitchen"
+    },
+    "Nfvxx8J5NCo/3_refrigerator_55_15": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "kitchen",
+            "damage"
+        ],
+        "caption": "a refrigerator with a lot of damage in the kitchen"
+    },
+    "Nfvxx8J5NCo/3_mirror_258_13": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "Nfvxx8J5NCo/4_refrigerator_55_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "wall"
+        ],
+        "caption": "a kitchen with a blue wall and a white counter"
+    },
+    "Nfvxx8J5NCo/5_microwave_45_1": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv is being torn off by a wall"
+    },
+    "Nfvxx8J5NCo/5_microwave_45_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "Nfvxx8J5NCo/6_refrigerator_55_17": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "kitchen",
+            "damage"
+        ],
+        "caption": "a refrigerator with a lot of damage in the kitchen"
+    },
+    "Nfvxx8J5NCo/6_refrigerator_55_10": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "paint"
+        ],
+        "caption": "a refrigerator with a lot of paint on it"
+    },
+    "Nfvxx8J5NCo/7_microwave_45_12": {
+        "target": "microwave",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "kitchen"
+        ],
+        "caption": "a microwave and oven are damaged in a kitchen"
+    },
+    "Nfvxx8J5NCo/7_microwave_45_11": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and cabinets"
+    },
+    "Nfvxx8J5NCo/7_mirror_258_4": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "Nfvxx8J5NCo/8_mirror_246_5": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a window with a broken glass"
+    },
+    "Nfvxx8J5NCo/8_mirror_246_23": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "glass"
+        ],
+        "caption": "a window with a broken glass in the middle of it"
+    },
+    "Nfvxx8J5NCo/9_refrigerator_55_16": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a broken door in a kitchen"
+    },
+    "Nfvxx8J5NCo/9_refrigerator_55_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a broken door in the kitchen"
+    },
+    "Nfvxx8J5NCo/9_refrigerator_55_12": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "lot",
+            "kitchen",
+            "damage"
+        ],
+        "caption": "a refrigerator in a kitchen with a lot of damage"
+    },
+    "QaLdnwvtxbs/1_mirror_82_4": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "bed"
+        ],
+        "caption": "a mirror in a room with a bed and a mirror"
+    },
+    "QaLdnwvtxbs/1_picture_153_103": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "paintings"
+        ],
+        "caption": "a wall with paintings hanging on it"
+    },
+    "QaLdnwvtxbs/1_picture_95_6": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a bathroom"
+    },
+    "QaLdnwvtxbs/2_mirror_107_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "QaLdnwvtxbs/2_picture_153_7": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "QaLdnwvtxbs/2_mirror_82_2": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "light"
+        ],
+        "caption": "a mirror in a bathroom with a light on"
+    },
+    "QaLdnwvtxbs/3_mirror_107_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "QaLdnwvtxbs/3_mirror_82_2": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "light"
+        ],
+        "caption": "a mirror in a bathroom with a light on"
+    },
+    "QaLdnwvtxbs/4_mirror_107_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "QaLdnwvtxbs/4_picture_150_60": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "QaLdnwvtxbs/5_picture_151_78": {
+        "target": "set",
+        "adjs": [],
+        "nearby": [
+            "silver",
+            "paintings"
+        ],
+        "caption": "a set of four abstract paintings in silver and blue"
+    },
+    "QaLdnwvtxbs/5_picture_150_1": {
+        "target": "painting",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a large painting hanging on the wall in a room"
+    },
+    "QaLdnwvtxbs/5_mirror_82_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "QaLdnwvtxbs/5_picture_150_84": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "paintings"
+        ],
+        "caption": "a wall with four paintings hanging on it"
+    },
+    "QaLdnwvtxbs/5_picture_153_91": {
+        "target": "paintings",
+        "adjs": [],
+        "nearby": [
+            "table cloth",
+            "table"
+        ],
+        "caption": "four paintings on a table with a white table cloth"
+    },
+    "QaLdnwvtxbs/5_picture_95_2": {
+        "target": "hallway",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "wall"
+        ],
+        "caption": "a hallway with a framed picture hanging on the wall"
+    },
+    "QaLdnwvtxbs/6_picture_150_74": {
+        "target": "paintings",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "three paintings hanging on the wall"
+    },
+    "QaLdnwvtxbs/7_mirror_82_7": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "QaLdnwvtxbs/7_picture_150_10": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall"
+    },
+    "QaLdnwvtxbs/8_picture_95_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "bed"
+        ],
+        "caption": "a room with a bed and a window"
+    },
+    "QaLdnwvtxbs/8_mirror_241_22": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "QaLdnwvtxbs/8_picture_153_1": {
+        "target": "hallway",
+        "adjs": [],
+        "nearby": [
+            "paintings",
+            "wall"
+        ],
+        "caption": "a hallway with paintings on the wall"
+    },
+    "QaLdnwvtxbs/9_mirror_82_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "QaLdnwvtxbs/9_mirror_241_30": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "TEEsavR23oF/1_pillow_608_1": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "ceiling"
+        ],
+        "caption": "a room with clothes hanging from the ceiling"
+    },
+    "TEEsavR23oF/1_pillow_608_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "ceiling",
+            "clothes"
+        ],
+        "caption": "a bed with a bunch of clothes hanging from the ceiling"
+    },
+    "TEEsavR23oF/2_refrigerator_323_0": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "sink",
+            "kitchen"
+        ],
+        "caption": "a painting of a kitchen with a sink and a stove"
+    },
+    "TEEsavR23oF/2_pillow_608_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "ceiling",
+            "clothes"
+        ],
+        "caption": "a bed with a bunch of clothes hanging from the ceiling"
+    },
+    "TEEsavR23oF/3_dresser_480_4": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a dresser"
+    },
+    "TEEsavR23oF/3_refrigerator_323_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator that has been torn off in the kitchen"
+    },
+    "TEEsavR23oF/4_microwave_345_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and microwave in it"
+    },
+    "TEEsavR23oF/5_microwave_345_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and microwave in it"
+    },
+    "TEEsavR23oF/6_microwave_345_5": {
+        "target": "microwave oven",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "kitchen"
+        ],
+        "caption": "a microwave oven is in the middle of a kitchen"
+    },
+    "TEEsavR23oF/6_mirror_577_5": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "TEEsavR23oF/7_pillow_608_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "ceiling",
+            "clothes"
+        ],
+        "caption": "a bed with a bunch of clothes hanging from the ceiling"
+    },
+    "TEEsavR23oF/8_microwave_345_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and microwave in it"
+    },
+    "TEEsavR23oF/9_refrigerator_323_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator that has been torn off in the kitchen"
+    },
+    "TEEsavR23oF/9_pillow_608_1": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "ceiling"
+        ],
+        "caption": "a room with clothes hanging from the ceiling"
+    },
+    "TEEsavR23oF/9_microwave_345_16": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "VBzV5z6i1WS/0_plant_551_7": {
+        "target": "tree",
+        "adjs": [],
+        "nearby": [
+            "home",
+            "living room",
+            "hurricane damage"
+        ],
+        "caption": "a tree is seen in the living room of a home damaged by hurricane damage"
+    },
+    "VBzV5z6i1WS/0_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/0_mirror_231_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling"
+        ],
+        "caption": "a room with a ceiling and a ceiling light"
+    },
+    "VBzV5z6i1WS/0_dresser_44_5": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "dresser"
+        ],
+        "caption": "a tv is sitting on top of a dresser"
+    },
+    "VBzV5z6i1WS/0_picture_577_17": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a white door with a painting hanging on the wall"
+    },
+    "VBzV5z6i1WS/1_mirror_311_10": {
+        "target": "mirror",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "middle"
+        ],
+        "caption": "a large mirror in the middle of a room"
+    },
+    "VBzV5z6i1WS/1_picture_258_36": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bunch",
+            "flowers"
+        ],
+        "caption": "a white wall with a bunch of flowers on it"
+    },
+    "VBzV5z6i1WS/1_dresser_44_7": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "television"
+        ],
+        "caption": "a white dresser with a television on top"
+    },
+    "VBzV5z6i1WS/3_dresser_798_2": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a wooden door"
+    },
+    "VBzV5z6i1WS/3_dresser_798_1": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "drawer"
+        ],
+        "caption": "a dresser with a broken drawer and a broken drawer"
+    },
+    "VBzV5z6i1WS/3_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/3_dresser_703_0": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "chair"
+        ],
+        "caption": "a bedroom with a chair and a dresser"
+    },
+    "VBzV5z6i1WS/4_plant_314_2": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "mirror"
+        ],
+        "caption": "a plant in a room with a mirror"
+    },
+    "VBzV5z6i1WS/4_plant_551_5": {
+        "target": "tree",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "room",
+            "lamp"
+        ],
+        "caption": "a tree in a room with a lamp on top"
+    },
+    "VBzV5z6i1WS/4_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/4_dresser_703_0": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "chair"
+        ],
+        "caption": "a bedroom with a chair and a dresser"
+    },
+    "VBzV5z6i1WS/5_picture_574_11": {
+        "target": "bathroom",
+        "adjs": [
+            "additional"
+        ],
+        "nearby": [
+            "flowers"
+        ],
+        "caption": "additional bathroom with a framed of flowers"
+    },
+    "VBzV5z6i1WS/6_dresser_798_4": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a dresser"
+    },
+    "VBzV5z6i1WS/6_picture_260_35": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "wall"
+        ],
+        "caption": "a painting on the wall next to a lamp"
+    },
+    "VBzV5z6i1WS/6_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/6_picture_577_17": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a white door with a painting hanging on the wall"
+    },
+    "VBzV5z6i1WS/7_mirror_311_3": {
+        "target": "mirror",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "plant"
+        ],
+        "caption": "a large mirror in a room with a plant"
+    },
+    "VBzV5z6i1WS/7_picture_260_32": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "lamp",
+            "paintings"
+        ],
+        "caption": "a room with a couch, lamp and paintings"
+    },
+    "VBzV5z6i1WS/7_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/8_piano_285_0": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "chair"
+        ],
+        "caption": "a piano in a living room with a chair"
+    },
+    "VBzV5z6i1WS/8_picture_260_38": {
+        "target": "lamp",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a lamp and a painting hanging on the wall"
+    },
+    "VBzV5z6i1WS/8_picture_577_16": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a door"
+    },
+    "VBzV5z6i1WS/9_mirror_3_4": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a white dresser with a mirror and a mirror on top"
+    },
+    "VBzV5z6i1WS/9_plant_314_0": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on the floor"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_2": {
+        "target": "metal door",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a large metal door is opened to reveal a room"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_8": {
+        "target": "piece",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "wood"
+        ],
+        "caption": "a large piece of wood is being torn off"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_4": {
+        "target": "house",
+        "adjs": [],
+        "nearby": [
+            "hole",
+            "floor"
+        ],
+        "caption": "a house with a hole in the floor"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_11": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "XB4GS9ShBRE/0_refrigerator_281_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator freezer",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a refrigerator freezer"
+    },
+    "XB4GS9ShBRE/1_refrigerator_281_7": {
+        "target": "metal object",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a large metal object in a room"
+    },
+    "XB4GS9ShBRE/2_dresser_377_33": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bookcase",
+            "chair"
+        ],
+        "caption": "a room with a bookcase and a chair"
+    },
+    "XB4GS9ShBRE/2_dresser_377_20": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a door with a hole in it"
+    },
+    "XB4GS9ShBRE/2_dresser_377_25": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a door with a hole in it"
+    },
+    "XB4GS9ShBRE/3_mirror_144_7": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "floor"
+        ],
+        "caption": "a television is sitting on the floor in a room"
+    },
+    "XB4GS9ShBRE/4_dresser_377_42": {
+        "target": "dog",
+        "adjs": [],
+        "nearby": [
+            "bookcase",
+            "floor"
+        ],
+        "caption": "a dog laying on the floor in front of a bookcase"
+    },
+    "XB4GS9ShBRE/5_dresser_377_23": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "corner"
+        ],
+        "caption": "a door is shown in the corner of a room that has been torn off"
+    },
+    "XB4GS9ShBRE/5_dresser_377_52": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a black blanket on it"
+    },
+    "XB4GS9ShBRE/6_dresser_377_14": {
+        "target": "bookcase",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "hole"
+        ],
+        "caption": "a bookcase with a hole in the middle"
+    },
+    "XB4GS9ShBRE/6_dresser_377_46": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bookcase",
+            "bed"
+        ],
+        "caption": "a room with a bed and a bookcase"
+    },
+    "XB4GS9ShBRE/7_mirror_144_42": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a dresser with a mirror on top of it"
+    },
+    "XB4GS9ShBRE/7_mirror_144_6": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "mirror"
+        ],
+        "caption": "a living room with a large mirror and a couch"
+    },
+    "XB4GS9ShBRE/7_mirror_144_56": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a mirror on a dresser"
+    },
+    "XB4GS9ShBRE/8_refrigerator_281_5": {
+        "target": "metal sculpture",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "living room"
+        ],
+        "caption": "a large metal sculpture in a living room"
+    },
+    "XB4GS9ShBRE/9_mirror_144_65": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bedroom"
+        ],
+        "caption": "a dresser and mirror in a bedroom"
+    },
+    "XB4GS9ShBRE/9_mirror_144_43": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a dresser with a mirror on top of it"
+    },
+    "XB4GS9ShBRE/9_mirror_144_54": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a dresser with a mirror and a mirror on it"
+    },
+    "XB4GS9ShBRE/9_mirror_144_40": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "mirror"
+        ],
+        "caption": "a bedroom with a dresser and a mirror"
+    },
+    "a8BtkwhxdRV/0_mirror_343_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "a8BtkwhxdRV/0_mirror_17_33": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "light"
+        ],
+        "caption": "a room with a window and a light"
+    },
+    "a8BtkwhxdRV/1_dresser_96_14": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror",
+            "chair"
+        ],
+        "caption": "a white painted dresser with a mirror and a chair"
+    },
+    "a8BtkwhxdRV/1_dresser_96_22": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a white dresser with a mirror and a mirror on top"
+    },
+    "a8BtkwhxdRV/1_dresser_96_0": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "drawer"
+        ],
+        "caption": "a white painted dresser with a drawer and a drawer"
+    },
+    "a8BtkwhxdRV/1_dresser_96_23": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "lamp",
+            "mirror"
+        ],
+        "caption": "a white dresser with a mirror and a lamp"
+    },
+    "a8BtkwhxdRV/2_radiator_586_8": {
+        "target": "radia radia radia radia radia radia radia radia radia",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radia radia radia radia radia radia radia radia radia"
+    },
+    "a8BtkwhxdRV/2_plant_412_4": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "ground"
+        ],
+        "caption": "a plant in a pot on the ground"
+    },
+    "a8BtkwhxdRV/2_radiator_586_37": {
+        "target": "radia radia radia radia radia radia radia radia radia",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radia radia radia radia radia radia radia radia radia"
+    },
+    "a8BtkwhxdRV/3_mirror_17_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "hole"
+        ],
+        "caption": "a room with a hole in the ceiling"
+    },
+    "a8BtkwhxdRV/3_mirror_17_6": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "window"
+        ],
+        "caption": "a room with a ceiling and a window"
+    },
+    "a8BtkwhxdRV/3_dresser_96_2": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a white painted dresser with a mirror and a mirror"
+    },
+    "a8BtkwhxdRV/3_mirror_343_7": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and window"
+    },
+    "a8BtkwhxdRV/3_dresser_96_19": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror",
+            "chair"
+        ],
+        "caption": "a white dresser with a mirror and a chair"
+    },
+    "a8BtkwhxdRV/4_dresser_96_19": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror",
+            "chair"
+        ],
+        "caption": "a white dresser with a mirror and a chair"
+    },
+    "a8BtkwhxdRV/4_mirror_343_5": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "a8BtkwhxdRV/4_mirror_343_4": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a window"
+    },
+    "a8BtkwhxdRV/5_mirror_17_12": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "window"
+        ],
+        "caption": "a room with a ceiling and a window"
+    },
+    "a8BtkwhxdRV/5_mirror_17_17": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "fixture",
+            "camera"
+        ],
+        "caption": "a ceiling with a light fixture and a camera"
+    },
+    "a8BtkwhxdRV/6_mirror_343_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "a8BtkwhxdRV/6_mirror_17_19": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "window"
+        ],
+        "caption": "a room with a ceiling and a window"
+    },
+    "a8BtkwhxdRV/6_dresser_96_21": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "drawers"
+        ],
+        "caption": "a white dresser with a wooden top and drawers"
+    },
+    "a8BtkwhxdRV/7_radiator_586_17": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "radiak",
+            "radiak radiak radiak ra"
+        ],
+        "caption": "a room with a radiak and a radiak radiak radiak ra"
+    },
+    "a8BtkwhxdRV/8_plant_412_4": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "ground"
+        ],
+        "caption": "a plant in a pot on the ground"
+    },
+    "a8BtkwhxdRV/8_plant_412_2": {
+        "target": "dog",
+        "adjs": [],
+        "nearby": [
+            "house",
+            "stairs"
+        ],
+        "caption": "a dog is walking down the stairs in a house"
+    },
+    "a8BtkwhxdRV/8_plant_412_0": {
+        "target": "plant",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a large plant is growing in a small room"
+    },
+    "a8BtkwhxdRV/9_plant_412_1": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on a tiled floor"
+    },
+    "a8BtkwhxdRV/9_radiator_586_25": {
+        "target": "radia radia radia radia radia radia radia radia radia",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radia radia radia radia radia radia radia radia radia"
+    },
+    "bCPU9suPUw9/0_mirror_108_13": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "bCPU9suPUw9/0_mirror_108_38": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "a bathroom with a toilet, sink and mirror"
+    },
+    "bCPU9suPUw9/1_mirror_108_35": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "bCPU9suPUw9/1_mirror_108_27": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "bCPU9suPUw9/1_mirror_108_8": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "bCPU9suPUw9/2_rug_372_17": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch and a coffee table"
+    },
+    "bCPU9suPUw9/2_refrigerator_370_19": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "marble",
+            "inside"
+        ],
+        "caption": "a refrigerator with marble on the inside"
+    },
+    "bCPU9suPUw9/2_refrigerator_370_5": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "marble"
+        ],
+        "caption": "a refrigerator with marble on the side"
+    },
+    "bCPU9suPUw9/2_rug_349_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "headboard"
+        ],
+        "caption": "a bed with a white headboard and a rug"
+    },
+    "bCPU9suPUw9/2_rug_372_4": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs",
+            "middle"
+        ],
+        "caption": "a round table with two chairs in the middle"
+    },
+    "bCPU9suPUw9/2_rug_372_14": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch and a coffee table"
+    },
+    "bCPU9suPUw9/3_rug_349_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "headboard"
+        ],
+        "caption": "a bed with a white headboard and a rug"
+    },
+    "bCPU9suPUw9/3_rug_372_73": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "rug",
+            "fireplace"
+        ],
+        "caption": "a living room with a couch, a fireplace and a rug"
+    },
+    "bCPU9suPUw9/3_refrigerator_370_5": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "marble"
+        ],
+        "caption": "a refrigerator with marble on the side"
+    },
+    "bCPU9suPUw9/4_refrigerator_370_3": {
+        "target": "refrigerator",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "top",
+            "floor"
+        ],
+        "caption": "a black refrigerator sitting on top of a tiled floor"
+    },
+    "bCPU9suPUw9/4_refrigerator_370_21": {
+        "target": "marble refrigerator freezer",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a marble refrigerator freezer in a kitchen"
+    },
+    "bCPU9suPUw9/4_rug_349_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "headboard"
+        ],
+        "caption": "a bed with a white headboard and a rug"
+    },
+    "bCPU9suPUw9/5_rug_372_60": {
+        "target": "chair",
+        "adjs": [
+            "yellow"
+        ],
+        "nearby": [
+            "room",
+            "table"
+        ],
+        "caption": "a yellow chair and a small table in a room"
+    },
+    "bCPU9suPUw9/5_rug_372_67": {
+        "target": "coffee table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs",
+            "background"
+        ],
+        "caption": "a round coffee table with two chairs in the background"
+    },
+    "bCPU9suPUw9/5_rug_372_42": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch chair coffee table"
+        ],
+        "caption": "a living room with a couch, chair and coffee table"
+    },
+    "bCPU9suPUw9/6_mirror_108_37": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "bCPU9suPUw9/6_mirror_108_28": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and toilet in it"
+    },
+    "bCPU9suPUw9/6_mirror_108_16": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "bCPU9suPUw9/7_refrigerator_370_20": {
+        "target": "marble wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "staircase",
+            "room"
+        ],
+        "caption": "a white marble wall in a room with a staircase"
+    },
+    "bCPU9suPUw9/7_refrigerator_370_22": {
+        "target": "marble refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a marble refrigerator with a black door"
+    },
+    "bCPU9suPUw9/8_rug_372_13": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch and a coffee table"
+    },
+    "bCPU9suPUw9/9_mirror_108_25": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "bCPU9suPUw9/9_mirror_108_12": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "bxsVRursffK/1_handrail_142_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a room with a white wall and a painting on the wall"
+    },
+    "bxsVRursffK/1_hanging clothes_9_8": {
+        "target": "shirt",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a white shirt hanging on a wall"
+    },
+    "bxsVRursffK/2_hanging clothes_9_3": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "paint"
+        ],
+        "caption": "a white wall with a white paint on it"
+    },
+    "bxsVRursffK/4_handrail_143_3": {
+        "target": "toilet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bathroom",
+            "wall",
+            "painting"
+        ],
+        "caption": "a white toilet in a bathroom with a painting on the wall"
+    },
+    "bxsVRursffK/4_handrail_142_1": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top"
+        ],
+        "caption": "a white desk with a white top and a white top"
+    },
+    "bxsVRursffK/4_handrail_143_11": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "paint"
+        ],
+        "caption": "a wall with a white paint and a white wall"
+    },
+    "bxsVRursffK/4_nightstand_179_10": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "nightstand",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a nightstand"
+    },
+    "bxsVRursffK/5_handrail_143_9": {
+        "target": "toilet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bathroom",
+            "wall",
+            "painting"
+        ],
+        "caption": "a white toilet in a bathroom with a painting on the wall"
+    },
+    "bxsVRursffK/5_hanging clothes_9_7": {
+        "target": "shirt",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a white shirt hanging on a wall"
+    },
+    "bxsVRursffK/5_handrail_142_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a room with a white wall and a painting on the wall"
+    },
+    "bxsVRursffK/5_nightstand_179_2": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "nightstand",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a nightstand"
+    },
+    "bxsVRursffK/6_microwave_372_5": {
+        "target": "car",
+        "adjs": [],
+        "nearby": [
+            "garage"
+        ],
+        "caption": "a car is being repaired in a garage"
+    },
+    "bxsVRursffK/6_mirror_308_55": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "fireplace"
+        ],
+        "caption": "a tv mounted above a fireplace in a living room"
+    },
+    "bxsVRursffK/6_microwave_372_22": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "bxsVRursffK/7_microwave_372_16": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and oven in it"
+    },
+    "bxsVRursffK/7_microwave_372_23": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a microwave and a stove"
+    },
+    "bxsVRursffK/7_microwave_372_14": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and oven in it"
+    },
+    "bxsVRursffK/8_mirror_308_30": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "mirror"
+        ],
+        "caption": "a room with a mirror and a couch"
+    },
+    "bxsVRursffK/8_mirror_437_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "mirror"
+        ],
+        "caption": "a cat is looking at the mirror in the bathroom"
+    },
+    "bxsVRursffK/9_mirror_437_5": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "bxsVRursffK/9_refrigerator_358_14": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "steel appliances",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with stainless steel appliances and a refrigerator"
+    },
+    "bxsVRursffK/9_refrigerator_358_17": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "kitchen"
+        ],
+        "caption": "a stove and oven are being repaired in a kitchen"
+    },
+    "bxsVRursffK/9_microwave_372_23": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a microwave and a stove"
+    },
+    "cvZr5TUy5C5/0_calendar_120_1": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "frame",
+            "window pane"
+        ],
+        "caption": "a window with a white frame and a window pane"
+    },
+    "cvZr5TUy5C5/0_microwave_146_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "cvZr5TUy5C5/0_printer_200_5": {
+        "target": "cow",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "ground"
+        ],
+        "caption": "a black cow laying on the ground"
+    },
+    "cvZr5TUy5C5/2_refrigerator_123_44": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "oven",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a large oven"
+    },
+    "cvZr5TUy5C5/2_calendar_120_15": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "tv"
+        ],
+        "caption": "a room with a tv and a door"
+    },
+    "cvZr5TUy5C5/2_plant_469_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "chair"
+        ],
+        "caption": "a room with a window and a chair"
+    },
+    "cvZr5TUy5C5/3_carpet_369_20": {
+        "target": "dog bed",
+        "adjs": [],
+        "nearby": [
+            "leopard print"
+        ],
+        "caption": "a dog bed made out of a leopard print"
+    },
+    "cvZr5TUy5C5/3_carpet_369_25": {
+        "target": "dog bed",
+        "adjs": [],
+        "nearby": [
+            "pile",
+            "fur"
+        ],
+        "caption": "a dog bed made from a pile of fur"
+    },
+    "cvZr5TUy5C5/4_picture_84_15": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "cvZr5TUy5C5/5_mirror_867_21": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "cvZr5TUy5C5/6_mirror_380_12": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "skylight"
+        ],
+        "caption": "a bathroom with a skylight above it"
+    },
+    "cvZr5TUy5C5/6_picture_84_32": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "toilet paper",
+            "floor"
+        ],
+        "caption": "a toilet with a toilet paper on the floor"
+    },
+    "cvZr5TUy5C5/7_calendar_120_4": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "window frame",
+            "window"
+        ],
+        "caption": "a white door with a window and a window frame"
+    },
+    "cvZr5TUy5C5/7_plant_469_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "chair"
+        ],
+        "caption": "a room with a window and a chair"
+    },
+    "cvZr5TUy5C5/8_mirror_159_30": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "window pane"
+        ],
+        "caption": "a window with a window pane and a window pane"
+    },
+    "cvZr5TUy5C5/8_calendar_120_6": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a white door with a window open"
+    },
+    "cvZr5TUy5C5/8_mirror_159_15": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "house"
+        ],
+        "caption": "a window being installed in a house"
+    },
+    "cvZr5TUy5C5/8_plant_469_2": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "chair"
+        ],
+        "caption": "a room with a window and a chair"
+    },
+    "cvZr5TUy5C5/9_printer_200_6": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "cardboard",
+            "items"
+        ],
+        "caption": "a pile of cardboard and other items in a room"
+    },
+    "cvZr5TUy5C5/9_microwave_146_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a sink"
+    },
+    "cvZr5TUy5C5/9_refrigerator_123_43": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a microwave"
+    },
+    "eF36g7L6Z9M/0_mirror_513_29": {
+        "target": "bed",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a white bed with a mirror on top of it"
+    },
+    "eF36g7L6Z9M/0_picture_141_0": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hangs on the wall in a room"
+    },
+    "eF36g7L6Z9M/0_picture_204_8": {
+        "target": "metal sculpture",
+        "adjs": [],
+        "nearby": [
+            "bird"
+        ],
+        "caption": "a metal sculpture with a bird on it"
+    },
+    "eF36g7L6Z9M/1_picture_141_1": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "painting"
+        ],
+        "caption": "a white dresser with a painting on it"
+    },
+    "eF36g7L6Z9M/2_picture_141_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "eF36g7L6Z9M/2_mirror_239_62": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror on the wall in a room"
+    },
+    "eF36g7L6Z9M/3_mirror_615_23": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "cow"
+        ],
+        "caption": "a mirror in a room with a cow"
+    },
+    "eF36g7L6Z9M/4_mirror_780_10": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "eF36g7L6Z9M/5_mirror_239_29": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall"
+    },
+    "eF36g7L6Z9M/5_picture_141_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "eF36g7L6Z9M/7_mirror_513_15": {
+        "target": "nightstand",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a white nightstand with a mirror on top"
+    },
+    "eF36g7L6Z9M/7_picture_141_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "eF36g7L6Z9M/8_mirror_513_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror is hanging on the wall"
+    },
+    "eF36g7L6Z9M/8_picture_141_2": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "eF36g7L6Z9M/9_mirror_513_8": {
+        "target": "ceiling",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a ceiling with a hole in it"
+    },
+    "eF36g7L6Z9M/9_picture_205_58": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "ceiling"
+        ],
+        "caption": "a white wall with a wooden paneled ceiling"
+    },
+    "h1zeeAwLh9Z/1_mirror_558_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "h1zeeAwLh9Z/1_nightstand_611_2": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a bed in a room with a wooden wall"
+    },
+    "h1zeeAwLh9Z/1_nightstand_614_4": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a wooden dresser"
+    },
+    "h1zeeAwLh9Z/2_calendar_187_53": {
+        "target": "door",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a wooden door is open in a room"
+    },
+    "h1zeeAwLh9Z/2_rug_415_0": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "living room"
+        ],
+        "caption": "a couch and a rug in a living room"
+    },
+    "h1zeeAwLh9Z/3_piano_430_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "piano",
+            "chair"
+        ],
+        "caption": "a room with a piano and a chair"
+    },
+    "h1zeeAwLh9Z/3_rug_415_8": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "floor"
+        ],
+        "caption": "a large rug on the floor"
+    },
+    "h1zeeAwLh9Z/3_piano_430_3": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wood walls"
+        ],
+        "caption": "a piano in a room with wood walls"
+    },
+    "h1zeeAwLh9Z/3_piano_430_20": {
+        "target": "dog",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "piano"
+        ],
+        "caption": "a dog is sitting on a piano in a room"
+    },
+    "h1zeeAwLh9Z/4_piano_430_3": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wood walls"
+        ],
+        "caption": "a piano in a room with wood walls"
+    },
+    "h1zeeAwLh9Z/4_piano_430_17": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wood walls"
+        ],
+        "caption": "a piano in a room with wood walls"
+    },
+    "h1zeeAwLh9Z/4_piano_430_30": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "cat",
+            "piano"
+        ],
+        "caption": "a room with a piano and a cat on the piano"
+    },
+    "h1zeeAwLh9Z/5_piano_430_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "piano",
+            "chair"
+        ],
+        "caption": "a room with a piano and a chair"
+    },
+    "h1zeeAwLh9Z/5_window glass_196_0": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "view",
+            "garden"
+        ],
+        "caption": "a window with a view of a garden"
+    },
+    "h1zeeAwLh9Z/5_window glass_196_22": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a window"
+    },
+    "h1zeeAwLh9Z/6_calendar_187_38": {
+        "target": "view",
+        "adjs": [],
+        "nearby": [
+            "house",
+            "inside"
+        ],
+        "caption": "a view of the inside of a house"
+    },
+    "h1zeeAwLh9Z/6_decorative plant_270_20": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "bed",
+            "desk"
+        ],
+        "caption": "a room with a bed, desk and window"
+    },
+    "h1zeeAwLh9Z/7_nightstand_611_8": {
+        "target": "woman",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "bed"
+        ],
+        "caption": "a woman is sitting on a bed in a room"
+    },
+    "h1zeeAwLh9Z/7_nightstand_614_4": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a wooden dresser"
+    },
+    "h1zeeAwLh9Z/7_nightstand_614_0": {
+        "target": "dresser",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawer"
+        ],
+        "caption": "a wooden dresser with a white drawer"
+    },
+    "h1zeeAwLh9Z/7_mirror_375_1": {
+        "target": "ladder",
+        "adjs": [],
+        "nearby": [
+            "building"
+        ],
+        "caption": "a ladder is going up the side of a building"
+    },
+    "h1zeeAwLh9Z/8_decorative plant_270_8": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bed"
+        ],
+        "caption": "a room with a bed and a mirror"
+    },
+    "h1zeeAwLh9Z/8_decorative plant_270_19": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "desk"
+        ],
+        "caption": "a room with a bed and a desk"
+    },
+    "h1zeeAwLh9Z/9_piano_430_26": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wood walls"
+        ],
+        "caption": "a piano in a room with wood walls"
+    },
+    "h1zeeAwLh9Z/9_piano_430_27": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "wood floors",
+            "room"
+        ],
+        "caption": "a piano in a room with wood floors"
+    },
+    "k1cupFYWXJ6/0_decorative plant_45_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror on the wall"
+    },
+    "k1cupFYWXJ6/0_decorative plant_45_1": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "table",
+            "plant"
+        ],
+        "caption": "a vase with a plant in it sitting on a table"
+    },
+    "k1cupFYWXJ6/0_picture_85_16": {
+        "target": "hallway",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "pictures"
+        ],
+        "caption": "a hallway with pictures and pictures on the wall"
+    },
+    "k1cupFYWXJ6/1_decorative plant_59_14": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "steps",
+            "flowers",
+            "building"
+        ],
+        "caption": "a vase with flowers on the steps of a building"
+    },
+    "k1cupFYWXJ6/2_decorative plant_45_3": {
+        "target": "chairs",
+        "adjs": [
+            "purple"
+        ],
+        "nearby": [
+            "room",
+            "mirror"
+        ],
+        "caption": "two purple chairs and a mirror in a room"
+    },
+    "k1cupFYWXJ6/2_decorative plant_59_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "chair",
+            "game"
+        ],
+        "caption": "the room in the game, with a purple couch and a purple chair"
+    },
+    "k1cupFYWXJ6/2_decorative plant_45_1": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "table",
+            "plant"
+        ],
+        "caption": "a vase with a plant in it sitting on a table"
+    },
+    "k1cupFYWXJ6/3_decorative plant_59_1": {
+        "target": "flower",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "stone column"
+        ],
+        "caption": "a flower is placed on the top of a stone column"
+    },
+    "k1cupFYWXJ6/3_decorative plant_45_2": {
+        "target": "chairs",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "mirror"
+        ],
+        "caption": "two chairs and a mirror in a room"
+    },
+    "k1cupFYWXJ6/4_decorative plant_59_11": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flower",
+            "table"
+        ],
+        "caption": "a vase with a flower in it sitting on a table"
+    },
+    "k1cupFYWXJ6/6_decorative plant_59_6": {
+        "target": "entrance",
+        "adjs": [],
+        "nearby": [
+            "crypt room"
+        ],
+        "caption": "the entrance to the crypt room in the crypt room"
+    },
+    "k1cupFYWXJ6/6_decorative plant_45_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror on the wall"
+    },
+    "k1cupFYWXJ6/6_decorative plant_59_20": {
+        "target": "stone statue",
+        "adjs": [],
+        "nearby": [
+            "building",
+            "middle"
+        ],
+        "caption": "a stone statue in the middle of a building"
+    },
+    "k1cupFYWXJ6/7_decorative plant_59_16": {
+        "target": "statue",
+        "adjs": [],
+        "nearby": [
+            "building",
+            "plant"
+        ],
+        "caption": "a statue in a building with a plant growing out of it"
+    },
+    "k1cupFYWXJ6/7_decorative plant_45_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror on the wall"
+    },
+    "k1cupFYWXJ6/7_decorative plant_59_8": {
+        "target": "plant",
+        "adjs": [
+            "green"
+        ],
+        "nearby": [
+            "stone pillar"
+        ],
+        "caption": "a green plant growing out of a stone pillar"
+    },
+    "mL8ThkuaVTM/0_refrigerator_277_5": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a kitchen with a large black and white painting on the wall"
+    },
+    "mL8ThkuaVTM/0_refrigerator_277_7": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "hole"
+        ],
+        "caption": "a kitchen with a large hole in the wall"
+    },
+    "mL8ThkuaVTM/0_refrigerator_277_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "floor"
+        ],
+        "caption": "a kitchen with a black wall and a wooden floor"
+    },
+    "mL8ThkuaVTM/1_refrigerator_277_2": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a kitchen with a black and white wall"
+    },
+    "mL8ThkuaVTM/1_refrigerator_277_9": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "hole",
+            "kitchen"
+        ],
+        "caption": "a refrigerator is shown in a kitchen with a large hole in the wall"
+    },
+    "mL8ThkuaVTM/1_refrigerator_277_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "floor"
+        ],
+        "caption": "a kitchen with a black wall and a wooden floor"
+    },
+    "mL8ThkuaVTM/2_mirror_48_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "mL8ThkuaVTM/2_mirror_48_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and toilet in it"
+    },
+    "mL8ThkuaVTM/2_mirror_48_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a toilet"
+    },
+    "mL8ThkuaVTM/3_refrigerator_277_5": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a kitchen with a large black and white painting on the wall"
+    },
+    "mL8ThkuaVTM/3_refrigerator_277_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "floor"
+        ],
+        "caption": "a kitchen with a black door and a wooden floor"
+    },
+    "mL8ThkuaVTM/4_refrigerator_277_5": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a kitchen with a large black and white painting on the wall"
+    },
+    "mL8ThkuaVTM/5_mirror_48_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a toilet"
+    },
+    "mL8ThkuaVTM/5_mirror_48_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and toilet in it"
+    },
+    "mL8ThkuaVTM/7_refrigerator_277_6": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a kitchen with a black and white wall"
+    },
+    "mL8ThkuaVTM/7_refrigerator_277_8": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a refrigerator in it"
+    },
+    "mL8ThkuaVTM/7_refrigerator_277_15": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator that has been torn off and is in the kitchen"
+    },
+    "mL8ThkuaVTM/7_refrigerator_277_9": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "hole",
+            "kitchen"
+        ],
+        "caption": "a refrigerator is shown in a kitchen with a large hole in the wall"
+    },
+    "mL8ThkuaVTM/7_refrigerator_277_12": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator is being torn in the kitchen"
+    },
+    "mL8ThkuaVTM/8_refrigerator_277_9": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "hole",
+            "kitchen"
+        ],
+        "caption": "a refrigerator is shown in a kitchen with a large hole in the wall"
+    },
+    "mL8ThkuaVTM/8_refrigerator_277_15": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator that has been torn off and is in the kitchen"
+    },
+    "mL8ThkuaVTM/8_refrigerator_277_8": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a refrigerator in it"
+    },
+    "mL8ThkuaVTM/9_mirror_48_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a toilet"
+    },
+    "mL8ThkuaVTM/9_mirror_48_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "mL8ThkuaVTM/9_mirror_48_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and toilet in it"
+    },
+    "mv2HUxq3B53/0_mirror_287_6": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "mv2HUxq3B53/0_microwave_105_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "counter top"
+        ],
+        "caption": "a kitchen with a microwave and a counter top"
+    },
+    "mv2HUxq3B53/0_microwave_105_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a window"
+    },
+    "mv2HUxq3B53/1_mirror_216_38": {
+        "target": "mirror",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "television"
+        ],
+        "caption": "a large mirror in a room with a television"
+    },
+    "mv2HUxq3B53/1_carpet_567_43": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "chair"
+        ],
+        "caption": "a bed with a chair and a rug"
+    },
+    "mv2HUxq3B53/1_carpet_567_23": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "window",
+            "chair"
+        ],
+        "caption": "a bed and chair in a room with a window"
+    },
+    "mv2HUxq3B53/2_mirror_287_3": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "mv2HUxq3B53/2_microwave_105_7": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "mv2HUxq3B53/2_refrigerator_114_57": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a broken door in a kitchen"
+    },
+    "mv2HUxq3B53/2_refrigerator_114_81": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "mv2HUxq3B53/2_microwave_105_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a window"
+    },
+    "mv2HUxq3B53/3_mirror_284_12": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "bunch",
+            "flowers"
+        ],
+        "caption": "a mirror with a bunch of flowers in it"
+    },
+    "mv2HUxq3B53/4_shower glass_630_10": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "shower",
+            "window"
+        ],
+        "caption": "a bathroom with a shower and a window"
+    },
+    "mv2HUxq3B53/5_microwave_105_5": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "microwave oven"
+        ],
+        "caption": "a kitchen with a microwave and a microwave oven"
+    },
+    "mv2HUxq3B53/5_refrigerator_114_60": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "debris",
+            "lot",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a lot of debris"
+    },
+    "mv2HUxq3B53/6_refrigerator_114_33": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "metal refrigerator"
+        ],
+        "caption": "a kitchen with a large metal refrigerator"
+    },
+    "mv2HUxq3B53/7_mirror_216_23": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall"
+    },
+    "mv2HUxq3B53/7_carpet_567_52": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "middle",
+            "bedroom"
+        ],
+        "caption": "a large rug in the middle of a bedroom"
+    },
+    "mv2HUxq3B53/7_refrigerator_114_58": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and cabinets in it"
+    },
+    "mv2HUxq3B53/8_mirror_186_25": {
+        "target": "piece",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "plaster",
+            "corner"
+        ],
+        "caption": "a large piece of plaster in a corner"
+    },
+    "mv2HUxq3B53/9_mirror_216_10": {
+        "target": "mirror",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "room",
+            "floor"
+        ],
+        "caption": "a large mirror in a room with a wooden floor"
+    },
+    "mv2HUxq3B53/9_carpet_567_43": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "chair"
+        ],
+        "caption": "a bed with a chair and a rug"
+    },
+    "mv2HUxq3B53/9_carpet_567_25": {
+        "target": "bed",
+        "adjs": [
+            "blue",
+            "brown"
+        ],
+        "nearby": [
+            "frame"
+        ],
+        "caption": "a bed with a wooden frame and a brown and blue bed"
+    },
+    "p53SfW6mjZe/0_dresser_788_2": {
+        "target": "chest",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "top",
+            "bird"
+        ],
+        "caption": "a red chest with a bird on top"
+    },
+    "p53SfW6mjZe/2_dresser_192_6": {
+        "target": "table",
+        "adjs": [
+            "small",
+            "white"
+        ],
+        "nearby": [
+            "lamp",
+            "chair"
+        ],
+        "caption": "a small white table with a lamp and a small white chair"
+    },
+    "p53SfW6mjZe/2_refrigerator_346_15": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "steel stove",
+            "window"
+        ],
+        "caption": "a kitchen with a stainless steel stove and a large window"
+    },
+    "p53SfW6mjZe/3_statue_366_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "island counter",
+            "island"
+        ],
+        "caption": "a kitchen with a large island counter and a large island"
+    },
+    "p53SfW6mjZe/3_refrigerator_242_69": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "p53SfW6mjZe/4_stair_496_0": {
+        "target": "staircase",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "steps",
+            "walls"
+        ],
+        "caption": "a wooden staircase with white painted walls and wooden steps"
+    },
+    "p53SfW6mjZe/4_dresser_192_8": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "lamp"
+        ],
+        "caption": "a white desk with a lamp on top"
+    },
+    "p53SfW6mjZe/4_statue_366_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "island counter",
+            "island"
+        ],
+        "caption": "a kitchen with a large island counter and a large island"
+    },
+    "p53SfW6mjZe/4_refrigerator_346_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "marble island",
+            "middle"
+        ],
+        "caption": "a kitchen with a large marble island in the middle of the room"
+    },
+    "p53SfW6mjZe/4_refrigerator_242_14": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a stove"
+    },
+    "p53SfW6mjZe/5_mirror_421_4": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "pictures"
+        ],
+        "caption": "a wall with pictures and a mirror on it"
+    },
+    "p53SfW6mjZe/5_dresser_192_6": {
+        "target": "table",
+        "adjs": [
+            "small",
+            "white"
+        ],
+        "nearby": [
+            "lamp",
+            "chair"
+        ],
+        "caption": "a small white table with a lamp and a small white chair"
+    },
+    "p53SfW6mjZe/5_statue_366_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "counter"
+        ],
+        "caption": "a cat sitting on top of a counter"
+    },
+    "p53SfW6mjZe/6_statue_366_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "counter"
+        ],
+        "caption": "a cat sitting on top of a counter"
+    },
+    "p53SfW6mjZe/6_mirror_421_22": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "pictures"
+        ],
+        "caption": "a wall with many pictures on it"
+    },
+    "p53SfW6mjZe/6_statue_366_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "island counter",
+            "island"
+        ],
+        "caption": "a kitchen with a large island counter and a large island"
+    },
+    "p53SfW6mjZe/8_statue_63_2": {
+        "target": "cabinet",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "top",
+            "sculpture"
+        ],
+        "caption": "a black cabinet with a wooden sculpture on top"
+    },
+    "p53SfW6mjZe/8_picture_107_17": {
+        "target": "picture",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "people"
+        ],
+        "caption": "a large picture of two people jumping"
+    },
+    "p53SfW6mjZe/9_statue_366_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "counter"
+        ],
+        "caption": "a cat sitting on top of a counter"
+    },
+    "p53SfW6mjZe/9_mirror_421_10": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "pictures"
+        ],
+        "caption": "a wall with pictures and a mirror on it"
+    },
+    "q3zU7Yy5E5s/1_picture_109_12": {
+        "target": "vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent",
+        "adjs": [],
+        "nearby": [],
+        "caption": "vent vent en vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent vent"
+    },
+    "q3zU7Yy5E5s/1_picture_109_9": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall"
+    },
+    "q3zU7Yy5E5s/2_glass_100_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "window sie"
+        ],
+        "caption": "a cat sitting on a window sie looking out"
+    },
+    "q3zU7Yy5E5s/2_picture_109_0": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "cabin"
+        ],
+        "caption": "a window in the ceiling of a cabin"
+    },
+    "q3zU7Yy5E5s/2_rug_96_39": {
+        "target": "rug",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "floor"
+        ],
+        "caption": "a rug is on the floor in a room"
+    },
+    "q3zU7Yy5E5s/3_glass_100_2": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a sliding door"
+    },
+    "q3zU7Yy5E5s/4_window glass_121_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "bed"
+        ],
+        "caption": "a room with a bed and a window"
+    },
+    "q3zU7Yy5E5s/4_window glass_6_0": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "view",
+            "mountains"
+        ],
+        "caption": "a window with a view of the mountains"
+    },
+    "q3zU7Yy5E5s/6_picture_109_24": {
+        "target": "fireplace",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a fireplace with a mirror above it"
+    },
+    "q3zU7Yy5E5s/6_glass_181_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "sink"
+        ],
+        "caption": "a kitchen with a door open and a sink"
+    },
+    "q3zU7Yy5E5s/6_glass_181_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a sink"
+    },
+    "q3zU7Yy5E5s/7_window glass_6_0": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "view",
+            "mountains"
+        ],
+        "caption": "a window with a view of the mountains"
+    },
+    "q3zU7Yy5E5s/7_glass_100_0": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "window sie"
+        ],
+        "caption": "a cat sitting on a window sie looking out"
+    },
+    "q3zU7Yy5E5s/8_picture_109_9": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall"
+    },
+    "q3zU7Yy5E5s/8_rug_96_165": {
+        "target": "rug",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "floor"
+        ],
+        "caption": "a rug is on the floor in a room"
+    },
+    "q3zU7Yy5E5s/9_glass_181_4": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a sink"
+    },
+    "q5QZSEeHe5g/0_picture_363_6": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a framed picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/0_calendar_712_15": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "man"
+        ],
+        "caption": "a refrigerator with a picture of a man on it"
+    },
+    "q5QZSEeHe5g/0_photo_884_2": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a framed on the wall of a room"
+    },
+    "q5QZSEeHe5g/1_picture_363_5": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/1_picture_363_4": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/1_photo_884_25": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a framed picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/1_mirror_1019_9": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "q5QZSEeHe5g/1_picture_363_2": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/2_pillow_1306_10": {
+        "target": "piece",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "cardboard",
+            "floor"
+        ],
+        "caption": "a large piece of cardboard is being removed from the floor"
+    },
+    "q5QZSEeHe5g/2_exercise bike_1203_28": {
+        "target": "robot",
+        "adjs": [
+            "white",
+            "black"
+        ],
+        "nearby": [
+            "floor"
+        ],
+        "caption": "a black and white robot sitting on a floor"
+    },
+    "q5QZSEeHe5g/3_mirror_691_29": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "lamp",
+            "mirror"
+        ],
+        "caption": "a room with a dresser, mirror and a lamp"
+    },
+    "q5QZSEeHe5g/3_refrigerator_819_6": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "kitchen",
+            "floor"
+        ],
+        "caption": "a white refrigerator sitting in a kitchen next to a wooden floor"
+    },
+    "q5QZSEeHe5g/4_mirror_691_28": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "mirror"
+        ],
+        "caption": "a room with a mirror and a dresser"
+    },
+    "q5QZSEeHe5g/4_photo_884_11": {
+        "target": "photo",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a framed photo hangs on the wall in a room"
+    },
+    "q5QZSEeHe5g/5_mirror_1019_26": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a mirror and a mirror on a wall"
+    },
+    "q5QZSEeHe5g/6_picture_363_4": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/7_refrigerator_1223_5": {
+        "target": "man",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a man is standing in front of a refrigerator"
+    },
+    "q5QZSEeHe5g/7_refrigerator_1223_2": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a white refrigerator sitting in a room next to a wall"
+    },
+    "q5QZSEeHe5g/8_picture_363_0": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a framed hanging on the wall in a room"
+    },
+    "q5QZSEeHe5g/9_calendar_712_15": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "man"
+        ],
+        "caption": "a refrigerator with a picture of a man on it"
+    },
+    "q5QZSEeHe5g/9_calendar_712_25": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "magnet board"
+        ],
+        "caption": "a refrigerator with a magnet board on it"
+    },
+    "qyAac8rV8Zk/0_picture_403_43": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a room with a painting on the wall"
+    },
+    "qyAac8rV8Zk/0_rug_304_20": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a couch and a coffee table"
+    },
+    "qyAac8rV8Zk/1_picture_403_1": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting",
+            "floor"
+        ],
+        "caption": "a room with a wooden floor and a painting on the wall"
+    },
+    "qyAac8rV8Zk/1_rug_304_11": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a brown couch and a coffee table"
+    },
+    "qyAac8rV8Zk/1_refrigerator_320_14": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a door open in a kitchen"
+    },
+    "qyAac8rV8Zk/2_mirror_161_11": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "ceiling fan"
+        ],
+        "caption": "a room with a ceiling and a ceiling fan"
+    },
+    "qyAac8rV8Zk/2_mirror_161_23": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "camera",
+            "lights"
+        ],
+        "caption": "a mirror with lights on it and a camera"
+    },
+    "qyAac8rV8Zk/3_dresser_197_12": {
+        "target": "dresser",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "top",
+            "mirror"
+        ],
+        "caption": "a wooden dresser with a mirror on top"
+    },
+    "qyAac8rV8Zk/4_rug_304_35": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a brown couch and a coffee table"
+    },
+    "qyAac8rV8Zk/5_rug_304_82": {
+        "target": "couch coffee table",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "living room"
+        ],
+        "caption": "a brown couch and coffee table in a living room"
+    },
+    "qyAac8rV8Zk/6_mirror_102_29": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and a mirror"
+    },
+    "qyAac8rV8Zk/6_mirror_161_40": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "qyAac8rV8Zk/7_rug_304_62": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a brown couch and a coffee table"
+    },
+    "qyAac8rV8Zk/7_rug_304_51": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "coffee table"
+        ],
+        "caption": "a living room with a brown couch and a coffee table"
+    },
+    "qyAac8rV8Zk/8_mirror_161_36": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "qyAac8rV8Zk/8_mirror_161_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "caption": "a bathroom with a mirror and a sink"
+    },
+    "qyAac8rV8Zk/8_picture_155_48": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a picture hanging on the wall in a room"
+    },
+    "qyAac8rV8Zk/8_mirror_161_11": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "ceiling",
+            "ceiling fan"
+        ],
+        "caption": "a room with a ceiling and a ceiling fan"
+    },
+    "qyAac8rV8Zk/9_picture_155_31": {
+        "target": "painting",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a painting hanging on the wall in a room"
+    },
+    "svBbv1Pavdk/0_plant_85_15": {
+        "target": "fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "basket"
+        ],
+        "caption": "a fiddle plant in a basket on the floor"
+    },
+    "svBbv1Pavdk/0_rug_282_22": {
+        "target": "rug",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large rug with a large rug on it"
+    },
+    "svBbv1Pavdk/0_plant_85_0": {
+        "target": "fiddle fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "basket"
+        ],
+        "caption": "a fiddle fiddle plant in a basket"
+    },
+    "svBbv1Pavdk/1_plant_85_0": {
+        "target": "fiddle fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "basket"
+        ],
+        "caption": "a fiddle fiddle plant in a basket"
+    },
+    "svBbv1Pavdk/1_refrigerator_359_28": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "svBbv1Pavdk/1_refrigerator_359_34": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with white cabinets and a refrigerator"
+    },
+    "svBbv1Pavdk/1_refrigerator_359_16": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "kitchen"
+        ],
+        "caption": "a refrigerator that is in the middle of a kitchen"
+    },
+    "svBbv1Pavdk/2_plant_289_2": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on the floor"
+    },
+    "svBbv1Pavdk/3_plant_350_2": {
+        "target": "hole",
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "wall"
+        ],
+        "caption": "a hole in the wall of a bathroom"
+    },
+    "svBbv1Pavdk/3_refrigerator_359_17": {
+        "target": "refrigerator freezer",
+        "adjs": [],
+        "nearby": [
+            "light",
+            "kitchen"
+        ],
+        "caption": "a refrigerator freezer in a kitchen with a light on"
+    },
+    "svBbv1Pavdk/4_refrigerator_359_18": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "svBbv1Pavdk/4_refrigerator_359_29": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with white cabinets and a refrigerator"
+    },
+    "svBbv1Pavdk/4_refrigerator_359_19": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "svBbv1Pavdk/5_plant_289_0": {
+        "target": "fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "basket"
+        ],
+        "caption": "a fiddle plant in a basket on the floor"
+    },
+    "svBbv1Pavdk/5_refrigerator_359_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "svBbv1Pavdk/5_rug_282_55": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "living room",
+            "floor"
+        ],
+        "caption": "a cat sitting on the floor in a living room"
+    },
+    "svBbv1Pavdk/5_plant_289_2": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on the floor"
+    },
+    "svBbv1Pavdk/6_refrigerator_359_18": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "svBbv1Pavdk/6_rug_282_86": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "rug"
+        ],
+        "caption": "a living room with a large rug and a couch"
+    },
+    "svBbv1Pavdk/6_plant_289_2": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a plant in a pot on the floor"
+    },
+    "svBbv1Pavdk/7_refrigerator_359_8": {
+        "target": "refrigerator freezer",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "kitchen"
+        ],
+        "caption": "a refrigerator freezer in a kitchen with a sink"
+    },
+    "svBbv1Pavdk/7_plant_289_4": {
+        "target": "fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a fiddle plant in a white room"
+    },
+    "svBbv1Pavdk/7_rug_282_17": {
+        "target": "dog",
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "living room"
+        ],
+        "caption": "a dog sitting on a rug in a living room"
+    },
+    "svBbv1Pavdk/7_rug_282_59": {
+        "target": "couch",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "glass coffee table",
+            "top"
+        ],
+        "caption": "a grey couch with a glass coffee table on top"
+    },
+    "svBbv1Pavdk/8_rug_282_71": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "rug"
+        ],
+        "caption": "a living room with a large rug and a couch"
+    },
+    "svBbv1Pavdk/8_plant_85_19": {
+        "target": "cat",
+        "adjs": [],
+        "nearby": [
+            "plant",
+            "floor"
+        ],
+        "caption": "a cat sitting on a wooden floor next to a plant"
+    },
+    "svBbv1Pavdk/8_plant_350_16": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "flower"
+        ],
+        "caption": "a white wall with a red flower in it"
+    },
+    "svBbv1Pavdk/8_plant_350_17": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "floor"
+        ],
+        "caption": "a kitchen with a white tiled floor and a white wall"
+    },
+    "svBbv1Pavdk/8_plant_289_5": {
+        "target": "fiddle fiddle plant",
+        "adjs": [],
+        "nearby": [
+            "pot",
+            "floor"
+        ],
+        "caption": "a fiddle fiddle plant in a pot on a wooden floor"
+    },
+    "svBbv1Pavdk/9_refrigerator_359_18": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "wcojb4TFT35/0_hanging clothes_1047_11": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "items"
+        ],
+        "caption": "a closet full of clothes and other items"
+    },
+    "wcojb4TFT35/1_microwave_495_3": {
+        "target": "microwave",
+        "adjs": [],
+        "nearby": [
+            "top",
+            "oven",
+            "appliances"
+        ],
+        "caption": "a microwave and oven are stacked on top of each other appliances"
+    },
+    "wcojb4TFT35/1_footrest_338_0": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "chair"
+        ],
+        "caption": "a living room with a couch and chair"
+    },
+    "wcojb4TFT35/1_refrigerator_468_9": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a window"
+    },
+    "wcojb4TFT35/2_decorative plant_421_35": {
+        "target": "piano",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "tree",
+            "room"
+        ],
+        "caption": "a wooden piano in a room with a tree"
+    },
+    "wcojb4TFT35/3_christmas tree_575_3": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "corner"
+        ],
+        "caption": "a christmas tree is in the corner of a room"
+    },
+    "wcojb4TFT35/3_book_684_10": {
+        "target": "book shelf",
+        "adjs": [],
+        "nearby": [
+            "books",
+            "pile"
+        ],
+        "caption": "a book shelf filled with books and a pile of books"
+    },
+    "wcojb4TFT35/3_book_684_0": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a pile of books"
+    },
+    "wcojb4TFT35/4_refrigerator_468_2": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "handle"
+        ],
+        "caption": "a refrigerator with a broken door and a broken handle"
+    },
+    "wcojb4TFT35/4_footrest_338_0": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "chair"
+        ],
+        "caption": "a living room with a couch and chair"
+    },
+    "wcojb4TFT35/4_refrigerator_468_9": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a window"
+    },
+    "wcojb4TFT35/4_picture_441_1": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "pictures"
+        ],
+        "caption": "a room with three framed pictures hanging on the wall"
+    },
+    "wcojb4TFT35/4_decorative plant_421_36": {
+        "target": "tree",
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "room",
+            "piano"
+        ],
+        "caption": "a small tree in a room with a piano"
+    },
+    "wcojb4TFT35/5_microwave_495_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a microwave"
+    },
+    "wcojb4TFT35/5_microwave_495_4": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "wall"
+        ],
+        "caption": "a stove and microwave are stacked on the wall"
+    },
+    "wcojb4TFT35/5_refrigerator_468_3": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "wcojb4TFT35/6_picture_513_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a stove and refrigerator in it"
+    },
+    "wcojb4TFT35/6_refrigerator_468_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a stove"
+    },
+    "wcojb4TFT35/7_mirror_145_9": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "corner"
+        ],
+        "caption": "a mirror is shown in the corner of a room"
+    },
+    "wcojb4TFT35/7_mirror_145_56": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror hanging on the wall in a room"
+    },
+    "wcojb4TFT35/8_book_684_20": {
+        "target": "book shelf",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a book shelf with books on it"
+    },
+    "wcojb4TFT35/8_christmas tree_575_7": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "corner"
+        ],
+        "caption": "a christmas tree is in the corner of a room"
+    },
+    "wcojb4TFT35/9_book_685_42": {
+        "target": "book shelf",
+        "adjs": [],
+        "nearby": [
+            "books"
+        ],
+        "caption": "a book shelf with books on it"
+    },
+    "wcojb4TFT35/9_christmas tree_575_9": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "corner"
+        ],
+        "caption": "a christmas tree is in the corner of a room"
+    },
+    "y9hTuugGdiq/0_statue_261_20": {
+        "target": "box",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "top",
+            "sculpture"
+        ],
+        "caption": "a wooden box with a sculpture on top"
+    },
+    "y9hTuugGdiq/0_statue_261_14": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "cows",
+            "table"
+        ],
+        "caption": "a sculpture of three cows on a table"
+    },
+    "y9hTuugGdiq/1_statue_261_35": {
+        "target": "sculpture",
+        "adjs": [
+            "white",
+            "black"
+        ],
+        "nearby": [
+            "top",
+            "cabinet"
+        ],
+        "caption": "a black and white sculpture on top of a wooden cabinet"
+    },
+    "y9hTuugGdiq/1_statue_261_19": {
+        "target": "box",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "horses",
+            "sculpture",
+            "top"
+        ],
+        "caption": "a wooden box with a sculpture of horses on top"
+    },
+    "y9hTuugGdiq/1_statue_261_6": {
+        "target": "sculpture",
+        "adjs": [
+            "white",
+            "black"
+        ],
+        "nearby": [
+            "table"
+        ],
+        "caption": "a black and white sculpture on a wooden table"
+    },
+    "y9hTuugGdiq/1_statue_261_14": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "cows",
+            "table"
+        ],
+        "caption": "a sculpture of three cows on a table"
+    },
+    "y9hTuugGdiq/2_statue_261_41": {
+        "target": "sculpture",
+        "adjs": [],
+        "nearby": [
+            "horses",
+            "group",
+            "table"
+        ],
+        "caption": "a sculpture of a group of horses on a wooden table"
+    },
+    "y9hTuugGdiq/2_freezer_281_10": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "door"
+        ],
+        "caption": "a refrigerator with a door open in a room"
+    },
+    "y9hTuugGdiq/3_refrigerator_598_35": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "y9hTuugGdiq/3_refrigerator_598_32": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a sink"
+    },
+    "y9hTuugGdiq/4_statue_261_40": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "top",
+            "sculpture"
+        ],
+        "caption": "a wooden cabinet with a sculpture on top"
+    },
+    "y9hTuugGdiq/4_mirror_393_33": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror in it"
+    },
+    "y9hTuugGdiq/4_freezer_281_72": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "door"
+        ],
+        "caption": "a refrigerator with a door open in a room"
+    },
+    "y9hTuugGdiq/5_picture_565_30": {
+        "target": "yellow jersey",
+        "adjs": [],
+        "nearby": [
+            "locker room",
+            "wall"
+        ],
+        "caption": "a yellow jersey hangs on the wall in the locker room"
+    },
+    "y9hTuugGdiq/5_refrigerator_598_12": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a wooden floor"
+    },
+    "y9hTuugGdiq/5_refrigerator_598_22": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a door open in a kitchen"
+    },
+    "y9hTuugGdiq/6_rug_607_1": {
+        "target": "pool table",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "top",
+            "base"
+        ],
+        "caption": "a grey pool table with a grey top and a grey base"
+    },
+    "y9hTuugGdiq/7_rug_607_1": {
+        "target": "pool table",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "top",
+            "base"
+        ],
+        "caption": "a grey pool table with a grey top and a grey base"
+    },
+    "y9hTuugGdiq/7_refrigerator_598_20": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a counter"
+    },
+    "y9hTuugGdiq/7_refrigerator_598_22": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a door open in a kitchen"
+    },
+    "y9hTuugGdiq/7_rug_607_0": {
+        "target": "billiard billiard billiard billiard billiard billiard billiard bill",
+        "adjs": [
+            "black",
+            "grey"
+        ],
+        "nearby": [],
+        "caption": "a grey and black billiard billiard billiard billiard billiard billiard billiard bill"
+    },
+    "y9hTuugGdiq/8_rug_607_1": {
+        "target": "pool table",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "top",
+            "base"
+        ],
+        "caption": "a grey pool table with a grey top and a grey base"
+    },
+    "y9hTuugGdiq/8_picture_571_47": {
+        "target": "fireplace",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "painting"
+        ],
+        "caption": "a fireplace with a painting on the wall"
+    },
+    "y9hTuugGdiq/9_rug_607_0": {
+        "target": "billiard billiard billiard billiard billiard billiard billiard bill",
+        "adjs": [
+            "black",
+            "grey"
+        ],
+        "nearby": [],
+        "caption": "a grey and black billiard billiard billiard billiard billiard billiard billiard bill"
+    },
+    "y9hTuugGdiq/9_refrigerator_598_20": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a counter"
+    },
+    "yr17PDCnDDW/0_plant_543_29": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flowers"
+        ],
+        "caption": "a vase with flowers in it"
+    },
+    "yr17PDCnDDW/1_plant_543_20": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "plant"
+        ],
+        "caption": "a vase with a plant in it on a wooden floor"
+    },
+    "yr17PDCnDDW/2_plant_503_18": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "plant"
+        ],
+        "caption": "a vase with a plant in it"
+    },
+    "yr17PDCnDDW/2_vase_466_1": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flower"
+        ],
+        "caption": "a vase with a flower inside of it"
+    },
+    "yr17PDCnDDW/3_vase_135_2": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flowers",
+            "table"
+        ],
+        "caption": "a vase with flowers in it sitting on a table"
+    },
+    "yr17PDCnDDW/3_plant_276_24": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "chairs",
+            "plant",
+            "desk"
+        ],
+        "caption": "a room with a desk, chairs and a plant"
+    },
+    "yr17PDCnDDW/4_vase_466_0": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "floor"
+        ],
+        "caption": "a room with a wooden floor and a window"
+    },
+    "yr17PDCnDDW/4_plant_543_48": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "floor",
+            "plant"
+        ],
+        "caption": "a vase with a plant in it on a wooden floor"
+    },
+    "yr17PDCnDDW/7_plant_543_32": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flowers",
+            "wall"
+        ],
+        "caption": "a vase with flowers in it on a wall"
+    },
+    "yr17PDCnDDW/8_vase_135_4": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flower",
+            "table"
+        ],
+        "caption": "a vase with a flower in it sitting on a table"
+    },
+    "yr17PDCnDDW/8_plant_169_1": {
+        "target": "plant",
+        "adjs": [],
+        "nearby": [
+            "vase",
+            "floor"
+        ],
+        "caption": "a plant in a vase on a wooden floor"
+    },
+    "yr17PDCnDDW/9_plant_509_23": {
+        "target": "wall",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "flowers",
+            "vase"
+        ],
+        "caption": "a wooden wall with a vase of flowers"
+    },
+    "yr17PDCnDDW/9_vase_459_44": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "flowers",
+            "floor"
+        ],
+        "caption": "a vase with flowers in it sitting on the floor"
+    },
+    "ziup5kvtCCR/0_mirror_21_41": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "wall"
+        ],
+        "caption": "a mirror on the wall above a fireplace"
+    },
+    "ziup5kvtCCR/0_refrigerator_100_10": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a broken door and a broken door"
+    },
+    "ziup5kvtCCR/0_microwave_84_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a microwave"
+    },
+    "ziup5kvtCCR/0_mirror_62_18": {
+        "target": "mirror",
+        "adjs": [
+            "white",
+            "large"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a large white mirror hanging on the wall"
+    },
+    "ziup5kvtCCR/0_plant_46_5": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "plant"
+        ],
+        "caption": "a room with a large plant in the middle of it"
+    },
+    "ziup5kvtCCR/1_refrigerator_100_6": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator cabinets"
+        ],
+        "caption": "a kitchen with a black refrigerator and white cabinets"
+    },
+    "ziup5kvtCCR/1_nightstand_158_8": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "nightstand",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a nightstand"
+    },
+    "ziup5kvtCCR/2_christmas tree_26_0": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "living room"
+        ],
+        "caption": "a christmas tree in a living room with a fireplace"
+    },
+    "ziup5kvtCCR/2_plant_46_4": {
+        "target": "room",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "plant"
+        ],
+        "caption": "a room with a plant in it and a mirror"
+    },
+    "ziup5kvtCCR/3_plant_46_6": {
+        "target": "chair",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "room",
+            "table"
+        ],
+        "caption": "a white chair and a table in a room"
+    },
+    "ziup5kvtCCR/3_christmas tree_26_0": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "living room"
+        ],
+        "caption": "a christmas tree in a living room with a fireplace"
+    },
+    "ziup5kvtCCR/4_microwave_84_2": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove"
+        ],
+        "caption": "a kitchen with a sink and a stove"
+    },
+    "ziup5kvtCCR/4_refrigerator_100_2": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "paint",
+            "walls"
+        ],
+        "caption": "a kitchen with black paint and white walls"
+    },
+    "ziup5kvtCCR/5_microwave_84_0": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove"
+        ],
+        "caption": "a kitchen with a stove and a microwave"
+    },
+    "ziup5kvtCCR/5_mirror_142_71": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a mirror is shown on the wall in a room"
+    },
+    "ziup5kvtCCR/5_refrigerator_100_12": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a broken door and a broken door"
+    },
+    "ziup5kvtCCR/6_refrigerator_100_11": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a broken door and a broken door"
+    },
+    "ziup5kvtCCR/6_nightstand_158_21": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "nightstand",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and a nightstand"
+    },
+    "ziup5kvtCCR/7_microwave_84_1": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a stove and refrigerator in it"
+    },
+    "ziup5kvtCCR/7_christmas tree_26_0": {
+        "target": "christmas tree",
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "living room"
+        ],
+        "caption": "a christmas tree in a living room with a fireplace"
+    },
+    "ziup5kvtCCR/7_mirror_270_26": {
+        "target": "hallway",
+        "adjs": [],
+        "nearby": [
+            "wood floors",
+            "walls"
+        ],
+        "caption": "a hallway with white walls and wood floors"
+    },
+    "ziup5kvtCCR/7_microwave_84_2": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove"
+        ],
+        "caption": "a kitchen with a sink and a stove"
+    },
+    "ziup5kvtCCR/9_nightstand_158_5": {
+        "target": "nightstand",
+        "adjs": [
+            "small",
+            "wooden"
+        ],
+        "nearby": [
+            "top",
+            "vase"
+        ],
+        "caption": "a small wooden nightstand with a white vase on top"
+    },
+    "ziup5kvtCCR/9_nightstand_158_10": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "room"
+        ],
+        "caption": "a bed and a wooden dresser in a room"
+    },
+    "zt1RVoi7PcG/0_refrigerator_586_19": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and stove in it"
+    },
+    "zt1RVoi7PcG/0_refrigerator_586_0": {
+        "target": "kitchen door",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a kitchen door with a hole in it"
+    },
+    "zt1RVoi7PcG/0_refrigerator_586_22": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "stove"
+        ],
+        "caption": "a kitchen with white cabinets and a stove"
+    },
+    "zt1RVoi7PcG/1_refrigerator_586_9": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a blue refrigerator and a white refrigerator"
+    },
+    "zt1RVoi7PcG/1_refrigerator_586_11": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator and a refrigerator in a kitchen"
+    },
+    "zt1RVoi7PcG/1_refrigerator_586_13": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a broken door in a kitchen"
+    },
+    "zt1RVoi7PcG/1_refrigerator_586_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a door open in a kitchen"
+    },
+    "zt1RVoi7PcG/1_refrigerator_586_19": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and stove in it"
+    },
+    "zt1RVoi7PcG/2_refrigerator_586_22": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets",
+            "stove"
+        ],
+        "caption": "a kitchen with white cabinets and a stove"
+    },
+    "zt1RVoi7PcG/3_rug_57_40": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "couch coffee table"
+        ],
+        "caption": "a living room with a couch, coffee table and a couch"
+    },
+    "zt1RVoi7PcG/3_rug_57_47": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "television",
+            "chair"
+        ],
+        "caption": "a living room with a couch, chair and television"
+    },
+    "zt1RVoi7PcG/4_refrigerator_586_2": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a door that has been painted"
+    },
+    "zt1RVoi7PcG/4_mirror_717_14": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "wreath"
+        ],
+        "caption": "a broken window with a wreath hanging on it"
+    },
+    "zt1RVoi7PcG/6_refrigerator_586_6": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a refrigerator with a door that has been painted"
+    },
+    "zt1RVoi7PcG/6_refrigerator_586_10": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "counter",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and a counter"
+    },
+    "zt1RVoi7PcG/6_mirror_717_25": {
+        "target": "mirror",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [
+            "room",
+            "wall"
+        ],
+        "caption": "a broken mirror in a room with a broken wall"
+    },
+    "zt1RVoi7PcG/6_refrigerator_586_20": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "refrigerator"
+        ],
+        "caption": "a kitchen with a refrigerator and stove in it"
+    },
+    "zt1RVoi7PcG/7_refrigerator_586_7": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "door",
+            "kitchen"
+        ],
+        "caption": "a refrigerator with a door open in a kitchen"
+    },
+    "zt1RVoi7PcG/7_refrigerator_586_14": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a refrigerator with a hole in it"
+    },
+    "zt1RVoi7PcG/7_mirror_717_13": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "food",
+            "table",
+            "plate"
+        ],
+        "caption": "a picture of a plate of food on a table"
+    },
+    "zt1RVoi7PcG/7_refrigerator_586_18": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen",
+            "wood floor",
+            "stove"
+        ],
+        "caption": "a refrigerator and stove in a kitchen with a wood floor"
+    },
+    "zt1RVoi7PcG/8_mirror_717_8": {
+        "target": "picture",
+        "adjs": [],
+        "nearby": [
+            "food",
+            "table",
+            "plate"
+        ],
+        "caption": "a picture of a plate of food on a table"
+    },
+    "zt1RVoi7PcG/9_mirror_717_2": {
+        "target": "window",
+        "adjs": [],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a window with a broken glass in it"
+    }
+}

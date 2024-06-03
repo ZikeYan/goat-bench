@@ -14,6 +14,7 @@ habitat-lab
 # data
 data/*
 !data/languagenav/lang_parse/
+!data/imagenav/image_goal_caption_parse/
 # logs
 tb/
 train.log

@@ -3,6 +3,7 @@ import os
 import random
 from typing import TYPE_CHECKING, Any, Optional
 
+from matplotlib.dates import epoch2num
 import numpy as np
 from gym import spaces
 import habitat_sim
@@ -618,6 +619,7 @@ class GoatGoalSensor(Sensor):
         self.image_encoder = config.image_cache_encoder
         self.image_cache = None
         self.language_parse_cache = load_json(config.language_parse_cache)
+        self.image_parse_cache = load_json(config.image_parse_cache)
         # self.language_cache = load_pickle(config.language_cache)
         # self.object_cache = load_pickle(config.object_cache)
         self._current_scene_id = ""
@@ -784,8 +786,13 @@ class GoatGoalSensor(Sensor):
                 img_param = InstanceImageParameters(**goal[0]["image_goals"][episode.tasks[task.active_subtask_idx][3]])
                 img = self._get_instance_image_goal(img_param)
                 task_type = "image"
+                scene_id = episode.scene_id.split("/")[-1].split(".")[0]
+                # 1_blanket_271_46
+                img_id = f"{scene_id}/{episode_id}_{episode.tasks[task.active_subtask_idx][2]}_{episode.tasks[task.active_subtask_idx][3]}"
+                img_dict = self.image_parse_cache[img_id]
+                img_dict['goal'] = img
                 if self._return_gt_pos:
-                    return (img, task_type, episode.goals[task.active_subtask_idx][0]['position'])
+                    return (img_dict, task_type, episode.goals[task.active_subtask_idx][0]['position'])
                 return (img, task_type)
             else:
                 raise NotImplementedError

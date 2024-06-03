@@ -3,7 +3,6 @@ import os
 import random
 from typing import TYPE_CHECKING, Any, Optional
 
-from matplotlib.dates import epoch2num
 import numpy as np
 from gym import spaces
 import habitat_sim

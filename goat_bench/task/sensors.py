@@ -787,7 +787,7 @@ class GoatGoalSensor(Sensor):
                 task_type = "image"
                 scene_id = episode.scene_id.split("/")[-1].split(".")[0]
                 # 1_blanket_271_46
-                img_id = f"{scene_id}/{episode_id}_{episode.tasks[task.active_subtask_idx][2]}_{episode.tasks[task.active_subtask_idx][3]}"
+                img_id = f"{scene_id}/{episode.episode_id}_{episode.tasks[task.active_subtask_idx][2]}_{episode.tasks[task.active_subtask_idx][3]}"
                 img_dict = self.image_parse_cache[img_id]
                 img_dict['goal'] = img
                 if self._return_gt_pos:

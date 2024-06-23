@@ -281,7 +281,8 @@ def cache_goat_goals(dataset_path, output_path, model, split, task_type="image_d
             instructions = [line.strip() for line in file.readlines()]
             cache_parsed_insts_spacy(list(instructions), output_path, split)
     else:
-        img_descs = load_json(f"data/imagenav/{split}_image_goal.json")
+        img_descs = load_json(f"data/imagenav/image_goal_vqa_blip2/{split}_image_goal_blip2.json")
+        # img_descs = load_json(f"data/imagenav/{split}_image_goal.json")
         cache_image_desc_spacy(img_descs, output_path, split)
     # cache_embeddings(list(instructions), output_path, model)
     
@@ -321,9 +322,9 @@ def cache_parsed_insts_spacy(instructions, output_path, split=None):
 def cache_image_desc_spacy(img_descs, output_path, split=None):
     parser = TaskDescriptionParser()
     if split != "":
-        output_fname = output_path + f"{split}_caption_parse_spacy.json"
+        output_fname = output_path + f"{split}_caption_parse_spacy_blip2.json"
     else:
-        output_fname = output_path + "caption_parse_spacy.json"
+        output_fname = output_path + "caption_parse_spacy_blip2.json"
     results = {}
     for k in img_descs.keys():
         inst = img_descs[k]['image_caption']

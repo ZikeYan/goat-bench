@@ -1,32 +1,34 @@
 import argparse
-import glob
-import json
 import os
-import random
-
-from gym import Env
-import habitat
-import numpy as np
 import torch
 from habitat.config import read_write
 from habitat_baselines.config.default import get_config
 
-from goat_bench.models.encoders.clip import CLIPEncoder
-from goat_bench.models.encoders.vc1 import VC1Encoder
-from goat_bench.utils.utils import save_image, save_pickle, write_json
+from goat_bench.utils.utils import write_json
+import habitat
 from habitat.tasks.nav.instance_image_nav_task import InstanceImageParameters
 import torch
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
+from transformers import Blip2Processor, Blip2ForConditionalGeneration
+
+
 
 class ImageCaptioner:
-    def __init__(self, model_name="Salesforce/blip-image-captioning-base"):
+    def __init__(self, use_blip2=True):
         """
         Initialize the image captioner with the specified model.
         """
-        self.processor = BlipProcessor.from_pretrained(model_name)
-        self.model = BlipForConditionalGeneration.from_pretrained(model_name)
-
+        self.use_blip2 = use_blip2
+        if not use_blip2:
+            model_name="Salesforce/blip-image-captioning-base"
+            self.processor = BlipProcessor.from_pretrained(model_name)
+            self.model = BlipForConditionalGeneration.from_pretrained(model_name)
+        else:
+            model_name="Salesforce/blip2-opt-2.7b"
+            self.processor = Blip2Processor.from_pretrained(model_name)
+            self.model = Blip2ForConditionalGeneration.from_pretrained(model_name, device_map="auto")
+            self.prompt = "The main object in scene is"
     def generate_caption(self, image):
         """
         Generate a caption for the given image.
@@ -39,11 +41,15 @@ class ImageCaptioner:
         """
         # Load and preprocess the image
         # image = Image.open(image_path).convert("RGB")
-        inputs = self.processor(images=image, return_tensors="pt")
-
-        # Generate caption
-        out = self.model.generate(**inputs)
-        caption = self.processor.decode(out[0], skip_special_tokens=True)
+        if self.use_blip2:
+            inputs = self.processor(image, self.prompt, return_tensors="pt").to("cuda")
+            out = self.model.generate(**inputs, max_length=50)
+            caption = self.processor.decode(out[0], skip_special_tokens=True).strip()
+        else:
+            inputs = self.processor(images=image, return_tensors="pt")
+            # Generate caption
+            out = self.model.generate(**inputs)
+            caption = self.processor.decode(out[0], skip_special_tokens=True)
         return caption
 
 class CacheGoals:
@@ -110,6 +116,36 @@ class CacheGoals:
                 image.save(image_path)
         write_json(data_goal, os.path.join(self.output_path, f"{split}_image_goal.json"))
     
+    def run_cached(self, split):
+        data_goal = {}
+        
+        # Define the directory containing the cached images
+        cache_dir = os.path.join(self.output_path, f'raw_image/{split}/')
+        
+        for root, _, files in os.walk(cache_dir):
+            for file in files:
+                if file.endswith(".png"):
+                    # Extract metadata from the file name
+                    out_fname = os.path.join(root, file)
+                    scene_name, episode_id, object_id, pos_id = file.replace('.png', '').split('_')
+                    
+                    # Load the cached image
+                    image = Image.open(out_fname)
+                    
+                    # Generate caption from the cached image
+                    caption = self.captioner.generate_caption(image)
+                    
+                    metadata = dict(
+                        object_id=object_id,
+                        image_caption=caption
+                    )
+                    
+                    print(out_fname, caption)
+                    data_goal[file.replace('.png', '')] = metadata
+        
+        # Write the metadata to a JSON file
+        write_json(data_goal, os.path.join(self.output_path, f"image_goal_vqa_blip2/{split}_image_goal_blip2.json"))
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -133,7 +169,7 @@ if __name__ == "__main__":
         config_path=args.config,
         output_path=args.output_path,
     )
-    for split in ["val_seen_synonyms"]:
-    # for split in ["val_seen", "val_unseen", "val_synonyms"]:
-        cache.run(split)
+    for split in ["val_seen", "val_unseen", "val_seen_synonyms"]:
+        cache.run_cached(split)
+        # cache.run(split)
     # cache.run(args.split)

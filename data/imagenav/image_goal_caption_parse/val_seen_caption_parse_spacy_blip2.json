@@ -1,0 +1,6865 @@
+{
+    "6_bed_198_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bedspread"
+        ],
+        "caption": "a bed with a blue and white bedspread"
+    },
+    "8_cabinet table_805_17": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "candles",
+            "lanterns"
+        ],
+        "caption": "a table with candles and lanterns"
+    },
+    "8_monitor_636_22": {
+        "target": "computer monitor",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a computer monitor"
+    },
+    "0_cabinet_720_9": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror",
+            "top"
+        ],
+        "caption": "a white cabinet with a mirror on the top"
+    },
+    "9_monitor_636_8": {
+        "target": "hp monitor",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a hp monitor"
+    },
+    "0_monitor_636_43": {
+        "target": "laptop computer",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a laptop computer"
+    },
+    "9_monitor_636_39": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair",
+            "laptop"
+        ],
+        "caption": "a desk with a laptop and a chair"
+    },
+    "4_bathtub_377_3": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathtub"
+    },
+    "7_clothes_427_0": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "rack"
+        ],
+        "caption": "a closet with clothes hanging on the rack"
+    },
+    "0_tv_512_104": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "8_couch_675_19": {
+        "target": "couch",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a grey couch with purple and yellow pillows"
+    },
+    "7_board_66_28": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "snacks"
+        ],
+        "caption": "a wall with snacks"
+    },
+    "1_board_66_27": {
+        "target": "blackboard",
+        "adjs": [],
+        "nearby": [
+            "snacks",
+            "bunch"
+        ],
+        "caption": "a blackboard with a bunch of snacks on it"
+    },
+    "7_board_66_23": {
+        "target": "snack bar",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a snack bar"
+    },
+    "1_bed_198_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bedspread"
+        ],
+        "caption": "a bed with a blue and white bedspread"
+    },
+    "9_tv_681_38": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "3_cabinet_820_7": {
+        "target": "tv",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black tv stand"
+    },
+    "4_table_58_22": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "3_cabinet table_805_40": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "candles"
+        ],
+        "caption": "a table with candles and a lamp"
+    },
+    "5_clothes_427_0": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "rack"
+        ],
+        "caption": "a closet with clothes hanging on the rack"
+    },
+    "0_monitor_636_21": {
+        "target": "computer monitor",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a computer monitor"
+    },
+    "4_board_66_18": {
+        "target": "snack bar",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a snack bar"
+    },
+    "3_tv_681_29": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "7_table_58_2": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "1_bed_140_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "soccer ball"
+        ],
+        "caption": "a bed with a soccer ball on it"
+    },
+    "8_tv_681_13": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "2_board_66_22": {
+        "target": "snack bar",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a snack bar"
+    },
+    "1_table_58_2": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "8_worktop_485_33": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "3_sink_704_4": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a washing machine and a sink"
+    },
+    "1_worktop_485_14": {
+        "target": "kitchen counter",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white kitchen counter"
+    },
+    "5_washing machine_700_10": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "4_desk_670_42": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a desk with a mirror on it"
+    },
+    "7_worktop_485_36": {
+        "target": "kitchen",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white kitchen"
+    },
+    "1_stove_499_10": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "5_washing machine_700_5": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer",
+            "room"
+        ],
+        "caption": "a washer and dryer in a small room"
+    },
+    "3_washing machine_700_18": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "4_sink_704_0": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a washing machine and a sink"
+    },
+    "4_container_613_1": {
+        "target": "bin",
+        "adjs": [
+            "blue",
+            "large"
+        ],
+        "nearby": [
+            "lid"
+        ],
+        "caption": "a large blue bin with a lid"
+    },
+    "1_table_503_8": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "shelf"
+        ],
+        "caption": "a wooden table with a shelf"
+    },
+    "3_desk_670_34": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a desk with a broken window"
+    },
+    "9_blanket_207_17": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a brown blanket"
+    },
+    "6_cabinet_465_3": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a refrigerator in the kitchen"
+    },
+    "9_bed_17_7": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bed"
+    },
+    "6_worktop_485_18": {
+        "target": "kitchen",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a white kitchen with a sink"
+    },
+    "0_sink_704_4": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a washing machine and a sink"
+    },
+    "1_stove_499_60": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "4_sink_704_3": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a washing machine and a sink"
+    },
+    "2_sink_704_3": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a washing machine and a sink"
+    },
+    "2_desk_670_38": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "top"
+        ],
+        "caption": "a desk with a shelf on top"
+    },
+    "7_table_206_10": {
+        "target": "coffee table",
+        "adjs": [],
+        "nearby": [
+            "glass top"
+        ],
+        "caption": "a coffee table with a broken glass top"
+    },
+    "9_countertop_244_2": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a sink and mirror"
+    },
+    "7_cabinet_291_9": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "8_couch_203_16": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "0_couch_204_1": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "coffee table"
+        ],
+        "caption": "a couch and a coffee table"
+    },
+    "4_desk_76_17": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "lamp"
+        ],
+        "caption": "a desk with a lamp on it"
+    },
+    "1_couch_204_21": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "5_cabinet_301_20": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets"
+        ],
+        "caption": "a kitchen with white cabinets"
+    },
+    "0_table_97_0": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "caption": "a wooden table with a bed on it"
+    },
+    "7_stove_345_29": {
+        "target": "stove top",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove top with a broken oven"
+    },
+    "3_countertop_244_2": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a sink and mirror"
+    },
+    "0_washer-dryer_14_9": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "0_couch_204_20": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "5_table_97_0": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "caption": "a wooden table with a bed on it"
+    },
+    "2_couch_204_23": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "3_couch_204_6": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "2_couch_203_20": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "0_stove_345_8": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove with a broken oven"
+    },
+    "8_couch_203_2": {
+        "target": "couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black couch"
+    },
+    "5_couch_204_12": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "6_cabinet_291_12": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "6_table_206_24": {
+        "target": "coffee table",
+        "adjs": [],
+        "nearby": [
+            "glass top"
+        ],
+        "caption": "a coffee table with a broken glass top"
+    },
+    "7_countertop_244_1": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a mirror"
+    },
+    "0_couch_203_10": {
+        "target": "couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black couch"
+    },
+    "1_bed_100_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "3_table_97_0": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "caption": "a wooden table with a bed on it"
+    },
+    "9_bed_520_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "1_cabinet_504_30": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a bed with a dresser and a dresser"
+    },
+    "2_bathroom cabinet_447_21": {
+        "target": "cow head",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a cow head"
+    },
+    "5_display cabinet_219_29": {
+        "target": "cabinet",
+        "adjs": [],
+        "nearby": [
+            "mirrors"
+        ],
+        "caption": "a cabinet with mirrors"
+    },
+    "0_oven and stove_306_35": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "5_box_477_0": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "microwave"
+        ],
+        "caption": "a white dresser with a white microwave on top"
+    },
+    "5_bathroom cabinet_441_8": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a toilet and cabinet"
+    },
+    "8_oven and stove_306_20": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "7_bed_520_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "6_bathtub_42_0": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "bird"
+        ],
+        "caption": "a bathtub with a black bird on it"
+    },
+    "3_washing machine_417_22": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "9_bathroom cabinet_447_6": {
+        "target": "bathroom vanity",
+        "adjs": [
+            "rustic"
+        ],
+        "nearby": [],
+        "caption": "a rustic bathroom vanity"
+    },
+    "0_oven and stove_306_19": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "4_washing machine_417_11": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "5_display cabinet_219_17": {
+        "target": "cabinet",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "top"
+        ],
+        "caption": "a cabinet with a mirror on the top"
+    },
+    "5_bathroom cabinet_441_29": {
+        "target": "shower stall",
+        "adjs": [],
+        "nearby": [
+            "toilet",
+            "sink"
+        ],
+        "caption": "a shower stall with a sink and toilet"
+    },
+    "2_cabinet_226_44": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "painting",
+            "wall"
+        ],
+        "caption": "a wooden cabinet with a painting on the wall"
+    },
+    "0_oven and stove_306_36": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "1_bathroom towel_445_0": {
+        "target": "towel",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white towel"
+    },
+    "0_cabinet_476_50": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a white cabinet with drawers"
+    },
+    "2_oven and stove_306_9": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "4_oven and stove_306_34": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "4_oven and stove_306_36": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "3_bathroom towel_445_0": {
+        "target": "towel",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white towel"
+    },
+    "8_washing machine_417_13": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "4_oven and stove_306_13": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "3_cabinet_233_42": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "entertainment center"
+        ],
+        "caption": "a tv on a wooden entertainment center"
+    },
+    "1_box_477_0": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "top",
+            "microwave"
+        ],
+        "caption": "a white dresser with a white microwave on top"
+    },
+    "4_cabinet_233_55": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "table"
+        ],
+        "caption": "a tv on a wooden table"
+    },
+    "9_cabinet_476_36": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a white cabinet with a white door"
+    },
+    "3_bed_520_2": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "8_wardrobe_692_5": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "0_bath towel_875_10": {
+        "target": "towel rack",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a towel rack"
+    },
+    "1_couch_432_1": {
+        "target": "couch",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large couch"
+    },
+    "0_plush toy_771_0": {
+        "target": "stuffed animal",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stuffed animal"
+    },
+    "2_bath towel_874_5": {
+        "target": "chair",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue chair"
+    },
+    "6_cabinet_481_1": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "television",
+            "top"
+        ],
+        "caption": "a white dresser with a television on top"
+    },
+    "3_plush toy_771_0": {
+        "target": "stuffed animal",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stuffed animal"
+    },
+    "3_wardrobe_692_4": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "3_plush toy_771_2": {
+        "target": "stuffed animal",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stuffed animal"
+    },
+    "1_clothes_122_3": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a mirror"
+    },
+    "2_plush toy_771_0": {
+        "target": "stuffed animal",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stuffed animal"
+    },
+    "6_tv_480_52": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a tv"
+    },
+    "5_plush toy_771_0": {
+        "target": "stuffed animal",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stuffed animal"
+    },
+    "9_cabinet_404_121": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "3_tv_480_18": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen television"
+    },
+    "9_oven_320_19": {
+        "target": "kitchen oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen oven"
+    },
+    "6_bath towel_875_23": {
+        "target": "towel rack",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a towel rack"
+    },
+    "5_clothes_678_14": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "8_clothes_678_6": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with many clothes"
+    },
+    "6_tv_480_7": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "2_tv_480_49": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "stand"
+        ],
+        "caption": "a tv on a stand"
+    },
+    "5_clothes_678_35": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "8_wardrobe_873_68": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "doors"
+        ],
+        "caption": "a closet with many doors"
+    },
+    "2_bathtub_310_22": {
+        "target": "jacuzzi tub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a jacuzzi tub"
+    },
+    "6_tv_563_33": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "5_bed_250_31": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "headboard"
+        ],
+        "caption": "the bed with a headboard"
+    },
+    "1_bed_250_9": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "headboard"
+        ],
+        "caption": "the bed with a headboard"
+    },
+    "3_oven and stove_119_36": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the stove"
+    },
+    "0_oven and stove_119_1": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a stove with a broken door"
+    },
+    "8_bathtub_613_14": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "outline"
+        ],
+        "caption": "a bathtub with a black outline"
+    },
+    "0_table_19_0": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden table"
+    },
+    "3_washing machine_340_4": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "6_washing machine_340_1": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "5_clothes dryer_339_4": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "1_wardrobe_454_20": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "handle"
+        ],
+        "caption": "the door with the wooden handle"
+    },
+    "3_tv_563_7": {
+        "target": "tv screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a tv screen"
+    },
+    "6_oven and stove_119_49": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "pot"
+        ],
+        "caption": "a stove with a pot on it"
+    },
+    "6_bed_250_18": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the bed"
+    },
+    "3_tv_563_38": {
+        "target": "television set",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television set"
+    },
+    "4_shower soap shelf_619_4": {
+        "target": "shower",
+        "adjs": [],
+        "nearby": [
+            "bottles",
+            "shampoo"
+        ],
+        "caption": "a shower with three bottles of shampoo"
+    },
+    "8_oven and stove_119_31": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "7_table_180_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "6_table_79_0": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "top"
+        ],
+        "caption": "a table with a lamp on top"
+    },
+    "7_shower soap shelf_619_27": {
+        "target": "shower",
+        "adjs": [],
+        "nearby": [
+            "tile floor"
+        ],
+        "caption": "a shower with a tile floor"
+    },
+    "9_bathtub_613_17": {
+        "target": "jacuzzi tub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a jacuzzi tub"
+    },
+    "7_rack_570_32": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "shelves"
+        ],
+        "caption": "a closet with shelves"
+    },
+    "5_bed_853_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter pillows"
+        ],
+        "caption": "a bed with a gray comforter and blue pillows"
+    },
+    "9_kitchen lower cabinet_447_54": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a stove and a sink"
+    },
+    "7_blanket_297_15": {
+        "target": "plant",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large plant"
+    },
+    "6_bed_853_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter pillows"
+        ],
+        "caption": "a bed with a gray comforter and blue pillows"
+    },
+    "1_bathtub_695_25": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a freestanding bathtub"
+    },
+    "3_kitchen lower cabinet_447_16": {
+        "target": "vase",
+        "adjs": [],
+        "nearby": [
+            "counter"
+        ],
+        "caption": "a vase on the counter"
+    },
+    "0_bathtub_695_16": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a freestanding bathtub"
+    },
+    "7_display cabinet_440_3": {
+        "target": "cabinet",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a cabinet with a mirror"
+    },
+    "8_blanket_297_11": {
+        "target": "window",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "plant"
+        ],
+        "caption": "a large window with a large plant"
+    },
+    "2_cabinet_738_7": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_bed_853_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter pillows"
+        ],
+        "caption": "a bed with a gray comforter and blue pillows"
+    },
+    "4_chair_765_12": {
+        "target": "chair",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue chair"
+    },
+    "4_bed_853_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a gray and blue comforter"
+    },
+    "9_sink_482_16": {
+        "target": "sink",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white sink"
+    },
+    "5_drawer_844_7": {
+        "target": "dresser",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden dresser"
+    },
+    "0_chair_765_56": {
+        "target": "chair",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue chair"
+    },
+    "6_bathtub_695_22": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a freestanding bathtub"
+    },
+    "7_blanket_297_5": {
+        "target": "window",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "fur rug"
+        ],
+        "caption": "a large window with a large fur rug"
+    },
+    "7_desk_247_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "top"
+        ],
+        "caption": "a desk with a wooden top"
+    },
+    "8_desk_247_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "top"
+        ],
+        "caption": "a desk with a wooden top"
+    },
+    "3_sink_430_4": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a sink and window"
+    },
+    "8_display cabinet_440_47": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a kitchen cabinet with a mirror"
+    },
+    "4_bathtub_695_19": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a freestanding bathtub"
+    },
+    "9_blanket_297_14": {
+        "target": "window",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "view",
+            "outdoors"
+        ],
+        "caption": "a large window with a view of the outdoors"
+    },
+    "6_cabinet_741_3": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "baskets"
+        ],
+        "caption": "a white cabinet with baskets"
+    },
+    "1_bench_218_10": {
+        "target": "glass table",
+        "adjs": [],
+        "nearby": [
+            "bench"
+        ],
+        "caption": "a glass table with a bench"
+    },
+    "7_couch_9_10": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a couch with two pillows"
+    },
+    "3_bathroom cabinet_384_2": {
+        "target": "bathroom",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white bathroom sink"
+    },
+    "3_couch_9_22": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a couch with pillows"
+    },
+    "5_blanket_62_0": {
+        "target": "couch",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue couch"
+    },
+    "4_towel_380_32": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "1_cabinet_183_30": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "6_towel_380_17": {
+        "target": "towel",
+        "adjs": [
+            "green"
+        ],
+        "nearby": [
+            "hanger"
+        ],
+        "caption": "a green towel hanging on a hanger"
+    },
+    "8_towel_380_14": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "1_oven_233_49": {
+        "target": "oven",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white oven"
+    },
+    "8_cabinet_183_24": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "1_kitchen lower cabinet_197_53": {
+        "target": "floor",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden floor"
+    },
+    "9_blanket_62_15": {
+        "target": "couch",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue couch"
+    },
+    "0_rack_286_0": {
+        "target": "wall",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden wall"
+    },
+    "5_oven_233_58": {
+        "target": "oven",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white oven"
+    },
+    "2_rack_286_0": {
+        "target": "wall",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden wall"
+    },
+    "7_kitchen lower cabinet_197_25": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "1_oven_233_79": {
+        "target": "kitchen",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "floors"
+        ],
+        "caption": "a white kitchen with wooden floors"
+    },
+    "3_bed_311_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a grey comforter"
+    },
+    "2_oven_233_24": {
+        "target": "oven",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a white oven and microwave"
+    },
+    "9_kitchen lower cabinet_184_5": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the sink"
+    },
+    "2_cabinet_183_31": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "4_sofa chair_11_1": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [
+            "arms"
+        ],
+        "caption": "a chair with studded arms"
+    },
+    "8_bench_218_8": {
+        "target": "glass table",
+        "adjs": [],
+        "nearby": [
+            "bench"
+        ],
+        "caption": "a glass table with a bench"
+    },
+    "5_bathroom cabinet_384_5": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "9_towel_380_20": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "5_cabinet_183_19": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "6_towel_380_12": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "0_bench_218_2": {
+        "target": "glass coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a glass coffee table"
+    },
+    "6_towel_380_30": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "shower"
+        ],
+        "caption": "a toilet and a shower"
+    },
+    "6_washing machine_78_2": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_washing machine_77_9": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "0_oven and stove_284_4": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "1_table_165_3": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "6_towel_157_11": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "9_towel_157_20": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "wall",
+            "toilet"
+        ],
+        "caption": "a bathroom with a toilet, sink and a picture hanging on the wall"
+    },
+    "7_towel_157_17": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "wall",
+            "toilet"
+        ],
+        "caption": "a bathroom with a toilet, sink and a picture hanging on the wall"
+    },
+    "2_table_165_13": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sinks"
+        ],
+        "caption": "a bathroom with two sinks"
+    },
+    "7_towel_157_4": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging from the wall"
+    },
+    "4_chair_355_0": {
+        "target": "bench",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden bench"
+    },
+    "1_sink cabinet_106_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "4_tv_318_4": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "8_sink cabinet_106_1": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "3_couch_296_15": {
+        "target": "leather couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown leather couch"
+    },
+    "6_washing machine_77_13": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "5_oven and stove_284_8": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "4_oven and stove_284_20": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "caption": "a stove in a kitchen"
+    },
+    "7_washing machine_78_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_towel_157_16": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "6_towel_157_0": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "shower rod"
+        ],
+        "caption": "a towel hanging from the shower rod"
+    },
+    "8_washing machine_77_13": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "4_table_280_25": {
+        "target": "kitchen counter",
+        "adjs": [],
+        "nearby": [
+            "top"
+        ],
+        "caption": "the kitchen counter top"
+    },
+    "4_oven and stove_284_10": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a stove and microwave"
+    },
+    "8_towel_157_23": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "wall",
+            "toilet",
+            "sink"
+        ],
+        "caption": "a bathroom with a sink, toilet and a picture hanging on the wall"
+    },
+    "0_chair_355_0": {
+        "target": "bench",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden bench"
+    },
+    "2_washing machine_77_14": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "4_couch_420_0": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "5_tv_318_7": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "1_cabinet_599_14": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "glass doors"
+        ],
+        "caption": "a wooden cabinet with glass doors"
+    },
+    "5_cabinet_599_16": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "7_wardrobe_690_4": {
+        "target": "door",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden door"
+    },
+    "1_container_578_4": {
+        "target": "shelf",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a wooden shelf with three drawers"
+    },
+    "0_bathtub_32_21": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathtub"
+    },
+    "9_container_578_1": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a stone wall and a wooden door"
+    },
+    "5_wardrobe_690_11": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the stone wall"
+    },
+    "9_container_578_4": {
+        "target": "shelf",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a wooden shelf with three drawers"
+    },
+    "4_cabinet_599_27": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "glass door"
+        ],
+        "caption": "a wooden cabinet with a glass door"
+    },
+    "9_desk_583_3": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a desk with drawers"
+    },
+    "4_container_578_5": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a stone wall with a wooden door"
+    },
+    "0_tv_306_4": {
+        "target": "television",
+        "adjs": [
+            "black",
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a black and white television"
+    },
+    "2_tv_306_0": {
+        "target": "box",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black box"
+    },
+    "7_cabinet_599_5": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "glass doors"
+        ],
+        "caption": "a wooden cabinet with glass doors"
+    },
+    "5_container_578_2": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a stone wall with a wooden door"
+    },
+    "8_desk_583_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "lamp"
+        ],
+        "caption": "a desk with a lamp on it"
+    },
+    "9_container_578_3": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [
+            "shelves"
+        ],
+        "caption": "a stone wall with wooden shelves"
+    },
+    "6_container_578_0": {
+        "target": "wall",
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "caption": "a wall with a wooden shelf"
+    },
+    "6_wardrobe_690_13": {
+        "target": "stone wall",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the stone wall"
+    },
+    "0_tv_306_3": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bed"
+    },
+    "0_bed_90_11": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bedspread"
+        ],
+        "caption": "the bed with red and white bedspread"
+    },
+    "5_bathroom cabinet_374_12": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "shower curtain"
+        ],
+        "caption": "a bathroom with a cabinet and a shower curtain"
+    },
+    "8_oven and stove_328_8": {
+        "target": "microwave oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the microwave oven"
+    },
+    "1_oven and stove_328_7": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "6_towel_395_4": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "shower curtain"
+        ],
+        "caption": "a toilet and a shower curtain"
+    },
+    "4_oven and stove_328_1": {
+        "target": "stove top",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white stove top"
+    },
+    "2_oven and stove_328_16": {
+        "target": "stove",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a white stove and oven"
+    },
+    "1_oven and stove_328_2": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "7_bed_199_32": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "the bed with a white comforter"
+    },
+    "1_blanket_271_46": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "9_rack_9_16": {
+        "target": "shelf",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a wooden shelf with a window"
+    },
+    "8_towel_395_19": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "towel rack"
+        ],
+        "caption": "a towel hanging on a towel rack"
+    },
+    "9_bed_199_29": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "4_sink cabinet_318_31": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the sink"
+    },
+    "3_oven and stove_328_14": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "the stove top oven"
+    },
+    "7_heater_128_11": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "2_towel_395_21": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a towel hanging on a door"
+    },
+    "9_rack_9_38": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "caption": "a chair and a wooden shelf"
+    },
+    "3_towel_395_6": {
+        "target": "towel",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue towel"
+    },
+    "2_oven and stove_328_4": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "0_heater_128_13": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "7_heater_128_7": {
+        "target": "white box",
+        "adjs": [],
+        "nearby": [
+            "cover"
+        ],
+        "caption": "a white box with a black cover"
+    },
+    "7_rack_9_37": {
+        "target": "chair",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "wall",
+            "deer head"
+        ],
+        "caption": "a wooden chair and a deer head mounted on the wall"
+    },
+    "6_blanket_271_36": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a black leather couch with pillows"
+    },
+    "0_heater_128_6": {
+        "target": "space station",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a space station"
+    },
+    "1_sink cabinet_318_34": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "counter top"
+        ],
+        "caption": "the sink and the counter top"
+    },
+    "7_heater_128_9": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "1_toy_818_1": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a shelf with a shelf and a shelf with a shelf"
+    },
+    "3_kitchen shelf_168_27": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "countertop"
+        ],
+        "caption": "a sink and countertop"
+    },
+    "2_cabinet_202_29": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden chest"
+    },
+    "7_sofa chair_487_1": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "6_bed_253_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a striped blanket"
+    },
+    "1_toy_818_11": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a shelf with a shelf and a shelf with a shelf"
+    },
+    "4_sofa seat_496_9": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "0_kitchen shelf_144_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken refrigerator"
+    },
+    "8_towel_865_9": {
+        "target": "shower",
+        "adjs": [],
+        "nearby": [
+            "towel",
+            "shower head"
+        ],
+        "caption": "a shower with a towel hanging from the shower head"
+    },
+    "5_sofa chair_306_7": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "9_sofa seat_496_6": {
+        "target": "couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a brown couch with red pillows"
+    },
+    "4_chair_109_13": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with four chairs"
+    },
+    "4_kitchen shelf_144_0": {
+        "target": "refrigerator",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken refrigerator"
+    },
+    "0_cabinet_202_5": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "wall",
+            "mirror"
+        ],
+        "caption": "a wooden chest with a mirror on the wall"
+    },
+    "4_table_114_8": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "7_chair_109_22": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "0_oven_124_54": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "steel oven"
+        ],
+        "caption": "a kitchen with a stainless steel oven"
+    },
+    "0_table_114_7": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "9_chair_109_18": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with floral chairs"
+    },
+    "4_chair_109_3": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "4_cloth_251_25": {
+        "target": "statue",
+        "adjs": [],
+        "nearby": [
+            "virgin mary"
+        ],
+        "caption": "a statue of the virgin mary"
+    },
+    "0_cloth_307_0": {
+        "target": "dress",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large dress"
+    },
+    "9_cloth_251_23": {
+        "target": "statue",
+        "adjs": [],
+        "nearby": [
+            "woman",
+            "gold dress"
+        ],
+        "caption": "a statue of a woman in a gold dress"
+    },
+    "2_cloth_251_28": {
+        "target": "woman",
+        "adjs": [],
+        "nearby": [
+            "dress"
+        ],
+        "caption": "a woman in a red dress"
+    },
+    "2_cloth_252_58": {
+        "target": "dress",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "embroidery"
+        ],
+        "caption": "a white dress with gold embroidery"
+    },
+    "7_cloth_252_27": {
+        "target": "dress",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "gold trim"
+        ],
+        "caption": "a white dress with gold trim"
+    },
+    "6_cloth_251_21": {
+        "target": "dress",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a red dress"
+    },
+    "7_cloth_307_0": {
+        "target": "dress",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large dress"
+    },
+    "6_cloth_307_0": {
+        "target": "dress",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large dress"
+    },
+    "7_cloth_251_22": {
+        "target": "gold dress",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a gold and red dress"
+    },
+    "4_cloth_252_56": {
+        "target": "robe",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "embroidery"
+        ],
+        "caption": "a white robe with gold embroidery"
+    },
+    "1_cloth_161_68": {
+        "target": "gold dress",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue and gold dress"
+    },
+    "2_cloth_251_43": {
+        "target": "gold dress",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a red and gold dress"
+    },
+    "0_cloth_251_16": {
+        "target": "gold dress",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a red and gold dress"
+    },
+    "7_cloth_252_50": {
+        "target": "gold dress",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a gold and red dress"
+    },
+    "7_cloth_51_40": {
+        "target": "robe",
+        "adjs": [
+            "black",
+            "gold"
+        ],
+        "nearby": [],
+        "caption": "a black and gold embroidered robe"
+    },
+    "3_cabinet_454_1": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table and chairs"
+    },
+    "1_wardrobe_11_2": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "4_balustrade_194_1": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "table"
+        ],
+        "caption": "a couch and a table"
+    },
+    "9_wardrobe_137_3": {
+        "target": "ladder",
+        "adjs": [],
+        "nearby": [
+            "books",
+            "suitcase"
+        ],
+        "caption": "a ladder with books and a suitcase"
+    },
+    "8_couch_275_37": {
+        "target": "leather couch",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather couch"
+    },
+    "6_blanket_189_34": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "room"
+        ],
+        "caption": "a couch in a room"
+    },
+    "5_clothes_620_1": {
+        "target": "rack",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a rack with clothes"
+    },
+    "7_balustrade_287_0": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a staircase with a mirror"
+    },
+    "6_tv_10_3": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "2_cabinet_454_1": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table and chairs"
+    },
+    "7_bathroom cabinet_566_36": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "9_tv_10_64": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a television mounted on a dresser"
+    },
+    "8_table_452_0": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "0_wardrobe_135_24": {
+        "target": "armoire",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "mirror",
+            "basket"
+        ],
+        "caption": "a wooden armoire with a mirror and a basket"
+    },
+    "6_couch_132_18": {
+        "target": "leather couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown leather couch"
+    },
+    "1_balustrade_287_0": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a staircase with a mirror"
+    },
+    "2_table_452_0": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "4_balustrade_194_4": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken window"
+    },
+    "8_clothes_620_2": {
+        "target": "rack",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a rack with clothes hanging on it"
+    },
+    "7_couch_275_19": {
+        "target": "leather recliner",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black leather recliner"
+    },
+    "7_table_452_0": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "0_blanket_189_31": {
+        "target": "leather couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown leather couch"
+    },
+    "6_wardrobe_135_3": {
+        "target": "leather couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown leather couch"
+    },
+    "0_wardrobe_137_9": {
+        "target": "bookcase",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken bookcase"
+    },
+    "9_bed_16_4": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "headboard"
+        ],
+        "caption": "a bed with a wooden headboard"
+    },
+    "3_couch_275_23": {
+        "target": "leather recliner",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a leather recliner"
+    },
+    "5_bathroom cabinet_566_34": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "8_table_98_0": {
+        "target": "dining table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining table with chairs"
+    },
+    "7_oven and stove_48_13": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "6_bed_267_10": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a black and orange comforter"
+    },
+    "1_wardrobe_271_20": {
+        "target": "bedroom door",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a bedroom door with a broken window"
+    },
+    "0_cabinet_52_36": {
+        "target": "entertainment center",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden entertainment center"
+    },
+    "1_bed_267_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blanket on it"
+    },
+    "5_towel_254_2": {
+        "target": "wall",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a white wall with a blue towel on it"
+    },
+    "3_tv_31_25": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "0_table_47_22": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "3_bed_110_19": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a striped comforter"
+    },
+    "3_washing machine_170_11": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "9_washing machine_170_14": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_couch_34_1": {
+        "target": "couch coffee table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch and coffee table"
+    },
+    "0_table_36_2": {
+        "target": "couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown couch"
+    },
+    "1_cabinet_124_4": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "top"
+        ],
+        "caption": "a dresser with a flat screen tv on top"
+    },
+    "5_wardrobe_271_57": {
+        "target": "bedroom",
+        "adjs": [],
+        "nearby": [
+            "closet",
+            "bed"
+        ],
+        "caption": "a bedroom with a bed and closet"
+    },
+    "7_table_36_3": {
+        "target": "couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown couch"
+    },
+    "4_table_36_2": {
+        "target": "couch",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown couch"
+    },
+    "1_wardrobe_271_9": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white door"
+    },
+    "6_bed_267_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blanket on it"
+    },
+    "5_cabinet_124_27": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "screen tv"
+        ],
+        "caption": "a dresser with a flat screen tv"
+    },
+    "2_washing machine_170_21": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "4_tv_125_0": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "4_tv_125_1": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a tv on a dresser"
+    },
+    "6_oven and stove_48_25": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "6_couch_375_19": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "0_table_283_11": {
+        "target": "table",
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "stools"
+        ],
+        "caption": "a small table with two stools"
+    },
+    "6_cabinet_343_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a bed with a dresser next to it"
+    },
+    "2_oven_296_43": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "oven"
+        ],
+        "caption": "the kitchen with a stove, oven and sink"
+    },
+    "7_bed_43_26": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "cover"
+        ],
+        "caption": "a bed with a blue cover"
+    },
+    "3_bed_43_9": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blue blanket"
+    },
+    "6_table_398_0": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table with chairs"
+    },
+    "5_table_398_1": {
+        "target": "dining room table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining room table and chairs"
+    },
+    "0_table_283_2": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a table"
+    },
+    "9_table_283_6": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "stools"
+        ],
+        "caption": "a table with four stools"
+    },
+    "0_cabinet_238_17": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "5_couch_375_30": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "7_desk_18_0": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white desk"
+    },
+    "9_table_283_11": {
+        "target": "table",
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "stools"
+        ],
+        "caption": "a small table with two stools"
+    },
+    "4_cabinet_377_4": {
+        "target": "table",
+        "adjs": [
+            "yellow"
+        ],
+        "nearby": [],
+        "caption": "a yellow table"
+    },
+    "3_desk_18_2": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a white desk with a broken sink"
+    },
+    "1_chair_11_4": {
+        "target": "chair",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown chair"
+    },
+    "1_chair_11_3": {
+        "target": "recliner chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a recliner chair"
+    },
+    "1_chair_11_1": {
+        "target": "recliner",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown recliner"
+    },
+    "1_cabinet_107_18": {
+        "target": "bathroom",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white bathroom sink"
+    },
+    "0_bed_742_16": {
+        "target": "bunk bed",
+        "adjs": [],
+        "nearby": [
+            "ladder"
+        ],
+        "caption": "a bunk bed with a ladder"
+    },
+    "5_table_584_21": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a round table with four chairs"
+    },
+    "4_washer-dryer_350_2": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "0_bed_678_3": {
+        "target": "bunk bed",
+        "adjs": [],
+        "nearby": [
+            "ladder"
+        ],
+        "caption": "a bunk bed with a ladder"
+    },
+    "5_table_584_3": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a round table with two chairs"
+    },
+    "4_cabinet_263_2": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "top",
+            "vase"
+        ],
+        "caption": "a wooden cabinet with a vase on top"
+    },
+    "4_washer-dryer_350_8": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "3_tv_570_17": {
+        "target": "screen tv",
+        "adjs": [
+            "large",
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a large flat screen tv"
+    },
+    "1_sideboard_617_4": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "caption": "a tv on a shelf"
+    },
+    "8_bed_742_11": {
+        "target": "bunk bed",
+        "adjs": [],
+        "nearby": [
+            "frame"
+        ],
+        "caption": "a bunk bed with a white frame"
+    },
+    "1_tv_570_65": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "9_tv_570_41": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen tv"
+    },
+    "2_bed_531_58": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bedspread"
+        ],
+        "caption": "a bed with colorful bedspread"
+    },
+    "2_washer-dryer_350_9": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_table_584_12": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a round table with two chairs"
+    },
+    "1_bed_678_3": {
+        "target": "bunk bed",
+        "adjs": [],
+        "nearby": [
+            "ladder"
+        ],
+        "caption": "a bunk bed with a ladder"
+    },
+    "9_tv_570_46": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "4_bed_531_17": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "bedspread"
+        ],
+        "caption": "a bed with colorful bedspread"
+    },
+    "2_cabinet_220_41": {
+        "target": "wine rack",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wine rack"
+    },
+    "8_table_584_32": {
+        "target": "table",
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a round table with two chairs"
+    },
+    "2_tv_246_26": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "screen"
+        ],
+        "caption": "a tv with a broken screen"
+    },
+    "5_tv_570_4": {
+        "target": "tv",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a large tv mounted on the wall"
+    },
+    "7_sideboard_617_49": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "caption": "a tv on a shelf"
+    },
+    "2_heater_883_24": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radiator"
+    },
+    "0_cabinet_515_1": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a dresser with a chair and a chair"
+    },
+    "3_wardrobe_522_32": {
+        "target": "armoire",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden armoire"
+    },
+    "2_sink_794_7": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "the sink and the window"
+    },
+    "9_wardrobe_522_31": {
+        "target": "armoire",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [],
+        "caption": "a large armoire"
+    },
+    "2_table_947_1": {
+        "target": "floor",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "table",
+            "shelf"
+        ],
+        "caption": "a wooden floor with a wooden table and a wooden shelf"
+    },
+    "6_cabinet_1069_4": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "6_wardrobe_522_19": {
+        "target": "armoire",
+        "adjs": [
+            "large",
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a large wooden armoire"
+    },
+    "2_table_947_29": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "mirror",
+            "picture frame"
+        ],
+        "caption": "a wooden table with a mirror and a picture frame"
+    },
+    "5_bathrobe_27_27": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "9_wardrobe_522_6": {
+        "target": "armoire",
+        "adjs": [
+            "large",
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a large wooden armoire"
+    },
+    "3_sink_794_4": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "top"
+        ],
+        "caption": "the sink and counter top"
+    },
+    "5_bathrobe_27_11": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "shower rod"
+        ],
+        "caption": "a towel hanging from the shower rod"
+    },
+    "8_bathrobe_27_16": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "5_tv_113_87": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "screen"
+        ],
+        "caption": "a tv with a broken screen"
+    },
+    "8_bathrobe_27_7": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "bathroom"
+        ],
+        "caption": "a towel hanging from the bathroom door"
+    },
+    "9_cabinet_837_0": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "8_tv_113_20": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "screen"
+        ],
+        "caption": "a tv with a broken screen"
+    },
+    "7_board_1377_1": {
+        "target": "box",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "basket",
+            "top"
+        ],
+        "caption": "a wooden box with a basket on top"
+    },
+    "8_bathrobe_27_24": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "6_heater_883_14": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [
+            "glass"
+        ],
+        "caption": "a radiator with a broken glass"
+    },
+    "8_bathrobe_27_28": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a towel hanging on the wall"
+    },
+    "8_clothes dryer_219_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_cabinet_348_27": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a stove and refrigerator"
+    },
+    "5_clothes dryer_219_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_washing machine_220_0": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_desk_21_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "6_bed_144_8": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "9_washing machine_220_5": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "1_stove_347_9": {
+        "target": "microwave oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a microwave oven"
+    },
+    "6_cabinet_343_9": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinets"
+        ],
+        "caption": "a kitchen with white cabinets"
+    },
+    "9_stove_347_12": {
+        "target": "microwave oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a microwave oven"
+    },
+    "7_clothes dryer_219_8": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "5_stove_347_18": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "7_bathtub_58_22": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "bathtub",
+            "shower"
+        ],
+        "caption": "a toilet, bathtub and shower"
+    },
+    "9_clothes dryer_219_7": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_washing machine_220_11": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "5_cabinet_288_0": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the tv"
+    },
+    "7_stove_347_2": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "2_bathtub_58_17": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "bathtub"
+        ],
+        "caption": "a toilet and bathtub"
+    },
+    "7_washing machine_220_16": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "3_stove_347_1": {
+        "target": "stove microwave oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stove and microwave oven"
+    },
+    "7_washing machine_220_6": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "6_desk_21_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "3_cabinet_288_3": {
+        "target": "tv stand",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white tv stand"
+    },
+    "7_bathtub_58_18": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "bathtub"
+        ],
+        "caption": "a toilet and bathtub"
+    },
+    "2_bed_144_18": {
+        "target": "bed",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden bed"
+    },
+    "1_clothes dryer_219_3": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_clothes dryer_219_8": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_stove_347_13": {
+        "target": "stove microwave oven",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stove and microwave oven"
+    },
+    "4_desk_21_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "3_desk_21_0": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "6_desk_542_21": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a white desk with a white chair"
+    },
+    "6_blanket_518_23": {
+        "target": "chaise lounge chair",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a white chaise lounge chair with a blanket on it"
+    },
+    "3_tv_612_12": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "8_blanket_518_11": {
+        "target": "couch",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a white couch with a blanket on it"
+    },
+    "1_table_296_0": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a living room"
+    },
+    "7_oven_84_40": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "6_desk_542_33": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "stool"
+        ],
+        "caption": "a white desk with a stool"
+    },
+    "5_bed_761_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "metal frame"
+        ],
+        "caption": "a bed with a metal frame"
+    },
+    "9_tv_612_12": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "4_cabinet_142_6": {
+        "target": "sideboard",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "accents"
+        ],
+        "caption": "a white sideboard with gold accents"
+    },
+    "7_desk_542_20": {
+        "target": "swan",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "dresser",
+            "top"
+        ],
+        "caption": "a white swan sitting on top of a dresser"
+    },
+    "8_oven_84_27": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "3_blanket_671_27": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a couch with a blanket on it"
+    },
+    "1_table_303_1": {
+        "target": "console table",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [],
+        "caption": "a black console table"
+    },
+    "4_cabinet_142_16": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a white dresser with a broken mirror"
+    },
+    "2_table_348_3": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "metal frame"
+        ],
+        "caption": "a white desk with a metal frame"
+    },
+    "7_desk_542_2": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a white desk with a white chair"
+    },
+    "8_oven_84_41": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "tile backsplash"
+        ],
+        "caption": "a stove with a tile backsplash"
+    },
+    "8_cabinet_544_5": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a closet with a broken door"
+    },
+    "4_cabinet_544_7": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a mirror"
+    },
+    "7_desk_542_33": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "stool"
+        ],
+        "caption": "a white desk with a stool"
+    },
+    "1_blanket_518_21": {
+        "target": "chaise lounge chair",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a chaise lounge chair with a blanket on it"
+    },
+    "1_wardrobe_342_0": {
+        "target": "wicker screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen"
+    },
+    "1_towel_350_11": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet"
+    },
+    "5_oven_263_6": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a stove and microwave"
+    },
+    "0_cabinet_49_3": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "9_wardrobe_342_18": {
+        "target": "rattan screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a rattan screen"
+    },
+    "4_towel_350_7": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a toilet and a towel"
+    },
+    "6_wardrobe_342_7": {
+        "target": "wicker screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen"
+    },
+    "3_wardrobe_342_32": {
+        "target": "wicker screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen"
+    },
+    "1_wardrobe_342_25": {
+        "target": "wicker screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen"
+    },
+    "3_wardrobe_342_27": {
+        "target": "wicker screen door",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen door"
+    },
+    "7_cabinet_334_56": {
+        "target": "entertainment center",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "guitar",
+            "television"
+        ],
+        "caption": "a wooden entertainment center with a guitar and a television"
+    },
+    "5_oven_263_2": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a stove and microwave"
+    },
+    "8_bed_296_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blue blanket"
+    },
+    "4_cabinet_334_12": {
+        "target": "tv stand",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a tv stand"
+    },
+    "2_bathrobe_62_5": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "a bathtub and toilet"
+    },
+    "1_bed_296_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blue blanket"
+    },
+    "5_oven_263_4": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "microwave"
+        ],
+        "caption": "a stove and microwave"
+    },
+    "9_wardrobe_342_4": {
+        "target": "wicker screen",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a wicker screen"
+    },
+    "3_bed_122_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "chevron pattern"
+        ],
+        "caption": "a bed with a chevron pattern"
+    },
+    "9_sink cabinet_223_24": {
+        "target": "bathroom vanity",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom vanity"
+    },
+    "1_cabinet_119_6": {
+        "target": "kitchen counter",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen counter"
+    },
+    "4_oven and stove_378_19": {
+        "target": "stove top",
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a stove top with a towel on it"
+    },
+    "0_cabinet_67_17": {
+        "target": "nightstand",
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "bed"
+        ],
+        "caption": "a nightstand with a mirror and a bed"
+    },
+    "2_balustrade_447_12": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "railing"
+        ],
+        "caption": "a staircase with a broken railing"
+    },
+    "5_oven and stove_378_36": {
+        "target": "stove top",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a stove top"
+    },
+    "1_bed_122_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "chevron pattern"
+        ],
+        "caption": "a bed with a chevron pattern"
+    },
+    "4_couch_337_5": {
+        "target": "couch",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a white couch with pillows"
+    },
+    "3_washing machine_169_14": {
+        "target": "washer",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a white washer and dryer"
+    },
+    "5_balustrade_447_6": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "railing"
+        ],
+        "caption": "a staircase with a broken railing"
+    },
+    "0_cabinet_83_4": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a dresser with drawers"
+    },
+    "9_washing machine_169_13": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "2_oven and stove_378_20": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "a stove top oven"
+    },
+    "4_balustrade_447_6": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "railing"
+        ],
+        "caption": "a staircase with a broken railing"
+    },
+    "2_balustrade_447_5": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "railing"
+        ],
+        "caption": "a staircase with a broken railing"
+    },
+    "0_washing machine_169_17": {
+        "target": "washer",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a white washer and dryer"
+    },
+    "2_sink cabinet_522_11": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "1_cabinet_265_5": {
+        "target": "glass cabinet",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken glass cabinet"
+    },
+    "4_oven and stove_378_38": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "7_oven and stove_378_37": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "9_bed_122_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "chevron pattern"
+        ],
+        "caption": "a bed with a chevron pattern"
+    },
+    "1_bed_122_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "chevron pattern"
+        ],
+        "caption": "a bed with a chevron pattern"
+    },
+    "8_bed_122_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "chevron pattern"
+        ],
+        "caption": "a bed with a chevron pattern"
+    },
+    "8_cabinet_67_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "nightstand"
+        ],
+        "caption": "a bed with a nightstand"
+    },
+    "7_oven and stove_378_40": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel stove"
+    },
+    "5_balustrade_447_5": {
+        "target": "staircase",
+        "adjs": [],
+        "nearby": [
+            "railing"
+        ],
+        "caption": "a staircase with a broken railing"
+    },
+    "6_sink cabinet_522_18": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "8_sink cabinet_223_27": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "9_cabinet_471_2": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a kitchen with a white cabinet"
+    },
+    "4_bathroom cabinet_639_16": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a sink with a mirror"
+    },
+    "5_bed_727_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "2_couch_548_10": {
+        "target": "couch",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "rug"
+        ],
+        "caption": "a white couch with a brown rug"
+    },
+    "7_bed_727_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "5_bathroom cabinet_639_3": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "5_towel_119_7": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "hangers"
+        ],
+        "caption": "a closet with clothes hanging on hangers"
+    },
+    "0_bathroom cabinet_226_14": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a mirror"
+    },
+    "9_blanket_549_15": {
+        "target": "couch",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a white couch with a blanket on it"
+    },
+    "8_towel_119_2": {
+        "target": "clothes",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a clothes rack with clothes hanging on it"
+    },
+    "2_towel_119_12": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "wall"
+        ],
+        "caption": "a closet with clothes hanging on the wall"
+    },
+    "1_bathroom cabinet_639_19": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "1_tv_783_29": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "1_towel_119_8": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "hangers"
+        ],
+        "caption": "a closet with clothes hanging on hangers"
+    },
+    "2_oven_409_2": {
+        "target": "stove",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "refrigerator"
+        ],
+        "caption": "a white stove and refrigerator"
+    },
+    "4_sofa chair_254_58": {
+        "target": "piano",
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "chair"
+        ],
+        "caption": "a piano, a chair and a bed"
+    },
+    "3_wardrobe_103_1": {
+        "target": "door",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a white door with a broken window"
+    },
+    "1_cabinet_471_6": {
+        "target": "kitchen",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "counter",
+            "sink"
+        ],
+        "caption": "a white kitchen with a sink and counter"
+    },
+    "1_bathroom cabinet_639_33": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "toilet"
+        ],
+        "caption": "a bathroom sink with a toilet and a cabinet"
+    },
+    "7_bathroom cabinet_639_4": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "hole"
+        ],
+        "caption": "a sink with a black hole in it"
+    },
+    "7_bed_727_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "3_bath towel_634_2": {
+        "target": "shower curtain",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a shower curtain"
+    },
+    "5_wardrobe_220_0": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bag"
+        ],
+        "caption": "a wooden closet with a hanging bag"
+    },
+    "3_drawer_17_22": {
+        "target": "chest",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a chest of drawers"
+    },
+    "4_box_1450_17": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "boxes"
+        ],
+        "caption": "a pile of boxes"
+    },
+    "7_bag_1560_5": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools",
+            "items"
+        ],
+        "caption": "a pile of tools and other items"
+    },
+    "4_bag_1560_2": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools"
+        ],
+        "caption": "a pile of tools"
+    },
+    "7_bag_1560_7": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools",
+            "items"
+        ],
+        "caption": "a pile of tools and other items"
+    },
+    "2_drawer_17_0": {
+        "target": "dresser",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden dresser"
+    },
+    "5_drawer_17_21": {
+        "target": "chest",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a chest of drawers"
+    },
+    "9_wardrobe_220_0": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bag"
+        ],
+        "caption": "a wooden closet with a hanging bag"
+    },
+    "3_drawer_17_9": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a wooden chest of drawers"
+    },
+    "0_drawer_17_7": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden chest"
+    },
+    "3_wardrobe_220_2": {
+        "target": "door",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "rack"
+        ],
+        "caption": "a wooden door with a hanging rack"
+    },
+    "7_bag_1560_4": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools",
+            "items"
+        ],
+        "caption": "a pile of tools and other items"
+    },
+    "2_drawer_17_18": {
+        "target": "chest",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a chest of drawers"
+    },
+    "0_rack_239_0": {
+        "target": "bed",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden bed"
+    },
+    "0_wardrobe_220_0": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bag"
+        ],
+        "caption": "a wooden closet with a hanging bag"
+    },
+    "4_bag_1560_7": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools",
+            "items"
+        ],
+        "caption": "a pile of tools and other items"
+    },
+    "5_balustrade_289_57": {
+        "target": "staircase",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a wooden staircase with a broken window"
+    },
+    "5_desk_86_2": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "1_couch_982_8": {
+        "target": "leather sofa",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown leather sofa"
+    },
+    "2_rack_239_0": {
+        "target": "bed",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden bed"
+    },
+    "2_drawer_17_13": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a wooden chest of drawers"
+    },
+    "0_drawer_17_20": {
+        "target": "chest",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a chest of drawers"
+    },
+    "0_balustrade_289_62": {
+        "target": "floor",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "stairs"
+        ],
+        "caption": "the wooden floor and the wooden stairs"
+    },
+    "7_bag_1560_2": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "tools"
+        ],
+        "caption": "a pile of tools"
+    },
+    "8_cabinet_188_13": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a wooden table and chair"
+    },
+    "0_chair_593_16": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "2_chair_593_11": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "0_chair_593_20": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "8_bench_818_11": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a bench with a broken chair"
+    },
+    "6_chair_593_2": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "9_bench_817_6": {
+        "target": "brick wall",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a brick wall with a broken window"
+    },
+    "4_chair_593_25": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "3_bench_817_2": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bench"
+    },
+    "7_bench_818_13": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a bench with a broken chair"
+    },
+    "9_bench_818_15": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [
+            "piece",
+            "wood"
+        ],
+        "caption": "a bench with a broken piece of wood"
+    },
+    "8_bench_818_8": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a bench with a broken chair"
+    },
+    "6_chair_593_1": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "6_chair_593_21": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "6_chair_593_22": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "8_bench_819_1": {
+        "target": "window",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken window"
+    },
+    "7_bench_818_12": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bench"
+    },
+    "3_bench_818_4": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bench"
+    },
+    "4_chair_593_9": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair"
+    },
+    "3_bench_817_11": {
+        "target": "bench",
+        "adjs": [],
+        "nearby": [
+            "shadow"
+        ],
+        "caption": "a bench with a shadow"
+    },
+    "4_sink_442_1": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a sink with a towel on it"
+    },
+    "9_bathroom cabinet_226_2": {
+        "target": "bathroom cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom cabinet"
+    },
+    "8_table_133_6": {
+        "target": "lego table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a lego table"
+    },
+    "4_oven and stove_388_18": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "door"
+        ],
+        "caption": "a stove with a broken door"
+    },
+    "7_bed_265_11": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "blanket"
+        ],
+        "caption": "a bed with a white dresser and a red and white striped blanket"
+    },
+    "9_bathroom cabinet_226_0": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a toilet and a cabinet"
+    },
+    "5_sink_442_0": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a sink with a towel on it"
+    },
+    "7_bed_173_10": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter orange pillows"
+        ],
+        "caption": "a bed with a blue comforter and orange pillows"
+    },
+    "4_sink_442_2": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathroom sink"
+    },
+    "6_bathtub_213_1": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "shower curtain"
+        ],
+        "caption": "a bathtub with a shower curtain"
+    },
+    "0_bathtub_213_2": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "shower curtain"
+        ],
+        "caption": "a bathtub with a shower curtain"
+    },
+    "4_sink_442_3": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "cat",
+            "floor"
+        ],
+        "caption": "a sink with a black cat sitting on the floor"
+    },
+    "8_table_133_21": {
+        "target": "children play table",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a children's play table"
+    },
+    "9_clothes dryer_193_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_bathroom cabinet_226_0": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a toilet and a cabinet"
+    },
+    "7_bathtub_213_5": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "shower"
+        ],
+        "caption": "a toilet and shower"
+    },
+    "7_bathroom cabinet_226_0": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a toilet and a cabinet"
+    },
+    "5_sink_442_3": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "cat",
+            "floor"
+        ],
+        "caption": "a sink with a black cat sitting on the floor"
+    },
+    "3_bathroom cabinet_226_1": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen cabinet"
+    },
+    "2_clothes dryer_193_14": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "6_bath towel_220_0": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "hook"
+        ],
+        "caption": "a towel hanging on a hook"
+    },
+    "0_bath towel_220_1": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "towel rack"
+        ],
+        "caption": "a towel hanging on a towel rack"
+    },
+    "0_bathroom cabinet_226_0": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a toilet and a cabinet"
+    },
+    "2_bathroom cabinet_226_1": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen cabinet"
+    },
+    "1_table_133_13": {
+        "target": "reading desk",
+        "adjs": [],
+        "nearby": [
+            "book shelf"
+        ],
+        "caption": "a reading desk with a book shelf"
+    },
+    "0_bed_265_11": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "blanket"
+        ],
+        "caption": "a bed with a white dresser and a red and white striped blanket"
+    },
+    "1_cabinet_256_7": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a dresser with a mirror"
+    },
+    "6_bathtub_213_7": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "shower"
+        ],
+        "caption": "a toilet and shower"
+    },
+    "3_countertop_479_9": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "bag"
+        ],
+        "caption": "a washing machine and a bag"
+    },
+    "0_chair_321_31": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "computer",
+            "chair"
+        ],
+        "caption": "a desk with a computer and a chair"
+    },
+    "8_countertop_479_10": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine and a washing machine"
+    },
+    "6_countertop_479_7": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing machine, a washing"
+    },
+    "6_countertop_479_0": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine and a washing machine"
+    },
+    "7_countertop_479_19": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "bag"
+        ],
+        "caption": "a washing machine and a bag"
+    },
+    "7_cabinet_177_4": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen cabinet"
+    },
+    "0_drawer_636_15": {
+        "target": "dresser",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden dresser"
+    },
+    "9_wardrobe_367_57": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "6_countertop_479_10": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine and a washing machine"
+    },
+    "5_cabinet_177_10": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen cabinet"
+    },
+    "1_cabinet_177_3": {
+        "target": "kitchen sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen sink"
+    },
+    "8_countertop_479_1": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [
+            "bag",
+            "suitcase"
+        ],
+        "caption": "a washing machine, a bag and a suitcase"
+    },
+    "0_drawer_636_14": {
+        "target": "chest",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden chest"
+    },
+    "7_wardrobe_133_10": {
+        "target": "armoire",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden armoire"
+    },
+    "4_desk_320_1": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair",
+            "hutch"
+        ],
+        "caption": "a desk with a chair and a hutch"
+    },
+    "7_cabinet_177_13": {
+        "target": "kitchen sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the kitchen sink"
+    },
+    "9_countertop_479_3": {
+        "target": "washing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a washing machine"
+    },
+    "2_wardrobe_645_13": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "4_desk_320_2": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a desk with a chair"
+    },
+    "5_wardrobe_368_14": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "2_crib_275_10": {
+        "target": "crib",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden crib"
+    },
+    "1_cabinet_177_8": {
+        "target": "kitchen cabinet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a kitchen cabinet"
+    },
+    "2_towel_88_2": {
+        "target": "towel",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white towel"
+    },
+    "4_closet shelf_86_18": {
+        "target": "shelf",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken shelf"
+    },
+    "7_bed_300_8": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "8_bathroom cabinet_123_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet"
+    },
+    "4_towel_88_7": {
+        "target": "shelf",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "clothes",
+            "towels"
+        ],
+        "caption": "a white shelf with towels and clothes"
+    },
+    "9_closet shelf_85_6": {
+        "target": "ceiling",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wires",
+            "bunch"
+        ],
+        "caption": "a white ceiling with a bunch of wires hanging from it"
+    },
+    "1_bed_300_13": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "6_bed_300_13": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a bed with a white comforter"
+    },
+    "0_bed_56_3": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bed"
+    },
+    "1_bed_300_19": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a white blanket"
+    },
+    "8_towel_88_4": {
+        "target": "pile",
+        "adjs": [],
+        "nearby": [
+            "towels"
+        ],
+        "caption": "a pile of towels"
+    },
+    "6_bed_300_16": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the bed"
+    },
+    "4_closet shelf_86_11": {
+        "target": "mirror",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken mirror"
+    },
+    "8_bathroom cabinet_123_1": {
+        "target": "mirror",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken mirror"
+    },
+    "3_towel_88_5": {
+        "target": "towel rack",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a towel rack"
+    },
+    "0_towel_88_6": {
+        "target": "towel rack",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a towel rack"
+    },
+    "5_bed_300_2": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "lamps"
+        ],
+        "caption": "a bed with two lamps"
+    },
+    "3_closet shelf_86_23": {
+        "target": "shelf",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "tools",
+            "bunch"
+        ],
+        "caption": "a white shelf with a bunch of tools"
+    },
+    "5_bed_300_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a white and black striped blanket"
+    },
+    "3_tv_17_12": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "0_box_450_0": {
+        "target": "dresser",
+        "adjs": [
+            "black",
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a black and white dresser"
+    },
+    "8_box_450_5": {
+        "target": "filing cabinet",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "mirror",
+            "top"
+        ],
+        "caption": "a black filing cabinet with a mirror on top"
+    },
+    "3_tv_17_2": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a flat screen tv mounted on the wall"
+    },
+    "9_box_450_11": {
+        "target": "filing cabinet",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "papers",
+            "pile",
+            "top"
+        ],
+        "caption": "a black filing cabinet with a large pile of papers on top"
+    },
+    "4_tv_17_1": {
+        "target": "screen tv",
+        "adjs": [
+            "large",
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a large flat screen tv"
+    },
+    "2_bathtub_468_3": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a bathtub"
+    },
+    "0_bed_304_22": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt on it"
+    },
+    "2_bathtub_468_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "bathtub"
+        ],
+        "caption": "a toilet and bathtub"
+    },
+    "7_bathtub_468_0": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "a bathtub and toilet"
+    },
+    "1_heater_163_0": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radiator"
+    },
+    "7_box_450_9": {
+        "target": "filing cabinet",
+        "adjs": [],
+        "nearby": [
+            "papers",
+            "pile",
+            "top"
+        ],
+        "caption": "a filing cabinet with a pile of papers on top"
+    },
+    "6_bathtub_468_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "bathtub"
+        ],
+        "caption": "a toilet and bathtub"
+    },
+    "4_tv_17_2": {
+        "target": "screen tv",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a flat screen tv mounted on the wall"
+    },
+    "2_bed_304_11": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "9_bathtub_468_6": {
+        "target": "bathtub",
+        "adjs": [],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "a bathtub and toilet"
+    },
+    "3_heater_163_12": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radiator"
+    },
+    "9_couch_404_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a bed with pillows"
+    },
+    "2_bed_304_6": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "0_couch_404_37": {
+        "target": "sofa",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "caption": "a white sofa with a bed underneath"
+    },
+    "6_box_450_10": {
+        "target": "pile",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "items"
+        ],
+        "caption": "a large pile of items"
+    },
+    "8_box_450_11": {
+        "target": "filing cabinet",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "papers",
+            "pile",
+            "top"
+        ],
+        "caption": "a black filing cabinet with a large pile of papers on top"
+    },
+    "6_bed_304_14": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilt"
+        ],
+        "caption": "a bed with a quilt"
+    },
+    "4_tv_17_12": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "8_blanket_30_32": {
+        "target": "fur rug",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white fur rug"
+    },
+    "6_bed_322_12": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "3_blanket_30_31": {
+        "target": "fur rug",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white fur rug"
+    },
+    "0_washer-dryer_135_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_cabinet_180_8": {
+        "target": "dresser",
+        "adjs": [
+            "tall",
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a tall wooden dresser"
+    },
+    "0_tv_335_1": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "wall"
+        ],
+        "caption": "a tv mounted on the wall"
+    },
+    "1_blanket_30_62": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "sheepskin rug"
+        ],
+        "caption": "a couch with a sheepskin rug"
+    },
+    "2_blanket_30_13": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "sheepskin"
+        ],
+        "caption": "a couch with a sheepskin"
+    },
+    "8_blanket_30_39": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "sheepskin rug"
+        ],
+        "caption": "a couch with a sheepskin rug"
+    },
+    "2_blanket_30_45": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "sheepskin rug"
+        ],
+        "caption": "a couch with a sheepskin rug"
+    },
+    "2_washer-dryer_136_35": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "7_blanket_30_0": {
+        "target": "fur rug",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white fur rug"
+    },
+    "6_table_64_1": {
+        "target": "dining table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining table and chairs"
+    },
+    "1_table_64_1": {
+        "target": "dining table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining table and chairs"
+    },
+    "8_blanket_30_44": {
+        "target": "fur rug",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white fur rug"
+    },
+    "5_table_64_1": {
+        "target": "dining table",
+        "adjs": [],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a dining table and chairs"
+    },
+    "4_cabinet_143_2": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "console"
+        ],
+        "caption": "a mirror and a white console"
+    },
+    "4_washer-dryer_135_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "8_sideboard_12_33": {
+        "target": "screen tv",
+        "adjs": [
+            "large",
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a large flat screen tv"
+    },
+    "2_blanket_30_5": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "rug"
+        ],
+        "caption": "a couch and a rug"
+    },
+    "9_sideboard_12_7": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "dresser",
+            "top"
+        ],
+        "caption": "a tv on top of a dresser"
+    },
+    "1_sideboard_12_24": {
+        "target": "dresser",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "screen tv",
+            "top"
+        ],
+        "caption": "a white dresser with a flat screen tv on top"
+    },
+    "6_washer-dryer_135_1": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "2_washer-dryer_135_0": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "9_cabinet_143_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "sideboard"
+        ],
+        "caption": "a mirror and a wooden sideboard"
+    },
+    "3_blanket_30_61": {
+        "target": "couch",
+        "adjs": [
+            "large",
+            "sectional"
+        ],
+        "nearby": [],
+        "caption": "a large sectional couch"
+    },
+    "9_rack_224_29": {
+        "target": "room",
+        "adjs": [
+            "large"
+        ],
+        "nearby": [
+            "tables",
+            "chairs"
+        ],
+        "caption": "a large room with many tables and chairs"
+    },
+    "1_cabinet_552_4": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a white cabinet with drawers"
+    },
+    "3_desk_273_74": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden table"
+    },
+    "4_kitchen shelf_87_69": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "a kitchen with a sink and a window"
+    },
+    "7_desk_273_69": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a table with a chair on it"
+    },
+    "0_chair_358_2": {
+        "target": "chair",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a chair with a broken back"
+    },
+    "3_desk_273_73": {
+        "target": "desk",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bike",
+            "top"
+        ],
+        "caption": "a wooden desk with a bike on top"
+    },
+    "3_table_162_10": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a refrigerator"
+    },
+    "0_board_391_7": {
+        "target": "whiteboard",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a whiteboard"
+    },
+    "2_rack_224_8": {
+        "target": "table",
+        "adjs": [
+            "large",
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a large white table"
+    },
+    "8_table_516_3": {
+        "target": "table",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a white table with chairs"
+    },
+    "6_cabinet_301_2": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "4_desk_315_0": {
+        "target": "table",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "laptop"
+        ],
+        "caption": "a white table with a laptop on it"
+    },
+    "3_table_225_39": {
+        "target": "metal table",
+        "adjs": [],
+        "nearby": [
+            "metal shelf"
+        ],
+        "caption": "a metal table with a metal shelf"
+    },
+    "5_board_391_18": {
+        "target": "whiteboard",
+        "adjs": [],
+        "nearby": [
+            "marker"
+        ],
+        "caption": "a whiteboard with a red marker"
+    },
+    "1_cabinet_462_10": {
+        "target": "cabinet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white cabinet"
+    },
+    "9_desk_315_0": {
+        "target": "table",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "laptop"
+        ],
+        "caption": "a white table with a laptop on it"
+    },
+    "5_chair_358_7": {
+        "target": "desk",
+        "adjs": [],
+        "nearby": [
+            "computer",
+            "chair"
+        ],
+        "caption": "a desk with a chair and a computer"
+    },
+    "7_table_162_10": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a refrigerator"
+    },
+    "3_kitchen shelf_87_24": {
+        "target": "shelf",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a white shelf with a sink"
+    },
+    "9_kitchen shelf_87_58": {
+        "target": "kitchen",
+        "adjs": [],
+        "nearby": [
+            "window",
+            "sink"
+        ],
+        "caption": "the kitchen with a sink and a window"
+    },
+    "5_cabinet_462_18": {
+        "target": "refrigerator",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white refrigerator"
+    },
+    "6_couch_231_5": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "chair"
+        ],
+        "caption": "a couch and chair"
+    },
+    "0_wardrobe_19_5": {
+        "target": "chest",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a grey chest of drawers"
+    },
+    "4_clothes_180_1": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "1_cabinet_143_9": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a dresser with a mirror"
+    },
+    "6_oven and stove_295_2": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "the stove top oven"
+    },
+    "6_cabinet_235_40": {
+        "target": "entertainment center",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden entertainment center"
+    },
+    "2_wardrobe_19_1": {
+        "target": "chest",
+        "adjs": [
+            "grey",
+            "dark"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a dark grey chest of drawers"
+    },
+    "5_cabinet_143_8": {
+        "target": "dresser",
+        "adjs": [],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a dresser with drawers"
+    },
+    "6_table_297_7": {
+        "target": "dining table",
+        "adjs": [
+            "broken"
+        ],
+        "nearby": [],
+        "caption": "a broken dining table"
+    },
+    "7_oven and stove_295_14": {
+        "target": "steel stove",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stainless steel stove and oven"
+    },
+    "9_clothes_180_0": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "1_clothes_180_1": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "7_cabinet_235_4": {
+        "target": "floor",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "tv"
+        ],
+        "caption": "a wooden floor and a tv"
+    },
+    "6_oven and stove_295_16": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "5_wardrobe_19_5": {
+        "target": "chest",
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a grey chest of drawers"
+    },
+    "2_cabinet_164_19": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a closet with clothes"
+    },
+    "4_cabinet_164_29": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "suitcase"
+        ],
+        "caption": "a closet with clothes and a suitcase"
+    },
+    "4_towel_464_13": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "fireplace"
+        ],
+        "caption": "a couch and a fireplace"
+    },
+    "1_towel_464_9": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a couch with a blanket on it"
+    },
+    "6_cabinet_815_8": {
+        "target": "washer",
+        "adjs": [],
+        "nearby": [
+            "dryer"
+        ],
+        "caption": "a washer and dryer"
+    },
+    "6_wardrobe_753_7": {
+        "target": "bed",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "comforter"
+        ],
+        "caption": "a white bed with a blue and white striped comforter"
+    },
+    "4_cabinet_239_9": {
+        "target": "steel refrigerator",
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [],
+        "caption": "a stainless steel refrigerator"
+    },
+    "4_towel_464_5": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "0_wardrobe_614_8": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a closet with a mirror"
+    },
+    "3_bag_295_1": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [
+            "items"
+        ],
+        "caption": "a shelf with various items"
+    },
+    "1_bag_296_2": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [
+            "items",
+            "food"
+        ],
+        "caption": "a shelf with food and other items"
+    },
+    "7_bathroom cabinet_213_20": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "caption": "a bathroom vanity with a black cabinet"
+    },
+    "0_wardrobe_614_4": {
+        "target": "closet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a white closet with drawers"
+    },
+    "6_couch_687_0": {
+        "target": "couch",
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [],
+        "caption": "a blue couch"
+    },
+    "6_bed_755_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "beds"
+        ],
+        "caption": "a bed with two twin beds"
+    },
+    "0_wardrobe_614_5": {
+        "target": "closet",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white closet"
+    },
+    "8_bathroom cabinet_213_18": {
+        "target": "vanity",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "toilet"
+        ],
+        "caption": "a black vanity with a white toilet"
+    },
+    "1_towel_464_2": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "coffee table"
+        ],
+        "caption": "a couch and a coffee table"
+    },
+    "8_towel_464_6": {
+        "target": "living room",
+        "adjs": [],
+        "nearby": [
+            "couch",
+            "fireplace"
+        ],
+        "caption": "the living room with a fireplace and a couch"
+    },
+    "8_cabinet_239_13": {
+        "target": "refrigerator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a refrigerator"
+    },
+    "3_bag_296_2": {
+        "target": "shelf",
+        "adjs": [],
+        "nearby": [
+            "items",
+            "food"
+        ],
+        "caption": "a shelf with food and other items"
+    },
+    "7_towel_464_0": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a couch"
+    },
+    "5_bathroom cabinet_213_5": {
+        "target": "vanity",
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "drawers"
+        ],
+        "caption": "a black vanity with two drawers"
+    },
+    "4_bathroom cabinet_213_0": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "9_towel_464_2": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "coffee table"
+        ],
+        "caption": "a couch and a coffee table"
+    },
+    "0_wardrobe_614_6": {
+        "target": "closet",
+        "adjs": [],
+        "nearby": [
+            "bed"
+        ],
+        "caption": "a closet with a bed"
+    },
+    "5_bag_571_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "towel"
+        ],
+        "caption": "a toilet and a towel hanging on the wall"
+    },
+    "8_shower cabin_564_1": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "shower"
+        ],
+        "caption": "a toilet and shower"
+    },
+    "7_sink_197_9": {
+        "target": "kitchen sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the kitchen sink"
+    },
+    "0_heater_478_1": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a radiator"
+    },
+    "9_bag_571_3": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "shower curtain rod"
+        ],
+        "caption": "a towel hanging from the shower curtain rod"
+    },
+    "5_bed_492_0": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "quilts"
+        ],
+        "caption": "the bed with red and white quilts"
+    },
+    "7_sink_197_15": {
+        "target": "kitchen sink",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the kitchen sink"
+    },
+    "4_bag_571_0": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a towel hanging from the window"
+    },
+    "3_oven and stove_217_12": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "a stove and oven"
+    },
+    "1_shower cabin_564_5": {
+        "target": "shower stall",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a shower stall"
+    },
+    "3_oven and stove_217_6": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "7_cabinet_157_58": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "3_cabinet_24_7": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "corner",
+            "room"
+        ],
+        "caption": "the bed, which is in the corner of the room"
+    },
+    "1_bag_571_2": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "towel"
+        ],
+        "caption": "a toilet and a towel hanging on the wall"
+    },
+    "1_heater_478_0": {
+        "target": "radiator",
+        "adjs": [],
+        "nearby": [
+            "radiator cover"
+        ],
+        "caption": "a radiator with a broken radiator cover"
+    },
+    "7_cabinet_24_15": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden cabinet"
+    },
+    "5_heater_478_13": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a bed with a window"
+    },
+    "1_wardrobe_430_45": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the door"
+    },
+    "7_bed_320_12": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "blanket"
+        ],
+        "caption": "a bed with a blue blanket"
+    },
+    "6_oven and stove_217_9": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "1_shower cabin_564_4": {
+        "target": "shower stall",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a shower stall"
+    },
+    "1_bag_571_0": {
+        "target": "towel",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a towel hanging from the window"
+    },
+    "2_wardrobe_479_6": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden closet"
+    },
+    "6_sink_197_4": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "caption": "a sink with a towel on it"
+    },
+    "3_cabinet_143_17": {
+        "target": "cabinet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a wooden cabinet with a mirror"
+    },
+    "6_fire extinguisher_10_2": {
+        "target": "fire extinguisher",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a fire extinguisher"
+    },
+    "2_tv_196_54": {
+        "target": "tv set",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a tv set"
+    },
+    "4_desk_179_1": {
+        "target": "desk",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden desk"
+    },
+    "3_cabinet_51_14": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "bedside cabinet"
+        ],
+        "caption": "a mirror and a bedside cabinet"
+    },
+    "8_cabinet_51_4": {
+        "target": "sink",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [],
+        "caption": "a white sink"
+    },
+    "0_tv_196_17": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen television"
+    },
+    "8_clothes_76_6": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a wooden closet with clothes"
+    },
+    "7_table_188_1": {
+        "target": "coffee table",
+        "adjs": [],
+        "nearby": [
+            "ottoman"
+        ],
+        "caption": "a coffee table with a yellow ottoman"
+    },
+    "0_bed_20_1": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "6_fire extinguisher_10_6": {
+        "target": "fire extinguisher",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a fire extinguisher"
+    },
+    "1_table_83_4": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a white desk with a mirror"
+    },
+    "7_desk_179_1": {
+        "target": "desk",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden desk"
+    },
+    "2_tv_196_66": {
+        "target": "television set",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television set"
+    },
+    "5_tv_196_69": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "the flat screen television"
+    },
+    "3_tv_196_57": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen television"
+    },
+    "2_tv_196_31": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen television"
+    },
+    "5_bed_20_4": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "2_cabinet_51_16": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the bed"
+    },
+    "6_cabinet_51_1": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a mirror and a dresser"
+    },
+    "8_table_83_4": {
+        "target": "desk",
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a white desk with a mirror"
+    },
+    "6_bed_20_5": {
+        "target": "bed",
+        "adjs": [],
+        "nearby": [
+            "sheets"
+        ],
+        "caption": "a bed with white sheets"
+    },
+    "3_clothes_76_1": {
+        "target": "robe",
+        "adjs": [],
+        "nearby": [
+            "rack"
+        ],
+        "caption": "a robe hanging on a rack"
+    },
+    "4_clothes_76_6": {
+        "target": "closet",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "clothes"
+        ],
+        "caption": "a wooden closet with clothes"
+    },
+    "9_cabinet_51_0": {
+        "target": "mirror",
+        "adjs": [],
+        "nearby": [
+            "dresser"
+        ],
+        "caption": "a mirror and a dresser"
+    },
+    "3_fire extinguisher_10_11": {
+        "target": "fire extinguisher",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a fire extinguisher"
+    },
+    "2_tv_196_38": {
+        "target": "screen television",
+        "adjs": [
+            "large",
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a large flat screen television"
+    },
+    "6_fire extinguisher_10_15": {
+        "target": "fire extinguisher",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a fire extinguisher"
+    },
+    "7_tv_196_15": {
+        "target": "screen television",
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [],
+        "caption": "a flat screen television"
+    },
+    "8_desk_179_0": {
+        "target": "table",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "caption": "a wooden table and chairs"
+    },
+    "0_table_83_2": {
+        "target": "table",
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "caption": "a dressing table with a mirror"
+    },
+    "6_oven and stove_218_8": {
+        "target": "stove oven",
+        "adjs": [
+            "top"
+        ],
+        "nearby": [],
+        "caption": "the stove top oven"
+    },
+    "3_cabinet_99_2": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "caption": "a sink and a broken window"
+    },
+    "7_board_64_0": {
+        "target": "ceiling",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [],
+        "caption": "a wooden ceiling"
+    },
+    "1_tv_138_10": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "2_bathroom towel_534_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the bathroom"
+    },
+    "9_bathroom cabinet_580_12": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sink"
+        ],
+        "caption": "a bathroom with a sink and mirror"
+    },
+    "8_bathroom cabinet_585_20": {
+        "target": "toilet",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a toilet and sink"
+    },
+    "6_tv_138_9": {
+        "target": "television",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a television"
+    },
+    "1_board_64_2": {
+        "target": "ceiling",
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bear"
+        ],
+        "caption": "a wooden ceiling with a white bear"
+    },
+    "0_kitchen lower cabinet_224_47": {
+        "target": "sink",
+        "adjs": [],
+        "nearby": [
+            "counter"
+        ],
+        "caption": "the sink and the counter"
+    },
+    "3_oven and stove_218_3": {
+        "target": "stove",
+        "adjs": [],
+        "nearby": [
+            "oven"
+        ],
+        "caption": "the stove and oven"
+    },
+    "9_bathroom towel_534_0": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [],
+        "caption": "the bathroom"
+    },
+    "7_tv_138_14": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [
+            "table"
+        ],
+        "caption": "a tv on a wooden table"
+    },
+    "4_couch_154_49": {
+        "target": "recliner",
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [],
+        "caption": "a brown recliner"
+    },
+    "6_couch_440_5": {
+        "target": "couch",
+        "adjs": [],
+        "nearby": [
+            "pillows"
+        ],
+        "caption": "a couch with pillows"
+    },
+    "2_bathroom cabinet_580_26": {
+        "target": "bathroom",
+        "adjs": [],
+        "nearby": [
+            "sinks"
+        ],
+        "caption": "a bathroom with two sinks"
+    },
+    "5_bathroom cabinet_585_3": {
+        "target": "door",
+        "adjs": [],
+        "nearby": [
+            "bathroom"
+        ],
+        "caption": "the door to the bathroom"
+    },
+    "3_tv_138_3": {
+        "target": "tv",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a tv"
+    },
+    "8_desk_410_9": {
+        "target": "sewing machine",
+        "adjs": [],
+        "nearby": [],
+        "caption": "a sewing machine"
+    },
+    "2_bathroom cabinet_580_5": {
+        "target": "rug",
+        "adjs": [
+            "red"
+        ],
+        "nearby": [],
+        "caption": "a red rug"
+    }
+}

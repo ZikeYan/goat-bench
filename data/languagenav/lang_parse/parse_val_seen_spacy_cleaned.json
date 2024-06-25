@@ -1,0 +1,6604 @@
+{
+    "bag filled with cleaning supplies. the bag is located above the bucket and to the right of the rack.": {
+        "adjs": [],
+        "nearby": [
+            "bucket",
+            "rack",
+            "supplies"
+        ],
+        "target": "bag"
+    },
+    "bag located to the right of the toilet paper, below the window curtain, and above the toilet brush holder.": {
+        "adjs": [],
+        "nearby": [
+            "window curtain",
+            "toilet brush holder",
+            "toilet paper"
+        ],
+        "target": "bag"
+    },
+    "bag with a black color and a white logo on it. the bag is located near the clothes and the shelving.": {
+        "adjs": [],
+        "nearby": [
+            "logo",
+            "clothes",
+            "color",
+            "shelving"
+        ],
+        "target": "bag"
+    },
+    "bag with a black color and a white logo which is located near the cabinet, drawer, and hook.": {
+        "adjs": [],
+        "nearby": [
+            "logo",
+            "cabinet",
+            "hook",
+            "color",
+            "drawer"
+        ],
+        "target": "bag"
+    },
+    "balustrade made of wrought iron. it is located beneath the picture, to the right of the staircase, and near the flower vase.": {
+        "adjs": [],
+        "nearby": [
+            "staircase",
+            "flower vase",
+            "picture",
+            "iron"
+        ],
+        "target": "balustrade"
+    },
+    "balustrade near the couch, lamp, and picture. the balustrade is a wrought iron railing.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "iron railing",
+            "picture",
+            "couch"
+        ],
+        "target": "balustrade"
+    },
+    "balustrade that is made of wrought iron. look for it near the parapet, bench, and picture.": {
+        "adjs": [],
+        "nearby": [
+            "bench",
+            "parapet",
+            "picture",
+            "iron"
+        ],
+        "target": "balustrade"
+    },
+    "balustrade, which is a railing that encloses a staircase. it is located below the couch and to the right of the rug. the stairs are positioned above the balustrade.": {
+        "adjs": [],
+        "nearby": [
+            "stairs",
+            "rug",
+            "railing",
+            "staircase",
+            "couch"
+        ],
+        "target": "balustrade"
+    },
+    "balustrade, which is a wooden railing that encloses a staircase. it is located near the couch, on the right side of the table and in front of the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "railing",
+            "table",
+            "staircase",
+            "curtain",
+            "couch"
+        ],
+        "target": "balustrade"
+    },
+    "balustrade. the balustrade is located below the mirror and to the right of the stairs. it is positioned above the sink. the balustrade is made of shards of glass.": {
+        "adjs": [],
+        "nearby": [
+            "glass",
+            "stairs",
+            "shards",
+            "sink",
+            "mirror"
+        ],
+        "target": "balustrade"
+    },
+    "bath towel hanging on a hook in the bathroom, relative to the shower stall, shower glass, and shower bench.": {
+        "adjs": [],
+        "nearby": [
+            "shower stall",
+            "shower glass",
+            "shower bench",
+            "hook",
+            "bathroom"
+        ],
+        "target": "bath towel"
+    },
+    "bath towel located near the wardrobe, heater, and bar. the bath towel is a white towel with a blue stripe on it.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "towel",
+            "bar",
+            "stripe",
+            "heater"
+        ],
+        "target": "bath towel"
+    },
+    "bath towel that is located near the wardrobe, heater, and bar. the bath towel is white with a blue stripe on it.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "stripe",
+            "heater",
+            "bar"
+        ],
+        "target": "bath towel"
+    },
+    "bathroom cabinet located below the mirror and next to the sink in the bathroom.": {
+        "adjs": [],
+        "nearby": [
+            "bathroom",
+            "sink",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located below the window curtain and above the shower-bath cabinet. it is a wooden cabinet with a window above it.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "window",
+            "shower bath cabinet",
+            "window curtain"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located near the mirror and toilet. it is black in appearance.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "toilet"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located near the sink, toilet, and mirror. it has a dark blue color.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "color"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located near the spa bench. the bathroom cabinet is a white cabinet with a glass door.": {
+        "adjs": [],
+        "nearby": [
+            "spa bench",
+            "cabinet",
+            "glass door"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located next to the mirror and sink. it is on the same side as the toilet and the bathroom accessory. the bathroom cabinet is white in color.": {
+        "adjs": [],
+        "nearby": [
+            "accessory",
+            "bathroom",
+            "mirror",
+            "toilet",
+            "color"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet located to the right of the mirror and below the towel. the bathroom cabinet is dark blue in color.": {
+        "adjs": [],
+        "nearby": [
+            "towel",
+            "color",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet made of reclaimed wood. it is located near the mirror, sink, plant, and cosmetics.": {
+        "adjs": [],
+        "nearby": [
+            "cosmetics",
+            "sink",
+            "mirror",
+            "plant",
+            "wood"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet with a mirror on it. the bathroom cabinet is located above the sink, to the left of the flower, and below the toilet and tap.": {
+        "adjs": [],
+        "nearby": [
+            "tap",
+            "flower",
+            "sink",
+            "mirror",
+            "toilet"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, a dark brown cabinet with a black mirror above it, located near the bathroom counter and the sink.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "cabinet",
+            "bathroom counter",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, a double sink vanity with a mirror above it. look for it in the area relative to the other objects.": {
+        "adjs": [],
+        "nearby": [
+            "sink vanity",
+            "mirror",
+            "area"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, a wooden cabinet with a sink and a mirror. it is located next to the rack and the shelf. the mirror is on top of the cabinet, and the sink is inside it. the curtain is in front of the cabinet. the tissue box is on the left side of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "rack",
+            "cabinet",
+            "sink",
+            "mirror",
+            "shelf",
+            "tissue box",
+            "curtain",
+            "top"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, which is a dark brown color. it is located near the bathroom counter and the sink. the cabinet is situated to the right of the sink and below the counter. additionally, you can find a decorative plant to the right of the cabinet, and a soap dispenser above it.": {
+        "adjs": [],
+        "nearby": [
+            "soap dispenser",
+            "cabinet",
+            "sink",
+            "bathroom counter",
+            "plant",
+            "counter",
+            "color"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, which is a gray cabinet with a mirror above it. the cabinet is located near the bathroom counter, sink cabinet, and sink. it is positioned to the right of the sink and slightly below the bathroom counter. look for the light fixture above the cabinet for reference.": {
+        "adjs": [],
+        "nearby": [
+            "reference",
+            "sink cabinet",
+            "cabinet",
+            "sink",
+            "bathroom counter",
+            "mirror",
+            "fixture"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet, which is located near the sink. the bathroom cabinet is a white cabinet with a mirror above it.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "sink",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet. it is located above the washbasin and below the shower curtain.": {
+        "adjs": [],
+        "nearby": [
+            "washbasin",
+            "shower curtain"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom cabinet. it is located near the sink. it is also next to the mirror. look for a white bathroom cabinet with a mirror on it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "bathroom towel located near the shower curtain, shower-bath cabinet, and towel bar. it is a white towel with a blue stripe on it.": {
+        "adjs": [],
+        "nearby": [
+            "towel bar",
+            "shower curtain",
+            "towel",
+            "stripe",
+            "shower bath cabinet"
+        ],
+        "target": "bathroom towel"
+    },
+    "bathroom towel positioned below the shower bar and to the right of the rug. it is a white towel with a bicycle on it.": {
+        "adjs": [],
+        "nearby": [
+            "rug",
+            "towel",
+            "shower bar",
+            "bicycle"
+        ],
+        "target": "bathroom towel"
+    },
+    "bathroom towel. start by locating the shower curtain in front of you, then turn towards the picture on your right. the bathroom towel is located below the picture, towards the left side. look for a white towel with a red and white checkered pattern.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "bathroom towel",
+            "shower curtain",
+            "towel",
+            "pattern"
+        ],
+        "target": "bathroom"
+    },
+    "bathtub in the bathroom. it is located next to the shower curtain and the towel.": {
+        "adjs": [],
+        "nearby": [
+            "shower curtain",
+            "bathroom",
+            "towel"
+        ],
+        "target": "bathtub"
+    },
+    "bathtub located below the towel bar and beside the container.": {
+        "adjs": [],
+        "nearby": [
+            "towel bar",
+            "container"
+        ],
+        "target": "bathtub"
+    },
+    "bathtub that is located near a mirror and a barrel. the bathtub is described as a jacuzzi tub.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "barrel",
+            "jacuzzi tub"
+        ],
+        "target": "bathtub"
+    },
+    "bathtub with white with blue polka dots located near the shower curtain.": {
+        "adjs": [],
+        "nearby": [
+            "shower curtain",
+            "dots"
+        ],
+        "target": "bathtub"
+    },
+    "bathtub, which is a jacuzzi tub. it is located near the mirror, to the left of the painting, and below the flower vase.": {
+        "adjs": [],
+        "nearby": [
+            "flower vase",
+            "painting",
+            "mirror",
+            "jacuzzi tub"
+        ],
+        "target": "bathtub"
+    },
+    "bathtub, which is located next to the shower glass.": {
+        "adjs": [],
+        "nearby": [
+            "shower glass"
+        ],
+        "target": "bathtub"
+    },
+    "bed in the room with yellow walls. it is located near a cabinet and a dresser. the pillow is also near the bed. look for a picture on the other side of the room.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "pillow",
+            "cabinet",
+            "walls",
+            "room",
+            "dresser"
+        ],
+        "target": "bed"
+    },
+    "bed in the room. the bed is located below the led tv on the wall.": {
+        "adjs": [],
+        "nearby": [
+            "wall",
+            "tv",
+            "room"
+        ],
+        "target": "bed"
+    },
+    "bed in the room. the bed is located to the left of the blinds and below the end table. it is also near the pillow and the plush toy.": {
+        "adjs": [],
+        "nearby": [
+            "end table",
+            "pillow",
+            "toy",
+            "room",
+            "blinds"
+        ],
+        "target": "bed"
+    },
+    "bed located beside the bedside table. the bed is positioned below the picture and above the carpet. it is a white metal bed with a blue and white striped comforter.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "bedside table",
+            "carpet",
+            "comforter",
+            "metal bed"
+        ],
+        "target": "bed"
+    },
+    "bed located near a cabinet, pillow, and bedside lamp. the bed is a king size bed with an ornate headboard.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "headboard",
+            "cabinet",
+            "king size bed",
+            "bedside lamp"
+        ],
+        "target": "bed"
+    },
+    "bed located near the curtain and rafter. the bed is a double bed with a white duvet and a red blanket.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "rafter",
+            "blanket",
+            "curtain",
+            "duvet"
+        ],
+        "target": "bed"
+    },
+    "bed located near the exercise bike and pillow. the bed is a king size bed.": {
+        "adjs": [],
+        "nearby": [
+            "exercise bike",
+            "pillow",
+            "king size bed"
+        ],
+        "target": "bed"
+    },
+    "bed located on the left side of the wardrobe, near the side table and the window curtain.": {
+        "adjs": [],
+        "nearby": [
+            "window curtain",
+            "wardrobe",
+            "table"
+        ],
+        "target": "bed"
+    },
+    "bed located to the right and below the window curtain, and to the left and above the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "window curtain"
+        ],
+        "target": "bed"
+    },
+    "bed that is located below the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "bed"
+    },
+    "bed that is located near the bedside lamp and carpet.": {
+        "adjs": [],
+        "nearby": [
+            "bedside lamp",
+            "carpet"
+        ],
+        "target": "bed"
+    },
+    "bed that is located near the cabinet and mirror. the bed is recognizable by its king size shape and chevron comforter.": {
+        "adjs": [],
+        "nearby": [
+            "chevron comforter",
+            "cabinet",
+            "mirror",
+            "king size shape"
+        ],
+        "target": "bed"
+    },
+    "bed that is located next to the window seat and near a pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "window seat"
+        ],
+        "target": "bed"
+    },
+    "bed that is located on the left side of the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow"
+        ],
+        "target": "bed"
+    },
+    "bed with a colorful comforter. the bed is located towards the bottom of the frame and is positioned near a painting on the right side. additionally, there is a pillow placed on top of the bed.": {
+        "adjs": [],
+        "nearby": [
+            "bottom",
+            "pillow",
+            "frame",
+            "comforter",
+            "painting",
+            "top"
+        ],
+        "target": "bed"
+    },
+    "bed with a green comforter. look for the bed located near the display cabinet and the cabinet. the bed should be towards the top right corner of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "corner",
+            "frame",
+            "cabinet",
+            "comforter",
+            "display cabinet"
+        ],
+        "target": "bed"
+    },
+    "bed with a king-sized bed and a blue and white striped comforter. the bed is located near a picture and a pillow.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "pillow",
+            "king bed",
+            "comforter"
+        ],
+        "target": "bed"
+    },
+    "bed with a metal frame and a red and blue quilt. the bed is located near a pillow, a toy, and a mirror.": {
+        "adjs": [],
+        "nearby": [
+            "quilt",
+            "pillow",
+            "toy",
+            "mirror",
+            "metal frame"
+        ],
+        "target": "bed"
+    },
+    "bed with a plaid comforter and a ceiling fan. the bed is located near a towel, a shutter, a curtain, a pillow, and a picture.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "ceiling fan",
+            "pillow",
+            "towel",
+            "plaid comforter",
+            "shutter",
+            "curtain"
+        ],
+        "target": "bed"
+    },
+    "bed with a purple comforter in the room. the bed is located beneath the blanket, towards the right side of the frame. the pillow is placed on the left side of the bed.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "frame",
+            "room",
+            "comforter",
+            "blanket"
+        ],
+        "target": "bed"
+    },
+    "bed with a purple comforter. it is located above the pillow and to the right of the painting.": {
+        "adjs": [],
+        "nearby": [
+            "painting",
+            "pillow",
+            "comforter"
+        ],
+        "target": "bed"
+    },
+    "bed with purple and yellow pillows. the bed is located next to a board and there is a picture nearby. look for the bed within the region where the pillow is present.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "board",
+            "pillow",
+            "pillows"
+        ],
+        "target": "bed"
+    },
+    "bed, which is a king size bed, located near a curtain and a pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "king size bed",
+            "curtain"
+        ],
+        "target": "bed"
+    },
+    "bed, which is a king size bed, located on the left side of the painting and slightly above the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "painting",
+            "king size bed"
+        ],
+        "target": "bed"
+    },
+    "bed, which is located near a cabinet, a painting, a blanket, a plant, a chair, a lamp, and a pillow. the bed is a king-sized bed.": {
+        "adjs": [],
+        "nearby": [
+            "king bed",
+            "pillow",
+            "chair",
+            "lamp",
+            "cabinet",
+            "plant",
+            "painting",
+            "blanket"
+        ],
+        "target": "bed"
+    },
+    "beige couch with red pillows located near the table lamp, painting, pillow, and lamp.": {
+        "adjs": [
+            "beige"
+        ],
+        "nearby": [
+            "pillow",
+            "lamp",
+            "table lamp",
+            "painting",
+            "pillows"
+        ],
+        "target": "couch"
+    },
+    "beige couch, which is located near a counter, a dining table, and a dining chair. the couch is positioned to the left of the counter and slightly above it. it is also situated to the right of the dining table and slightly below it. additionally, there is a pillow on the couch.": {
+        "adjs": [
+            "beige"
+        ],
+        "nearby": [
+            "counter",
+            "dining table",
+            "pillow",
+            "dining chair"
+        ],
+        "target": "couch"
+    },
+    "bench located in front of a brick wall.": {
+        "adjs": [],
+        "nearby": [
+            "brick wall"
+        ],
+        "target": "bench"
+    },
+    "bench located on a ledge.": {
+        "adjs": [],
+        "nearby": [
+            "ledge"
+        ],
+        "target": "bench"
+    },
+    "bench located on the ledge beside the banister.": {
+        "adjs": [],
+        "nearby": [
+            "ledge",
+            "banister"
+        ],
+        "target": "bench"
+    },
+    "bench that is in front of a brick building. look for a bench relative to a brick building in your environment.": {
+        "adjs": [],
+        "nearby": [
+            "bench relative"
+        ],
+        "target": "bench"
+    },
+    "black and gold cloth located near the lighting fixture, below the arch, and close to the figure.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "arch",
+            "lighting fixture"
+        ],
+        "target": "gold cloth"
+    },
+    "black bag located above and slightly to the right of the rack and to the left of the bottle.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "bottle",
+            "rack"
+        ],
+        "target": "bag"
+    },
+    "black box with a lot of items in it located within the shelf cubby.": {
+        "adjs": [],
+        "nearby": [
+            "shelf cubby"
+        ],
+        "target": "black box"
+    },
+    "black cabinet located near the sofa, chair, and cushion in the region.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "sofa",
+            "chair",
+            "cushion"
+        ],
+        "target": "cabinet"
+    },
+    "black leather couch in the room. the couch is located near a lamp table. it is also close to a blanket and a pillow. look for the couch within these objects.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "pillow",
+            "room",
+            "lamp table",
+            "blanket",
+            "couch"
+        ],
+        "target": "leather couch"
+    },
+    "black leather couch that is located near the curtain and rug, and next to the picture.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "picture",
+            "rug",
+            "curtain"
+        ],
+        "target": "leather couch"
+    },
+    "black leather sofa chair located near the mirror.": {
+        "adjs": [
+            "black"
+        ],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "leather sofa chair"
+    },
+    "blanket located below the painting and to the right of the pillow in the bed region.": {
+        "adjs": [],
+        "nearby": [
+            "bed region",
+            "pillow",
+            "painting"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is located below the couch and to the left of the bag.": {
+        "adjs": [],
+        "nearby": [
+            "bag",
+            "couch"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is located next to the sofa, on the left side of the table, and near the plant. it is a white blanket with a tan tassel on one end.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sofa",
+            "table",
+            "end",
+            "plant",
+            "tassel"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is located on the couch towards the right side. it is a light blue blanket with white fur on it. be careful not to confuse it with the pillow located nearby.": {
+        "adjs": [
+            "light",
+            "blue"
+        ],
+        "nearby": [
+            "fur",
+            "pillow",
+            "couch"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is located on the sofa next to the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "sofa",
+            "pillow"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is located on top of the couch. the blanket is tan in color.": {
+        "adjs": [],
+        "nearby": [
+            "color",
+            "top",
+            "couch"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is pink and white. it is located on the bed, towards the left side. the dresser is on the right side of the bed and the mirror is above the dresser. the pillow is placed on the bed, near the blanket. the desk chair is situated near the blanket on the left side.": {
+        "adjs": [],
+        "nearby": [
+            "desk chair",
+            "pillow",
+            "bed",
+            "mirror",
+            "dresser"
+        ],
+        "target": "blanket"
+    },
+    "blanket that is situated on top of the bed and is adjacent to the nightstand. the blanket has a blue and white pattern.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "nightstand",
+            "pattern",
+            "top"
+        ],
+        "target": "blanket"
+    },
+    "blanket with a floral pattern on it. it is located near the couch and the lamp, towards the right side of the frame.": {
+        "adjs": [
+            "floral"
+        ],
+        "nearby": [
+            "lamp",
+            "frame",
+            "couch"
+        ],
+        "target": "pattern"
+    },
+    "blanket with fur on it. it is located near the armchair and the carpet.": {
+        "adjs": [],
+        "nearby": [
+            "carpet",
+            "armchair",
+            "fur"
+        ],
+        "target": "blanket"
+    },
+    "blue and gold robe located on a chair next to a column and a decorative plant.": {
+        "adjs": [
+            "gold",
+            "blue"
+        ],
+        "nearby": [
+            "column",
+            "chair",
+            "plant"
+        ],
+        "target": "robe"
+    },
+    "blue and orange bed in the room. it is located near the blinds, pillow, toy, hanging clothes, nightstand, and plush toy.": {
+        "adjs": [
+            "orange",
+            "blue"
+        ],
+        "nearby": [
+            "clothes",
+            "pillow",
+            "toy",
+            "room",
+            "nightstand",
+            "blinds"
+        ],
+        "target": "bed"
+    },
+    "blue and white blanket located on the bed, towards the top right corner, next to the pillow and the bedside cabinet.": {
+        "adjs": [
+            "white",
+            "blue"
+        ],
+        "nearby": [
+            "bed",
+            "corner",
+            "pillow",
+            "bedside cabinet"
+        ],
+        "target": "blanket"
+    },
+    "blue and white striped towel in the bathroom. it is located near the shower curtain.": {
+        "adjs": [
+            "striped",
+            "white",
+            "blue"
+        ],
+        "nearby": [
+            "shower curtain",
+            "bathroom"
+        ],
+        "target": "towel"
+    },
+    "blue chair located to the right and slightly below the banister.": {
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [
+            "banister"
+        ],
+        "target": "chair"
+    },
+    "blue couch with a tv on it. it is located to the right of the blinds, below the exercise machine, and above the painting.": {
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [
+            "painting",
+            "blinds",
+            "tv",
+            "exercise machine"
+        ],
+        "target": "couch"
+    },
+    "blue velvet sofa chair in the room. look for the table on the left side, and the clock on the right side. the sofa chair is located between the table and the clock.": {
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [
+            "sofa chair",
+            "clock",
+            "room",
+            "table"
+        ],
+        "target": "velvet sofa chair"
+    },
+    "board that is located above the chair and next to the tank. it is a wooden board with a lot of boxes on it.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "tank",
+            "boxes",
+            "chair"
+        ],
+        "target": "board"
+    },
+    "board, a piece of plywood, which is located on the stove, towards the bottom-right corner. the stove is positioned towards the bottom-left corner of a region that contains a box. the box is placed on the left side of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "corner",
+            "stove",
+            "frame",
+            "piece",
+            "plywood"
+        ],
+        "target": "board"
+    },
+    "board, which is a piece of plywood. it is located towards the top left of the frame, near the container.": {
+        "adjs": [],
+        "nearby": [
+            "piece",
+            "frame",
+            "plywood",
+            "container"
+        ],
+        "target": "board"
+    },
+    "board, which is an easel with a whiteboard on it. it is located near a stand and a vase. the stand is towards the left of the board, while the vase is towards the right. additionally, there is a plant near the bottom-right corner of the board.": {
+        "adjs": [],
+        "nearby": [
+            "whiteboard",
+            "easel",
+            "corner",
+            "stand",
+            "vase",
+            "plant"
+        ],
+        "target": "board"
+    },
+    "box with a lot of stuff in it. the box is located near the cabinet and pouffe.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "pouffe"
+        ],
+        "target": "box"
+    },
+    "brown couch located near the decorative plant, table lamp, lampshade, and pillow.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "table lamp",
+            "pillow",
+            "lampshade",
+            "plant"
+        ],
+        "target": "couch"
+    },
+    "brown couch located next to the picture and cushion.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "picture",
+            "cushion"
+        ],
+        "target": "couch"
+    },
+    "brown couch that is located near the picture, table, cushion, and sculpture.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "sculpture",
+            "picture",
+            "cushion",
+            "table"
+        ],
+        "target": "couch"
+    },
+    "brown leather couch in the room. it is located near a bicycle and a plush toy.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "toy",
+            "room",
+            "bicycle"
+        ],
+        "target": "leather couch"
+    },
+    "brown leather couch in the room. it is located near a pillow and a blanket.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "pillow",
+            "room",
+            "blanket"
+        ],
+        "target": "leather couch"
+    },
+    "brown leather couch in the room. it is located near the table and armchair.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "room",
+            "armchair",
+            "table"
+        ],
+        "target": "leather couch"
+    },
+    "brown leather couch located near the table and the sculpture.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "sculpture",
+            "table"
+        ],
+        "target": "leather couch"
+    },
+    "brown leather couch located near the table, rug, cushion, and picture.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "rug",
+            "picture",
+            "cushion",
+            "table"
+        ],
+        "target": "leather couch"
+    },
+    "brown leather sofa chair located near the table and folding chair.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "table chair"
+        ],
+        "target": "leather sofa chair"
+    },
+    "built-in cabinet in the room. it is located near the rug in the lower part of the view. look for a painting on the left side of the cabinet. the pillow is also nearby, close to the right side of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "part",
+            "rug",
+            "pillow",
+            "room",
+            "painting"
+        ],
+        "target": "cabinet"
+    },
+    "built-in cabinet located near a window curtain, table, and chair in the room.": {
+        "adjs": [],
+        "nearby": [
+            "table",
+            "room",
+            "chair",
+            "window curtain"
+        ],
+        "target": "cabinet"
+    },
+    "built-in wine cabinet located near the banister and kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "banister kitchen cabinet"
+        ],
+        "target": "wine cabinet"
+    },
+    "bunk bed located near a towel.": {
+        "adjs": [],
+        "nearby": [
+            "towel"
+        ],
+        "target": "bunk bed"
+    },
+    "bunk bed that is located in the same vicinity as the curtain and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "vicinity",
+            "pillow",
+            "curtain"
+        ],
+        "target": "bunk bed"
+    },
+    "cabinet located below the mirror and to the left of the box.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located below the mirror and to the left of the vase.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "vase"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located beneath a window.": {
+        "adjs": [],
+        "nearby": [
+            "window"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located near an armchair, a rug, and a box. the cabinet is white and is accompanied by a yellow chair. the surrounding area consists of a brick wall.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "rug",
+            "chair",
+            "armchair",
+            "brick wall",
+            "area"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located near the kitchen counter.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen counter"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located near the painting, book, and toy. the cabinet is a white one with a drawer and a shelf.": {
+        "adjs": [],
+        "nearby": [
+            "book",
+            "toy",
+            "shelf",
+            "painting",
+            "drawer"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located next to the countertop, sink, and bar. it is a wooden cabinet with a sink and a washer and dryer.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "countertop",
+            "dryer",
+            "sink",
+            "washer"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located next to the sink and mirror.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located next to the wardrobe and the bench. the cabinet is a wooden cabinet with a mirror on it.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "wardrobe",
+            "mirror",
+            "bench"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located on the kitchen counter and adjacent to the shelving and drawer. the cabinet is white in appearance.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen counter",
+            "shelving",
+            "drawer"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located on the kitchen counter. it is situated towards the center of the counter, adjacent to a box on its right side. the cabinet is white in color.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "box",
+            "kitchen counter",
+            "counter",
+            "color"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located on the kitchen countertop towards the center. the cabinet is white in color and has a marble counter top.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "color",
+            "kitchen countertop",
+            "marble counter top"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located on the right side of the refrigerator.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the left of the picture, and search for a wooden cabinet with a mirror on it.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "mirror",
+            "picture"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right and slightly below the clothes.": {
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the clothes and below the bath towels.": {
+        "adjs": [],
+        "nearby": [
+            "bath towels",
+            "clothes"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the desk. the cabinet is white and has a window.": {
+        "adjs": [],
+        "nearby": [
+            "desk",
+            "window"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the dishwasher and below the sink.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "dishwasher"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the sink and below the picture. it is a white cabinet with a black counter top.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "counter top",
+            "sink",
+            "picture"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the stove, and below the microwave. it has a white color and is accompanied by black countertops and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove",
+            "steel appliances",
+            "countertops",
+            "color"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet located to the right of the washing machine and below the clothes dryer. it is a wooden cabinet with a glass door.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "glass door",
+            "clothes dryer",
+            "washing machine"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet table located near the photo.": {
+        "adjs": [],
+        "nearby": [
+            "photo"
+        ],
+        "target": "cabinet table"
+    },
+    "cabinet that contains a white washer and dryer in it.": {
+        "adjs": [],
+        "nearby": [
+            "dryer",
+            "washer"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that has a mirror on it. the cabinet is located to the right of the mirror and slightly below it.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that has a mirror on it. the cabinet is located to the right of the sink and below the towel.": {
+        "adjs": [],
+        "nearby": [
+            "towel",
+            "sink",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that has a tv mounted on it.": {
+        "adjs": [],
+        "nearby": [
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located below the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the bed and has a mirror on it.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the bowl, vase, ornament, and picture. on the cabinet, there are two framed pictures placed.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "vase",
+            "pictures",
+            "bowl",
+            "ornament"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the chair. the cabinet has a lot of glass in it.": {
+        "adjs": [],
+        "nearby": [
+            "chair",
+            "glass"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the plant. the cabinet is white with a bamboo print on it.": {
+        "adjs": [],
+        "nearby": [
+            "bamboo print",
+            "plant"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the stairs railing. it is a dresser with a painting on it.": {
+        "adjs": [],
+        "nearby": [
+            "stairs",
+            "painting",
+            "dresser"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located near the wall where a flat screen tv is mounted.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "wall"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located next to the blinds and across from the refrigerator. it is described as a built-in window seat.": {
+        "adjs": [],
+        "nearby": [
+            "blinds",
+            "refrigerator",
+            "window seat"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located next to the lamp.": {
+        "adjs": [],
+        "nearby": [
+            "lamp"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located to the right of the bin and below the washer-dryer. the cabinet is dark brown.": {
+        "adjs": [],
+        "nearby": [
+            "bin",
+            "washer dryer"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located to the right of the couch and below the book rack. the cabinet has a red wall and is made of wood.": {
+        "adjs": [],
+        "nearby": [
+            "book rack",
+            "wall",
+            "wood",
+            "couch"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located to the right of the desk and below the painting. it is a red cabinet with a lot of utensils on it.": {
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "utensils",
+            "painting",
+            "desk"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet that is located to the right of the plant and below the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv",
+            "plant"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet where a flat screen tv is mounted on the wall above.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "wall"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a black mirror on it. the cabinet is located to the right of the towel.": {
+        "adjs": [],
+        "nearby": [
+            "towel",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a broken door. it is located on the left side of the desk and below the wardrobe.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "wardrobe",
+            "desk"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a chalkboard on it. the cabinet is located to the right of the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "chalkboard",
+            "curtain"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a checkered floor and a mirror on it.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "floor"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a flat screen tv mounted on it. the cabinet is located to the left of the tv and slightly below it.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a flat screen tv on it.  to locate the cabinet, first look for the curtain. then, move towards the curtain and continue in the same direction, you will find the cabinet. the cabinet is placed next to the curtain, towards the opposite side of the tv.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv",
+            "curtain"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a flat screen tv on it. the cabinet is located beside the tv.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a flat screen tv on it. the cabinet is located to the right of the tv, near the speaker, and below the bowl.": {
+        "adjs": [],
+        "nearby": [
+            "speaker",
+            "screen tv",
+            "tv",
+            "bowl"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a flat screen tv on top. the cabinet is located to the right of the tv.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv",
+            "top"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a lamp on it. the cabinet is located below the lamp.": {
+        "adjs": [],
+        "nearby": [
+            "lamp"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a lot of pictures on it. the cabinet is located to the right of the binder.": {
+        "adjs": [],
+        "nearby": [
+            "binder",
+            "pictures"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a mirror on it. it is located to the right of the bed and below the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "mirror",
+            "curtain"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a mirror on it. it is located to the right of the mirror and below the top of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "frame",
+            "mirror",
+            "top"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a mirror on it. look for the mirror that is located within the bounds of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "bounds",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a mirror on it. the cabinet is located near the bed, on the left side of the sink.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "sink",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a painting on it. the cabinet is located to the right of the vase and the throw blanket.": {
+        "adjs": [],
+        "nearby": [
+            "throw blanket",
+            "painting",
+            "vase"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a picture of a bamboo tree on it. the cabinet is located to the right of the binder.": {
+        "adjs": [],
+        "nearby": [
+            "bamboo tree",
+            "picture",
+            "binder"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a refrigerator in it. the cabinet is located above the refrigerator.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a sculpture on it, located to the right of the statue.": {
+        "adjs": [],
+        "nearby": [
+            "sculpture",
+            "statue"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a sink in it located on the countertop.": {
+        "adjs": [],
+        "nearby": [
+            "countertop",
+            "sink"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a white color and a stainless steel counter top and sink. it is located near the worktop and sink regions. additionally, there is a dishwasher on the left side of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "dishwasher",
+            "steel counter top",
+            "color",
+            "worktop sink regions"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a window in it located on the kitchen counter near the sink.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "kitchen counter",
+            "window"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with a yellow line on it located slightly below and to the right of the box.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "line"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with the tv mounted on it. the cabinet is located next to the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet with the tv mounted on it. the cabinet is located towards the right side of the frame and slightly below the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv",
+            "frame"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet, which is a dresser, located next to the bed and window curtain.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "dresser",
+            "window curtain"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet, which is a dresser, located to the right of the stairs railing.": {
+        "adjs": [],
+        "nearby": [
+            "stairs",
+            "dresser"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet, which is a piece of furniture in a living room. it is located below the tray and to the right of the picture.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "piece",
+            "living room",
+            "furniture",
+            "tray"
+        ],
+        "target": "cabinet"
+    },
+    "cabinet, which is a wooden cabinet with a stone wall. it is located to the right of the vase, below the tray, and to the left of the chair.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair",
+            "vase",
+            "tray",
+            "stone wall"
+        ],
+        "target": "cabinet"
+    },
+    "cast iron radiator located near the photo, stairs, and railing.": {
+        "adjs": [],
+        "nearby": [
+            "stairs",
+            "photo",
+            "railing"
+        ],
+        "target": "iron radiator"
+    },
+    "chair with a floral pattern that is located to the right of the table and below the kitchen shelf.": {
+        "adjs": [],
+        "nearby": [
+            "pattern",
+            "kitchen shelf",
+            "table"
+        ],
+        "target": "chair"
+    },
+    "closet shelf located above the cabinet. it is a white shelf with a mirror on it.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "cabinet",
+            "mirror"
+        ],
+        "target": "closet shelf"
+    },
+    "cloth, a christian robe, located to the right of the lighting fixture and below the picture.": {
+        "adjs": [],
+        "nearby": [
+            "lighting fixture",
+            "picture",
+            "robe"
+        ],
+        "target": "cloth"
+    },
+    "clothes among the objects. look for t-shirts, shirts, and other shirts in the region. the clothes are located near a cabinet, a shelf, a box, and a picture.": {
+        "adjs": [],
+        "nearby": [
+            "shirts",
+            "picture",
+            "box",
+            "t shirts",
+            "cabinet",
+            "shelf"
+        ],
+        "target": "clothes"
+    },
+    "clothes dryer that is located below the washing machine.": {
+        "adjs": [],
+        "nearby": [
+            "washing machine"
+        ],
+        "target": "clothes dryer"
+    },
+    "clothes dryer which is located to the right of the washing machine and below the picture.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "washing machine"
+        ],
+        "target": "clothes dryer"
+    },
+    "clothes dryer, which is located below the washing machine and to the right of the ironing board.": {
+        "adjs": [],
+        "nearby": [
+            "ironing board",
+            "washing machine"
+        ],
+        "target": "clothes dryer"
+    },
+    "clothes in close proximity to the clothes hanger rod and the stack of papers.": {
+        "adjs": [],
+        "nearby": [
+            "stack",
+            "papers",
+            "clothes hanger rod"
+        ],
+        "target": "clothes"
+    },
+    "clothes in good condition. the clothes are located inside the cabinet, which is positioned below the basket and to the right of the box.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "condition",
+            "cabinet",
+            "basket"
+        ],
+        "target": "clothes"
+    },
+    "clothes in relation to other objects in the scene. the clothes are located within a region that intersects with the wardrobe. on the left side of the frame, you will find a chair. the clothes are positioned below the chair.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "frame",
+            "chair",
+            "relation"
+        ],
+        "target": "clothes"
+    },
+    "clothes in the room. look for a mix of black and white items. the clothes are located in the wardrobe on the right side.": {
+        "adjs": [],
+        "nearby": [
+            "mix",
+            "wardrobe",
+            "room"
+        ],
+        "target": "clothes"
+    },
+    "clothes in the storage cabinet, which is located to the right of the closet area for hanging clothes and below the toy. the clothes consist of a mix of men's, women's, and children's clothes.": {
+        "adjs": [],
+        "nearby": [
+            "closet area",
+            "toy",
+            "mix",
+            "children clothes",
+            "storage cabinet"
+        ],
+        "target": "clothes"
+    },
+    "clothes in the view. the clothes are located on a shelf and in a container.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "container"
+        ],
+        "target": "clothes"
+    },
+    "clothes located below the iron board and above the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "iron board"
+        ],
+        "target": "clothes"
+    },
+    "clothes located inside the closet area for hanging clothes, which is adjacent to the wardrobe and the table. the clothes are a mix of old and new.": {
+        "adjs": [],
+        "nearby": [
+            "mix",
+            "wardrobe",
+            "closet area",
+            "table"
+        ],
+        "target": "clothes"
+    },
+    "clothes located on the high shelf in the region near the cloth.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "cloth"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are a mix of casual and dressy. the clothes are located on a shelf towards the left side of the frame. look for a bag nearby the clothes, positioned on the right side of the frame. additionally, there is a box placed close to the bag, closer to the center of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "box",
+            "frame",
+            "mix",
+            "shelf",
+            "bag"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are dirty and soiled. they are located near the shelf and the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "cabinet"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are hanging on a rack.": {
+        "adjs": [],
+        "nearby": [
+            "rack"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are in a closet. the clothes are located near a clothes rack. additionally, there is a storage cabinet close to the clothes. be aware of the clutter nearby the clothes.": {
+        "adjs": [],
+        "nearby": [
+            "closet",
+            "clothes rack",
+            "clutter",
+            "storage cabinet"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are located beside the bag and on top of the wardrobe.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "bag",
+            "top"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are located near the chair and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "chair"
+        ],
+        "target": "clothes"
+    },
+    "clothes that are located near the clothes hanger rod and the iron board. the clothes are a mix of casual and dressy.": {
+        "adjs": [],
+        "nearby": [
+            "mix",
+            "iron board",
+            "clothes hanger rod"
+        ],
+        "target": "clothes"
+    },
+    "clothes which consist of a pair of jeans and a hoodie. the clothes are located within a region that is adjacent to a container and a microwave. the clothes are also nearby a board and a cabinet. pay attention to the specific region coordinates provided to locate the clothes accurately.": {
+        "adjs": [],
+        "nearby": [
+            "jeans",
+            "board",
+            "microwave",
+            "cabinet",
+            "pair",
+            "container",
+            "hoodie"
+        ],
+        "target": "clothes"
+    },
+    "clothes. they are in the wardrobe, towards the top-right corner. look for a mix of old and new clothes.": {
+        "adjs": [
+            "new",
+            "old"
+        ],
+        "nearby": [
+            "mix",
+            "wardrobe",
+            "corner"
+        ],
+        "target": "clothes"
+    },
+    "coffee table located beside the sofa, near the chest and blanket, and close to the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "sofa",
+            "chest",
+            "blanket"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table located near the couch in the frame.": {
+        "adjs": [],
+        "nearby": [
+            "frame",
+            "couch"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table located near the couch, rug, pillow, fireplace, curtain, and picture.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "rug",
+            "pillow",
+            "fireplace",
+            "curtain",
+            "couch"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table located near the fireplace, chest, mirror, sofa, carpet, and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "chest",
+            "sofa",
+            "pillow",
+            "carpet",
+            "mirror",
+            "fireplace"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table that is located near the couch and exercise machine.": {
+        "adjs": [],
+        "nearby": [
+            "couch exercise machine"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table that is located near the couch, armchair, bar chair, and table lamp.": {
+        "adjs": [],
+        "nearby": [
+            "table lamp",
+            "bar chair",
+            "armchair",
+            "couch"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table that is located near the sofa, armchair, blanket, side table, and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "sofa",
+            "pillow",
+            "table",
+            "armchair",
+            "blanket"
+        ],
+        "target": "coffee table"
+    },
+    "coffee table that is located near the sofa, the curtain, and the ottoman.": {
+        "adjs": [],
+        "nearby": [
+            "ottoman",
+            "sofa",
+            "curtain"
+        ],
+        "target": "coffee table"
+    },
+    "couch in relation to other objects in the scene. the couch is located near a coffee table and a pillow. look for a sectional couch in the vicinity of the coffee table and the pillow.": {
+        "adjs": [
+            "sectional"
+        ],
+        "nearby": [
+            "coffee table",
+            "pillow",
+            "relation",
+            "vicinity"
+        ],
+        "target": "couch"
+    },
+    "couch that is located in front of the stone wall.": {
+        "adjs": [],
+        "nearby": [
+            "stone wall"
+        ],
+        "target": "couch"
+    },
+    "couch that is located near the blinds and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "blinds",
+            "pillow"
+        ],
+        "target": "couch"
+    },
+    "couch that is located near the carpet.": {
+        "adjs": [],
+        "nearby": [
+            "carpet"
+        ],
+        "target": "couch"
+    },
+    "couch that is located near the painting, pillow, and rug. it is a brown couch with blue pillows.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "rug",
+            "pillow",
+            "painting",
+            "pillows"
+        ],
+        "target": "couch"
+    },
+    "couch that is located next to the table and the flower vase. it is positioned towards the right side of the picture and has a plaid throw blanket on it.": {
+        "adjs": [],
+        "nearby": [
+            "flower vase",
+            "plaid throw blanket",
+            "picture",
+            "table"
+        ],
+        "target": "couch"
+    },
+    "couch with a grey color and a tv on it. it is located near the fireplace, just to the right of the coffee table and the rug. the couch is also close to the led tv. look for it in the region between the painting and the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "coffee table",
+            "painting",
+            "rug",
+            "tv",
+            "fireplace",
+            "color",
+            "curtain"
+        ],
+        "target": "couch"
+    },
+    "couch, which is a sofa bed, relative to other objects. the couch is located on the left side of the frame, near the lamp and above the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "frame",
+            "lamp",
+            "sofa bed"
+        ],
+        "target": "couch"
+    },
+    "couch, which is located near a mirror and a pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "mirror"
+        ],
+        "target": "couch"
+    },
+    "countertop made of granite by locating it in relation to other objects in the scene. look for a surface that is below the clothes dryer and above the iron board.": {
+        "adjs": [],
+        "nearby": [
+            "granite",
+            "iron board",
+            "surface",
+            "relation",
+            "clothes dryer"
+        ],
+        "target": "countertop"
+    },
+    "countertop made of marble that is located near the bathroom cabinet, mirror, and chest of drawers.": {
+        "adjs": [],
+        "nearby": [
+            "drawers",
+            "bathroom cabinet",
+            "chest",
+            "marble",
+            "mirror"
+        ],
+        "target": "countertop"
+    },
+    "dark blue couch near the handrail.": {
+        "adjs": [
+            "dark",
+            "blue"
+        ],
+        "nearby": [
+            "handrail"
+        ],
+        "target": "couch"
+    },
+    "desk in the room. the desk is located near the desk chair and a lamp.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "desk chair",
+            "room"
+        ],
+        "target": "desk"
+    },
+    "desk located in front of the cabinet. the desk is described as a white desk with a window in front of it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "cabinet",
+            "window"
+        ],
+        "target": "desk"
+    },
+    "desk located near the rack and chest in the attic.": {
+        "adjs": [],
+        "nearby": [
+            "attic",
+            "chest",
+            "rack"
+        ],
+        "target": "desk"
+    },
+    "desk located next to a picture frame, a picture, and a desk lamp.": {
+        "adjs": [],
+        "nearby": [
+            "desk lamp",
+            "picture",
+            "picture frame"
+        ],
+        "target": "desk"
+    },
+    "desk located next to the flower vase, tray, chair, plate, cabinet, coffee mug, and kitchen cabinet. the desk is a wooden desk with a hutch on it.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "coffee mug",
+            "plate",
+            "flower vase",
+            "chair",
+            "hutch",
+            "cabinet",
+            "kitchen cabinet",
+            "tray"
+        ],
+        "target": "desk"
+    },
+    "desk located on the right side of the picture and towards the center of the frame. on the desk, you will find a chair and a lamp.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "picture",
+            "chair",
+            "frame",
+            "lamp"
+        ],
+        "target": "desk"
+    },
+    "desk made of wood near the pillar in the room.": {
+        "adjs": [],
+        "nearby": [
+            "pillar",
+            "room",
+            "wood"
+        ],
+        "target": "desk"
+    },
+    "desk that is located to the right of the chair and below the monitor. the desk is a white desk with a laptop on it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "monitor",
+            "chair",
+            "laptop"
+        ],
+        "target": "desk"
+    },
+    "desk with a tv mounted on it. the desk is located towards the right side of the room, near the shelf. be cautious not to confuse it with the box placed on the left side of the room.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "box",
+            "tv",
+            "room"
+        ],
+        "target": "desk"
+    },
+    "desk with a tv on it. look towards the sofa and locate the desk on its right. the desk is also next to a table lamp and a kitchen cabinet. the tv on the desk should be in sight.": {
+        "adjs": [],
+        "nearby": [
+            "sofa",
+            "sight",
+            "kitchen cabinet",
+            "table lamp",
+            "tv"
+        ],
+        "target": "desk"
+    },
+    "desk with a wooden desk and a lamp on it.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp"
+        ],
+        "target": "desk"
+    },
+    "desk with the tv on it. the desk is located below the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv"
+        ],
+        "target": "desk"
+    },
+    "display rack located near the table and the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv",
+            "table"
+        ],
+        "target": "display rack"
+    },
+    "double bed located near a nightstand, pillow, and a book.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "book",
+            "nightstand",
+            "pillow"
+        ],
+        "target": "bed"
+    },
+    "double bed located near a pillow, towel, and lamp.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "lamp",
+            "pillow",
+            "towel"
+        ],
+        "target": "bed"
+    },
+    "double bowl stainless steel sink located near the cabinet and sign.": {
+        "adjs": [
+            "stainless",
+            "double"
+        ],
+        "nearby": [
+            "cabinet",
+            "sign"
+        ],
+        "target": "bowl steel sink"
+    },
+    "double convection oven in the kitchen. the oven is located below the kitchen counter and to the right of the kitchen cabinet.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "kitchen counter",
+            "kitchen",
+            "kitchen cabinet",
+            "oven"
+        ],
+        "target": "convection oven"
+    },
+    "double wardrobe located near a smoke alarm and a lamp.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "lamp",
+            "smoke alarm"
+        ],
+        "target": "wardrobe"
+    },
+    "drawer made of reclaimed wood. the drawer is located beside the lamp and below the painting.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "painting",
+            "wood"
+        ],
+        "target": "drawer"
+    },
+    "drawer with a cactus in it.  first, locate the decorative plant. move towards the decorative plant until you reach it. the drawer with the cactus will be located to the right of the decorative plant.": {
+        "adjs": [],
+        "nearby": [
+            "cactus",
+            "plant"
+        ],
+        "target": "drawer"
+    },
+    "drawer with a teddy bear on it.   to locate the drawer, look for the teddy bear resting on top of it. the drawer is in the same vicinity as the toy and photo mount.": {
+        "adjs": [],
+        "nearby": [
+            "toy",
+            "teddy",
+            "vicinity",
+            "top",
+            "photo mount"
+        ],
+        "target": "drawer"
+    },
+    "drawer, which is a dresser, in relation to other objects in the scene. the painting is located above the drawer, the lamp is to the left of the drawer, and the flowerpot is to the right of the drawer.": {
+        "adjs": [],
+        "nearby": [
+            "flowerpot",
+            "lamp",
+            "relation",
+            "painting",
+            "dresser"
+        ],
+        "target": "drawer"
+    },
+    "dresser located near the lamp table and photo.": {
+        "adjs": [],
+        "nearby": [
+            "photo",
+            "lamp table"
+        ],
+        "target": "dresser"
+    },
+    "dresser located next to the book and on the same level as the plant, vase, and curtain.": {
+        "adjs": [],
+        "nearby": [
+            "book",
+            "vase",
+            "plant",
+            "curtain"
+        ],
+        "target": "dresser"
+    },
+    "dresser located to the right of the painting, above the lamp, and below the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "painting",
+            "curtain"
+        ],
+        "target": "dresser"
+    },
+    "dresser that is near the mirror and the lamp.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "mirror"
+        ],
+        "target": "dresser"
+    },
+    "electric radiator, which is located in the same region as the wardrobe and the picture. it is positioned below the picture and to the right of the wardrobe.": {
+        "adjs": [
+            "electric"
+        ],
+        "nearby": [
+            "picture",
+            "wardrobe"
+        ],
+        "target": "radiator"
+    },
+    "farmhouse sink located in the kitchen lower cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet"
+        ],
+        "target": "farmhouse sink"
+    },
+    "farmhouse sink located next to the lower kitchen cabinet and dishwasher.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet",
+            "dishwasher"
+        ],
+        "target": "farmhouse sink"
+    },
+    "fire extinguisher mounted on a wall next to a bed. the fire extinguisher is located above the bed table and within the boundaries of the bed.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "wall",
+            "bed table"
+        ],
+        "target": "fire extinguisher"
+    },
+    "flag of the united states of america. it is located in the region that is close to the picture and cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "cabinet"
+        ],
+        "target": "flag"
+    },
+    "flat screen tv located near the cabinet and bar.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "cabinet",
+            "bar"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv located near the tv stand and curtain.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "tv stand"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv located on the shelf/cabinet, towards the right side of the frame.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "frame",
+            "shelf cabinet"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv located on the table towards the upper right corner of the frame near the speaker.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "speaker",
+            "corner",
+            "frame",
+            "table"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv located to the right of the curtain and below the rafter.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "rafter",
+            "curtain"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv near the mirror, dresser, and cabinet.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "cabinet",
+            "mirror",
+            "dresser"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv that is located above and slightly to the right of the wardrobe.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "wardrobe"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv that is located to the left of the cabinet.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "screen tv"
+    },
+    "flat screen tv. it is located next to the armchair and curtain, on top of the cabinet.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "cabinet",
+            "top",
+            "curtain",
+            "armchair"
+        ],
+        "target": "screen tv"
+    },
+    "freestanding tub located near the shower curtain.": {
+        "adjs": [],
+        "nearby": [
+            "shower curtain"
+        ],
+        "target": "tub"
+    },
+    "front-loading washing machine near the food and washing powder.": {
+        "adjs": [
+            "front"
+        ],
+        "nearby": [
+            "food washing powder"
+        ],
+        "target": "loading washing machine"
+    },
+    "garbage bag located near the shelf and container.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "container"
+        ],
+        "target": "garbage bag"
+    },
+    "gas stove in the kitchen. it is located on the kitchen counter near the kitchen island.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen island",
+            "kitchen counter",
+            "kitchen"
+        ],
+        "target": "gas stove"
+    },
+    "gas stove that is located on the right side of the table.": {
+        "adjs": [],
+        "nearby": [
+            "table"
+        ],
+        "target": "gas stove"
+    },
+    "gas-fired water heater. look for it near the washbasin and laundry machine.": {
+        "adjs": [],
+        "nearby": [
+            "washbasin",
+            "machine"
+        ],
+        "target": "gas water heater"
+    },
+    "gray couch located on top of the pillow.": {
+        "adjs": [
+            "gray"
+        ],
+        "nearby": [
+            "pillow",
+            "top"
+        ],
+        "target": "couch"
+    },
+    "gray couch that is located near the carpet, stairs railing, table, and pillow.": {
+        "adjs": [
+            "gray"
+        ],
+        "nearby": [
+            "table",
+            "pillow",
+            "carpet"
+        ],
+        "target": "couch"
+    },
+    "gray couch that is located near the curtain rod and the cabinet.": {
+        "adjs": [
+            "gray"
+        ],
+        "nearby": [
+            "cabinet",
+            "curtain rod"
+        ],
+        "target": "couch"
+    },
+    "grey couch located on the left side of the room, next to the picture and the pillow.": {
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "picture",
+            "pillow",
+            "room"
+        ],
+        "target": "couch"
+    },
+    "heater, which is a wall mounted electric heater, located to the right of the wardrobe and below the bar.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "wall heater",
+            "bar"
+        ],
+        "target": "heater"
+    },
+    "high shelf that is taller than the rest of the shelves in a closet. look for a shelf that is positioned above the clothes and the container.": {
+        "adjs": [
+            "high"
+        ],
+        "nearby": [
+            "closet",
+            "clothes",
+            "shelves",
+            "container"
+        ],
+        "target": "shelf"
+    },
+    "jacuzzi tub in relation to other objects in the scene. the bathtub is located next to the towel bar, which is positioned towards the right side of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "towel bar",
+            "frame",
+            "bathtub",
+            "relation"
+        ],
+        "target": "jacuzzi tub"
+    },
+    "king size bed in the room. locate the bed by first finding the wardrobe, which is towards the right side of the frame. then, move downwards and slightly to the left to find the blankets thrown on the bed. the bed is situated towards the bottom left corner of the room.": {
+        "adjs": [],
+        "nearby": [
+            "blankets",
+            "wardrobe",
+            "corner",
+            "frame",
+            "bed",
+            "room"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed in the room. the bed is located near the curtain and the dresser. look for a bed stand near it. the mirror is on the left side of the bed. the pillow is on the right side of the bed.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "bed stand",
+            "bed",
+            "room",
+            "mirror",
+            "curtain",
+            "dresser"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located near the chest drawer, painting, curtain, and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "chest drawer",
+            "painting",
+            "curtain"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located near the nightstand and window curtain.": {
+        "adjs": [],
+        "nearby": [
+            "nightstand window curtain"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located near the pillow and painting. the bed should be positioned below the pillow and to the right of the painting in the view.": {
+        "adjs": [],
+        "nearby": [
+            "painting",
+            "pillow",
+            "bed"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located near the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located near the wardrobe, pillow, and towel.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "pillow",
+            "towel"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed located towards the left side of the mirror and below the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "mirror"
+        ],
+        "target": "king size bed"
+    },
+    "king size bed with a canopy. the bed is located near a curtain on the right side and a pillow on the bottom right side. additionally, there is a cabinet near the bed on the top left side.": {
+        "adjs": [],
+        "nearby": [
+            "canopy",
+            "pillow",
+            "bed",
+            "cabinet",
+            "curtain"
+        ],
+        "target": "king size bed"
+    },
+    "king-sized bed in the room. it is located near a smaller bed and a bedside table. look for a pillow nearby. there is also a photo in the vicinity.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "bedside table",
+            "pillow",
+            "bed",
+            "photo",
+            "room",
+            "vicinity"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed in the room. the bed is located near a pillow, a cabinet, an armchair, and a nightstand.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "bed",
+            "cabinet",
+            "room",
+            "armchair",
+            "nightstand"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed located near a shelf and a pillow.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "shelf",
+            "pillow"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed located near the bedside cabinet.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "bedside cabinet"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed located near the curtain and sofa.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "sofa",
+            "curtain"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed located near the picture, pillow, and cabinet.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "cabinet",
+            "pillow",
+            "picture"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed located near the pillow, window curtain, and bedside lamp.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "bedside lamp",
+            "window curtain"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed that is located near a picture and a pillow in the frame.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "picture",
+            "frame"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed that is located near the window curtain and the painting.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "painting",
+            "window curtain"
+        ],
+        "target": "king bed"
+    },
+    "king-sized bed with a striped comforter. the bed is located next to a cabinet and a bedside cabinet.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "bed",
+            "cabinet",
+            "bedside cabinet",
+            "comforter"
+        ],
+        "target": "king bed"
+    },
+    "kitchen lower cabinet located below the kitchen countertop items and above the kitchen cabinet. the lower cabinets of the kitchen are painted in a light blue color.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "kitchen",
+            "color",
+            "kitchen countertop items",
+            "cabinets"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen lower cabinet, a white cabinet with a glass door. referencing other objects in the scene, locate the cabinet below the kitchen cabinet, to the right of the refrigerator cabinet, and to the left of the bench.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "refrigerator cabinet",
+            "cabinet",
+            "glass door",
+            "bench"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen lower cabinet, which is a cabinet located below the upper cabinets in the kitchen. look for it in the region where the kitchen countertop items are, towards the left side.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "kitchen countertop items",
+            "cabinets",
+            "kitchen",
+            "cabinet"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen lower cabinet. it is located below the kitchen cabinet, to the left of the refrigerator cabinet, and near the sink and grate. the kitchen lower cabinet is a white cabinet with a white countertop and a white sink with a white faucet.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "refrigerator cabinet",
+            "faucet",
+            "cabinet",
+            "countertop",
+            "sink"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen lower cabinet. it is located below the kitchen top and to the right of the kitchen cabinet.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "kitchen top"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen lower cabinet. it is located below the kitchen top and to the right of the sink. it is near the dishwasher. the lower cabinet is made of wood.": {
+        "adjs": [
+            "lower"
+        ],
+        "nearby": [
+            "cabinet",
+            "kitchen top",
+            "sink",
+            "dishwasher",
+            "wood"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "kitchen shelf in the kitchen. it is a piece of wood that is attached to a wall. look for it near the refrigerator and oven.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator",
+            "oven",
+            "kitchen",
+            "piece",
+            "wall",
+            "wood"
+        ],
+        "target": "kitchen shelf"
+    },
+    "kitchen shelf located near the mirror and toaster. it has dark wood cabinets with granite counter tops and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "toaster",
+            "mirror",
+            "steel appliances",
+            "granite counter tops",
+            "wood cabinets"
+        ],
+        "target": "kitchen shelf"
+    },
+    "kitchen shelf, which is located near the mirror, sink, dishwasher, and toaster. the kitchen shelf is made of wood and has a black granite counter top.": {
+        "adjs": [],
+        "nearby": [
+            "toaster",
+            "granite counter top",
+            "sink",
+            "mirror",
+            "dishwasher",
+            "wood"
+        ],
+        "target": "kitchen shelf"
+    },
+    "kitchen shelf. it is located above the picture and to the left of the towel. look for a broken mirror on the kitchen shelf.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "towel",
+            "picture"
+        ],
+        "target": "kitchen shelf"
+    },
+    "kitchen table. the table is located near the oven and stove, and is adjacent to the shelf. the microwave is positioned above the table. look for a rectangular surface in the kitchen area.": {
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove",
+            "surface",
+            "oven",
+            "table",
+            "shelf",
+            "kitchen area"
+        ],
+        "target": "kitchen table"
+    },
+    "large wooden dining table located on the shelf to the left of the painting and right of the lamp.": {
+        "adjs": [
+            "large",
+            "wooden"
+        ],
+        "nearby": [
+            "shelf",
+            "lamp",
+            "painting"
+        ],
+        "target": "dining table"
+    },
+    "laundry room cabinet by the carpet, which is located to the right of the laundry machine.": {
+        "adjs": [],
+        "nearby": [
+            "machine",
+            "carpet"
+        ],
+        "target": "laundry room cabinet"
+    },
+    "laundry room cabinet that is located near the laundry machine and the basket.": {
+        "adjs": [],
+        "nearby": [
+            "basket",
+            "machine"
+        ],
+        "target": "laundry room cabinet"
+    },
+    "leather couch in the room. it is located near the balustrade and the lamp, and there is also a flower nearby.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "balustrade",
+            "room",
+            "flower"
+        ],
+        "target": "leather couch"
+    },
+    "leather couch in the room. the couch is located near the pillar on the left side. it is also near the rug on the right side. look for a big object with a rectangular shape.": {
+        "adjs": [],
+        "nearby": [
+            "pillar",
+            "rug",
+            "shape",
+            "room",
+            "object",
+            "couch"
+        ],
+        "target": "leather couch"
+    },
+    "lego ferris wheel. the lego ferris wheel can be found on the shelf.": {
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "target": "lego ferris wheel"
+    },
+    "lg front load washer-dryer located to the right of the cabinet and below the bin.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "bin"
+        ],
+        "target": "lg load washer dryer"
+    },
+    "light blue couch located near the blanket, pillow, and picture.": {
+        "adjs": [
+            "light",
+            "blue"
+        ],
+        "nearby": [
+            "picture",
+            "pillow",
+            "blanket"
+        ],
+        "target": "couch"
+    },
+    "light blue couch located to the right of the lamp and above the pillow.": {
+        "adjs": [
+            "light",
+            "blue"
+        ],
+        "nearby": [
+            "lamp",
+            "pillow"
+        ],
+        "target": "couch"
+    },
+    "location of the sofa chair relative to other objects. the sofa chair is positioned next to the table.": {
+        "adjs": [],
+        "nearby": [
+            "objects",
+            "table"
+        ],
+        "target": "sofa chair"
+    },
+    "long table with white chairs. locate the table which is placed next to the shelf and projector.": {
+        "adjs": [
+            "long"
+        ],
+        "nearby": [
+            "shelf",
+            "projector",
+            "chairs"
+        ],
+        "target": "table"
+    },
+    "long wooden table in the room. the table is located near the cabinet, chair, picture, curtain, and flower.": {
+        "adjs": [
+            "wooden",
+            "long"
+        ],
+        "nearby": [
+            "picture",
+            "chair",
+            "flower",
+            "cabinet",
+            "room",
+            "curtain"
+        ],
+        "target": "table"
+    },
+    "long wooden table.   based on the region semantics, the table is located below the sofa and to the right of the chair. please navigate to the table accordingly.": {
+        "adjs": [
+            "wooden",
+            "long"
+        ],
+        "nearby": [
+            "sofa",
+            "chair"
+        ],
+        "target": "table"
+    },
+    "mantle made from reclaimed wood. relative to the fireplace, it is located to the left. on the left of the mantle, there is a mirror. the christmas tree is below the mantle. the clock is on the right side of the mantle. finally, there is a candlestick near the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "christmas tree",
+            "clock",
+            "mirror",
+            "candlestick",
+            "fireplace",
+            "wood"
+        ],
+        "target": "mantle"
+    },
+    "marble counter tops located on the table in the kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet",
+            "table"
+        ],
+        "target": "marble counter tops"
+    },
+    "oven and stove in the kitchen area. they are located next to the table and kitchen cabinet. the oven and stove are made of stainless steel.": {
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "table",
+            "kitchen cabinet",
+            "kitchen area",
+            "steel"
+        ],
+        "target": "oven"
+    },
+    "oven and stove in the kitchen. the oven and stove are located next to the kitchen extractor and the kitchen countertop items.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen",
+            "kitchen extractor",
+            "stove",
+            "kitchen countertop items"
+        ],
+        "target": "oven"
+    },
+    "oven and stove in the kitchen. the oven and stove are located on the kitchen top, towards the right side of the kitchen cabinet. they are made of stainless steel.": {
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "kitchen",
+            "kitchen top",
+            "kitchen cabinet",
+            "steel"
+        ],
+        "target": "oven"
+    },
+    "oven and stove, which are located in the kitchen area. the oven and stove are made of stainless steel. look for them in the vicinity of the kitchen cabinet and kitchen counter.": {
+        "adjs": [],
+        "nearby": [
+            "stove",
+            "kitchen counter",
+            "kitchen cabinet",
+            "vicinity",
+            "kitchen area",
+            "steel"
+        ],
+        "target": "oven"
+    },
+    "oven and stove, which is located near the cabinet and oven vent. look for a stainless steel oven and stove in the vicinity of the cabinet and oven vent.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet oven vent",
+            "steel oven",
+            "stove",
+            "cabinet",
+            "vent",
+            "vicinity"
+        ],
+        "target": "oven"
+    },
+    "oven and stove. the oven and stove are located beside the shelf and microwave. it is also near the table. look for a stainless steel oven and stove nearby.": {
+        "adjs": [],
+        "nearby": [
+            "steel oven",
+            "microwave",
+            "stove",
+            "table",
+            "shelf"
+        ],
+        "target": "oven"
+    },
+    "oven and stove. the oven and stove are located within the region of the kitchen. look for the stainless steel appliances in the kitchen area. they can be found near the kitchen cabinet, refrigerator, and kitchen top.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator",
+            "stove",
+            "kitchen",
+            "kitchen top",
+            "steel appliances",
+            "kitchen cabinet",
+            "kitchen area"
+        ],
+        "target": "oven"
+    },
+    "oven in the kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet"
+        ],
+        "target": "oven"
+    },
+    "oven next to the kitchen shelf and refrigerator.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator",
+            "kitchen shelf"
+        ],
+        "target": "oven"
+    },
+    "oven that is spatially located within the kitchen cabinet and close to the stove.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet",
+            "stove"
+        ],
+        "target": "oven"
+    },
+    "oven, which is a wall oven, located in the kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "wall oven",
+            "kitchen cabinet"
+        ],
+        "target": "oven"
+    },
+    "oven, which is located next to the kitchen cabinet and near the kitchen island. the oven is made of stainless steel.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen island",
+            "kitchen cabinet",
+            "steel"
+        ],
+        "target": "oven"
+    },
+    "piece of plywood located on the board.": {
+        "adjs": [],
+        "nearby": [
+            "plywood",
+            "board"
+        ],
+        "target": "piece"
+    },
+    "pink and white blanket that is located near the bed, dresser, bed stand, and mirror.": {
+        "adjs": [
+            "white",
+            "pink"
+        ],
+        "nearby": [
+            "bed",
+            "bed stand",
+            "mirror",
+            "dresser"
+        ],
+        "target": "blanket"
+    },
+    "plaid couch in the room. it is located near a cabinet.": {
+        "adjs": [
+            "plaid"
+        ],
+        "nearby": [
+            "cabinet",
+            "room"
+        ],
+        "target": "couch"
+    },
+    "plastic storage container located near a shelf, sleeping bag, and table.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "bag",
+            "table"
+        ],
+        "target": "plastic storage container"
+    },
+    "purple and white blanket near the bed on the left side.": {
+        "adjs": [
+            "white",
+            "purple"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "target": "blanket"
+    },
+    "purple sofa chair located near the plant and the curtain.": {
+        "adjs": [
+            "purple"
+        ],
+        "nearby": [
+            "curtain",
+            "plant"
+        ],
+        "target": "sofa chair"
+    },
+    "queen-sized bed located near a curtain, pillow, and cushion.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "curtain",
+            "cushion"
+        ],
+        "target": "queen bed"
+    },
+    "queen-sized bed located near the dresser and the book. look for a bed that is positioned slightly below the dresser and to the right of the book.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "book",
+            "bed",
+            "dresser"
+        ],
+        "target": "queen bed"
+    },
+    "queen-sized bed that is located near a mascot, a shelf, a pillow, and a blanket within the given frame.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "frame",
+            "shelf",
+            "blanket"
+        ],
+        "target": "queen bed"
+    },
+    "queen-sized bed that is located near the carpet and the bedside lamp. the bed is close to the towel and the pillow as well.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow",
+            "towel",
+            "carpet",
+            "bed",
+            "bedside lamp"
+        ],
+        "target": "queen bed"
+    },
+    "queen-sized bed. go to the area where the wardrobe is located. move towards the nightstand. the bed is positioned near the nightstand, towards the right side and slightly above. pay attention to the pillow, which is positioned on the bed.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "wardrobe",
+            "pillow",
+            "bed",
+            "nightstand",
+            "area"
+        ],
+        "target": "queen bed"
+    },
+    "rack that is full of water jugs. it is located towards the center of the scene, surrounded by a pillow on the top right, a stack of boxes on the top left, and a single box below it. the bottles are present towards the bottom of the scene.": {
+        "adjs": [],
+        "nearby": [
+            "bottom",
+            "center",
+            "stack",
+            "pillow",
+            "bottles",
+            "boxes"
+        ],
+        "target": "water jugs"
+    },
+    "rack, which is a closet organizer, located below the shelf.": {
+        "adjs": [],
+        "nearby": [
+            "shelf"
+        ],
+        "target": "closet organizer"
+    },
+    "recessed medicine cabinet in the bathroom. the cabinet is positioned to the right of the sink and below the mirror. it is also near the bathtub and shower curtain.": {
+        "adjs": [],
+        "nearby": [
+            "shower curtain",
+            "bathtub",
+            "cabinet",
+            "sink",
+            "bathroom",
+            "mirror"
+        ],
+        "target": "medicine cabinet"
+    },
+    "red and yellow cloth located to the right of the picture.": {
+        "adjs": [
+            "red",
+            "yellow"
+        ],
+        "nearby": [
+            "picture"
+        ],
+        "target": "cloth"
+    },
+    "red couch relative to other objects in the room. the couch is located to the right of the book rack and to the left of the cabinet.": {
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "book rack",
+            "cabinet",
+            "room"
+        ],
+        "target": "couch"
+    },
+    "red sofa chair that is located near the painting and the fireplace.": {
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "fireplace",
+            "painting"
+        ],
+        "target": "sofa chair"
+    },
+    "ripped and torn clothes in the storage cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "storage cabinet"
+        ],
+        "target": "clothes"
+    },
+    "ripped and torn clothes located near the wardrobe.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe"
+        ],
+        "target": "clothes"
+    },
+    "round table in a dining room. it is located near the curtain and painting. the chair is on the right side of the table and the flower vase is close to it.": {
+        "adjs": [
+            "round"
+        ],
+        "nearby": [
+            "flower vase",
+            "chair",
+            "dining room",
+            "painting",
+            "curtain"
+        ],
+        "target": "table"
+    },
+    "samsung smart tv located near the cabinet and mirror.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "mirror"
+        ],
+        "target": "samsung smart tv"
+    },
+    "sectional couch that is located above the pillow.": {
+        "adjs": [
+            "sectional"
+        ],
+        "nearby": [
+            "pillow"
+        ],
+        "target": "couch"
+    },
+    "shattered table.": {
+        "adjs": [],
+        "nearby": [],
+        "target": "table"
+    },
+    "sheepskin blanket located on the left side of the chair, slightly below and to the left of the flower vase, and above the kitchen counter.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen counter",
+            "flower vase",
+            "chair"
+        ],
+        "target": "sheepskin blanket"
+    },
+    "shoe cabinet located near a jacket, a pillar, and a case.": {
+        "adjs": [],
+        "nearby": [
+            "pillar",
+            "case",
+            "jacket"
+        ],
+        "target": "shoe cabinet"
+    },
+    "shower cabin located near the toilet and the towel. look for a walk-in shower with a glass door.": {
+        "adjs": [],
+        "nearby": [
+            "shower",
+            "glass door",
+            "towel",
+            "toilet"
+        ],
+        "target": "shower cabin"
+    },
+    "shower cabin with a broken glass door located next to the window curtain, to the right of the sink, and below the bathroom towel.": {
+        "adjs": [],
+        "nearby": [
+            "bathroom towel",
+            "glass door",
+            "sink",
+            "window curtain"
+        ],
+        "target": "shower cabin"
+    },
+    "shower soap shelf in relation to other objects. the shower soap shelf is located above the shower handle.": {
+        "adjs": [],
+        "nearby": [
+            "relation",
+            "shower handle"
+        ],
+        "target": "shower soap shelf"
+    },
+    "sideboard with a flat screen tv on it. the sideboard is positioned to the right of the tv.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv"
+        ],
+        "target": "sideboard"
+    },
+    "sideboard with the flat screen tv mounted on it. it is located to the right and below the tv.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "tv"
+        ],
+        "target": "sideboard"
+    },
+    "sink cabinet located near the mirror and next to the bookshelf. the sink cabinet has two drawers and a mirror on the door.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "drawers",
+            "sink cabinet",
+            "bookshelf",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet located near the mirror and wardrobe. the sink cabinet appears as a double sink vanity.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe",
+            "sink vanity",
+            "sink cabinet",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet that is located above the sink and next to the flower vase. the sink cabinet is white in color.": {
+        "adjs": [],
+        "nearby": [
+            "sink cabinet",
+            "flower vase",
+            "sink",
+            "color"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet, which is a cabinet with a sink in it. the sink cabinet is located below the shelf and to the right of the washing machine.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "sink cabinet",
+            "sink",
+            "washing machine"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet, which is a double sink vanity with a mirror above it. the sink cabinet is located in the region next to the mirror and on the opposite side of the frame from the painting. it is also below the towel region.": {
+        "adjs": [],
+        "nearby": [
+            "sink cabinet",
+            "frame",
+            "mirror",
+            "towel region",
+            "sink vanity",
+            "painting"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet, which is located below the mirror and next to the bathroom cabinet. it is a white cabinet with two drawers and a mirror above it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "drawers",
+            "bathroom cabinet",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet, which is located near the mirror, lamp, and toilet in the room. the sink cabinet is made of wood.": {
+        "adjs": [],
+        "nearby": [
+            "sink cabinet",
+            "lamp",
+            "room",
+            "mirror",
+            "toilet",
+            "wood"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet. it is located below the mirror and to the right of the flower vase.": {
+        "adjs": [],
+        "nearby": [
+            "flower vase",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet. it is located next to the mirror on the left side, between the flower vase on the right and the lamp slightly further towards the top.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "flower vase",
+            "mirror",
+            "top"
+        ],
+        "target": "cabinet"
+    },
+    "sink cabinet. the sink cabinet is located next to the bathroom cabinet and is positioned towards the left. also, it is placed below the mirror and slightly to the right. the sink cabinet is a white cabinet with a white countertop, a white sink, and a white faucet.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bathroom cabinet",
+            "sink cabinet",
+            "faucet",
+            "countertop",
+            "sink",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "sink that is located near the bathroom cabinet and the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "sink which is located near a mirror and a bathroom towel. the sink is described as a white pedestal sink.": {
+        "adjs": [],
+        "nearby": [
+            "pedestal sink",
+            "bathroom towel",
+            "sink"
+        ],
+        "target": "mirror"
+    },
+    "sink, which is a stainless steel sink, in the kitchen area. the sink is located near the oven and stove, kitchen lower cabinet, dishwasher, and kitchen extractor. additionally, the sink is close to the tray and paper towel.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "stove",
+            "oven",
+            "tray paper towel",
+            "kitchen extractor",
+            "sink",
+            "dishwasher",
+            "kitchen cabinet",
+            "kitchen area"
+        ],
+        "target": "steel sink"
+    },
+    "small cabinet with a drawer and a shelf. it is located near the decorative plant, vase, and picture.": {
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "picture",
+            "vase",
+            "plant",
+            "shelf",
+            "drawer"
+        ],
+        "target": "cabinet"
+    },
+    "sofa chair near the table stand.": {
+        "adjs": [],
+        "nearby": [
+            "table stand"
+        ],
+        "target": "sofa chair"
+    },
+    "sofa chair that is located near the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "sofa chair"
+    },
+    "sofa seat located near the fireplace and next to the plant.": {
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "plant"
+        ],
+        "target": "sofa seat"
+    },
+    "stacked washer-dryer located below the cabinet and to the right of the bathtub.": {
+        "adjs": [],
+        "nearby": [
+            "bathtub",
+            "cabinet"
+        ],
+        "target": "washer dryer"
+    },
+    "stacked washer-dryer located on top of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "top"
+        ],
+        "target": "washer dryer"
+    },
+    "stainless steel oven and stove in the kitchen cabinet.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen cabinet"
+        ],
+        "target": "steel oven"
+    },
+    "stainless steel oven and stove located on a table within the room.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "stove",
+            "room",
+            "table"
+        ],
+        "target": "steel oven"
+    },
+    "stainless steel oven and stove located to the right of the refrigerator, above the kitchen counter, and below the microwave.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "kitchen counter",
+            "refrigerator",
+            "stove",
+            "microwave"
+        ],
+        "target": "steel oven"
+    },
+    "stainless steel refrigerator that is located near the cabinet.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "steel refrigerator"
+    },
+    "stainless steel sink located near the worktop, refrigerator, dishwasher, and tap.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "tap",
+            "worktop",
+            "refrigerator",
+            "dishwasher"
+        ],
+        "target": "steel sink"
+    },
+    "stainless steel stove located near the cabinet, refrigerator, and table.": {
+        "adjs": [
+            "stainless"
+        ],
+        "nearby": [
+            "cabinet",
+            "refrigerator",
+            "table"
+        ],
+        "target": "steel stove"
+    },
+    "stone bench with a pot on it. the bench is located towards the bottom right corner in relation to the frame.": {
+        "adjs": [],
+        "nearby": [
+            "corner",
+            "frame",
+            "bench",
+            "pot",
+            "relation"
+        ],
+        "target": "stone bench"
+    },
+    "stove that is located to the right of the cabinet and below the microwave. the stove is made of stainless steel.": {
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "cabinet",
+            "steel"
+        ],
+        "target": "stove"
+    },
+    "striped comforter king-sized bed in relation to the other objects.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "relation"
+        ],
+        "target": "comforter king bed"
+    },
+    "swivel chair located near the desk, cabinet, and brochure.": {
+        "adjs": [
+            "swivel"
+        ],
+        "nearby": [
+            "cabinet",
+            "desk",
+            "brochure"
+        ],
+        "target": "chair"
+    },
+    "table in the kitchen cabinet and go to it. the table is made of wood and has a glass top.": {
+        "adjs": [],
+        "nearby": [
+            "glass top",
+            "kitchen cabinet",
+            "wood"
+        ],
+        "target": "table"
+    },
+    "table in the kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet"
+        ],
+        "target": "table"
+    },
+    "table in the kitchen. it is located near the refrigerator, bowl of fruit, book, curtain, oven, microwave, and kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "bowl",
+            "kitchen",
+            "refrigerator",
+            "fruit book curtain oven microwave kitchen cabinet"
+        ],
+        "target": "table"
+    },
+    "table that has a lot of things on it.": {
+        "adjs": [],
+        "nearby": [
+            "things"
+        ],
+        "target": "table"
+    },
+    "table that is located near the kitchen cabinet and couch.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet",
+            "couch"
+        ],
+        "target": "table"
+    },
+    "table that is located near the rack and stand. the table is a replica of a plane.": {
+        "adjs": [],
+        "nearby": [
+            "replica",
+            "rack",
+            "plane"
+        ],
+        "target": "table"
+    },
+    "table with a lamp on it. the table is located near the bed, pillow, and picture.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "bed",
+            "pillow",
+            "picture"
+        ],
+        "target": "table"
+    },
+    "table with a mirror on it.  the table is located in an area next to the stairs, towards the center of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "stairs",
+            "frame",
+            "mirror",
+            "area"
+        ],
+        "target": "table"
+    },
+    "table with a mirror on it. it is located to the right of the lamp.": {
+        "adjs": [],
+        "nearby": [
+            "lamp",
+            "mirror"
+        ],
+        "target": "table"
+    },
+    "table with a mirror on it. the table is located below the mirror and to the right of the clothes. it is also above the chair and to the left of the shelf.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "chair",
+            "clothes",
+            "mirror"
+        ],
+        "target": "table"
+    },
+    "table with a white cloth on it, which is situated on the left side of the sofa.": {
+        "adjs": [],
+        "nearby": [
+            "cloth",
+            "sofa"
+        ],
+        "target": "table"
+    },
+    "table with a wooden table with a fan on it. the table is located on the left side of the chair and below the folding chair. it is also adjacent to the display cabinet.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "display cabinet",
+            "folding chair",
+            "chair",
+            "fan"
+        ],
+        "target": "table"
+    },
+    "table with books on it located near the handrail, box, shelf, and book.": {
+        "adjs": [],
+        "nearby": [
+            "book",
+            "handrail",
+            "box",
+            "books",
+            "shelf"
+        ],
+        "target": "table"
+    },
+    "table with granite counter tops and stainless steel appliances. the table is located next to the shelf and the oven and stove. the microwave is placed on the table, towards the right side. look for the table in the middle of the frame, below the paper.": {
+        "adjs": [],
+        "nearby": [
+            "middle",
+            "shelf",
+            "microwave",
+            "stove",
+            "frame",
+            "paper",
+            "oven",
+            "steel appliances",
+            "granite counter tops"
+        ],
+        "target": "table"
+    },
+    "table with the tv on it. the table is located to the right of the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv"
+        ],
+        "target": "table"
+    },
+    "table, a wooden table with shelves above it, in the room. the table is located below the toy.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "shelves",
+            "toy",
+            "room"
+        ],
+        "target": "table"
+    },
+    "table, which is a kitchen island with granite counter tops. the table is located to the right of the kitchen cabinet and below the tap. it is also adjacent to the sink.": {
+        "adjs": [],
+        "nearby": [
+            "granite counter tops",
+            "tap",
+            "sink",
+            "kitchen island",
+            "kitchen cabinet"
+        ],
+        "target": "table"
+    },
+    "tall cabinet in the bathroom.": {
+        "adjs": [
+            "tall"
+        ],
+        "nearby": [
+            "bathroom"
+        ],
+        "target": "cabinet"
+    },
+    "teal towel located near the wardrobe.": {
+        "adjs": [],
+        "nearby": [
+            "wardrobe"
+        ],
+        "target": "teal towel"
+    },
+    "teddy bear. it is located near a window curtain, a chest of drawers, a heater, and a parapet. look for it in the region where the toy, the window curtain, the chest of drawers, and the parapet intersect.": {
+        "adjs": [],
+        "nearby": [
+            "drawers",
+            "chest",
+            "toy",
+            "heater",
+            "window curtain",
+            "parapet"
+        ],
+        "target": "teddy"
+    },
+    "terry cloth bathrobe in the bathroom. it is located near the toilet paper. the shower curtain is on the left side of the bathrobe, and the toilet is on the right side.": {
+        "adjs": [],
+        "nearby": [
+            "bathrobe",
+            "toilet paper",
+            "shower curtain",
+            "bathroom",
+            "toilet"
+        ],
+        "target": "terry cloth bathrobe"
+    },
+    "the area where the king size bed is located. look for nearby objects such as a cabinet, mirror, pillow, and curtain to help you identify the bed.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "bed",
+            "cabinet",
+            "mirror",
+            "curtain",
+            "king size bed"
+        ],
+        "target": "area"
+    },
+    "the area where the table is located. the table is situated near the refrigerator and shelf. look for a table with granite counter tops and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "granite counter tops",
+            "refrigerator",
+            "table",
+            "steel appliances",
+            "shelf"
+        ],
+        "target": "area"
+    },
+    "the area where you can find the king-sized bed. it is located near the painting and the pillow. the bed is closer to the pillow compared to the painting.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "pillow",
+            "painting",
+            "king bed"
+        ],
+        "target": "area"
+    },
+    "the bath towel located near the shower curtain and bathtub. the bath towel is a white towel with a black and white checkered pattern.": {
+        "adjs": [],
+        "nearby": [
+            "bathtub",
+            "shower curtain",
+            "towel",
+            "pattern"
+        ],
+        "target": "bath towel"
+    },
+    "the bathroom and find the bathrobe. look for a hook in the bathroom and locate the bathrobe hanging on it.": {
+        "adjs": [],
+        "nearby": [
+            "hook",
+            "bathrobe"
+        ],
+        "target": "bathroom"
+    },
+    "the bathroom cabinet, which is located below the mirror and to the right of the sink. it is a wooden cabinet with a mirror above it.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "sink",
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "the bathroom cabinet, which is located near the mirror and the sink cabinet. the cabinet has a mirror above it and is made of wood.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "sink cabinet",
+            "mirror",
+            "wood"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "the bathroom cabinet, which is located near the mirror on the left and the plant on the right. the bathroom cabinet is a wooden cabinet with a glass door.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "glass door",
+            "mirror",
+            "plant"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "the bathroom cabinet, which is located near the sink and mirror. it is a white cabinet with two sinks and two mirrors.": {
+        "adjs": [],
+        "nearby": [
+            "sinks",
+            "cabinet",
+            "sink",
+            "mirror",
+            "mirrors"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "the bathroom cabinet, which is located underneath the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "bathroom cabinet"
+    },
+    "the bathroom counter and locate the double vanity with a mirror above it, which is the bathroom cabinet. the sink is nearby with the soap dispenser positioned towards the right. the cosmetics are placed towards the left of the sink. there is a decorative plant located between the cosmetics and the soap dispenser.": {
+        "adjs": [],
+        "nearby": [
+            "soap dispenser",
+            "bathroom cabinet",
+            "vanity",
+            "cosmetics",
+            "sink",
+            "mirror",
+            "plant"
+        ],
+        "target": "bathroom"
+    },
+    "the bathroom towel, which is hanging on a hook in the bathroom. the towel is located below the shower bar.": {
+        "adjs": [],
+        "nearby": [
+            "hook",
+            "shower bar",
+            "bathroom",
+            "towel"
+        ],
+        "target": "bathroom towel"
+    },
+    "the bathtub, which is a whirlpool bath. it is located near the curtain, shower cabin, chair, sink, and bathroom cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "bathroom cabinet",
+            "shower cabin",
+            "chair",
+            "whirlpool bath",
+            "curtain"
+        ],
+        "target": "bathtub"
+    },
+    "the bed located to the left and slightly above the bedside cabinet. the bed is a king-sized bed. use the mirror as a reference, which is located to the right and slightly below the bed.": {
+        "adjs": [],
+        "nearby": [
+            "king bed",
+            "mirror",
+            "reference",
+            "bedside cabinet"
+        ],
+        "target": "bed"
+    },
+    "the bed that is located near the nightstand and wardrobe. the bed is described as two single beds.": {
+        "adjs": [],
+        "nearby": [
+            "nightstand",
+            "beds",
+            "wardrobe"
+        ],
+        "target": "bed"
+    },
+    "the bed that is located next to the curtain and has a blue comforter.": {
+        "adjs": [],
+        "nearby": [
+            "curtain",
+            "comforter"
+        ],
+        "target": "bed"
+    },
+    "the board located near the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "board"
+    },
+    "the brown leather chair. it is located near the bed.": {
+        "adjs": [
+            "brown"
+        ],
+        "nearby": [
+            "bed"
+        ],
+        "target": "leather chair"
+    },
+    "the built-in bench in the corner of the room. look for it near the shelf and the flower vase.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "corner",
+            "room",
+            "flower vase"
+        ],
+        "target": "bench"
+    },
+    "the bunk bed located near the pillow and curtain.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "curtain"
+        ],
+        "target": "bunk bed"
+    },
+    "the cabinet and locate the tv. the tv is a flat screen with a shattered screen.": {
+        "adjs": [],
+        "nearby": [
+            "screen",
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located in the room. on top of the cabinet, there is a guitar.": {
+        "adjs": [],
+        "nearby": [
+            "guitar",
+            "room",
+            "top"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located next to the mirror. the cabinet serves as a dresser with a flat screen tv on top of it.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "top",
+            "mirror",
+            "dresser"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located next to the plant and microwave, which has a white appearance and a wooden counter top.": {
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "counter top",
+            "plant"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located on the left side of the frame, positioned next to the bar. the cabinet is a white one with a flat screen tv on top.": {
+        "adjs": [],
+        "nearby": [
+            "screen tv",
+            "top",
+            "frame",
+            "bar"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located to the right of the box. the cabinet is described as a white cabinet with a door and drawers.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "box",
+            "door",
+            "drawers"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet located to the right of the stove and below the microwave. the cabinet is described as white and it has a stainless steel countertop and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "microwave",
+            "stove",
+            "steel countertop",
+            "steel appliances"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet that has a mirror inside. the cabinet is located on the right side of the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet that is located to the right of the flowerpot. the cabinet is described as a white cabinet with a cork board on it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "flowerpot",
+            "cork board"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet that is spatially next to the toy. the cabinet is described as a white cabinet with a mirror on the door.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "door",
+            "mirror",
+            "toy"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet with a mirror on it, which is located next to the sink and clutter.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "mirror",
+            "clutter"
+        ],
+        "target": "cabinet"
+    },
+    "the cabinet, which is a closet organizer, located near the clothes, shelf, picture, and box.": {
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "picture",
+            "box",
+            "closet organizer",
+            "shelf"
+        ],
+        "target": "cabinet"
+    },
+    "the chalkboard with a lot of snacks on it. the chalkboard is located between the blinds and the armchair. additionally, you can find a mini fridge next to the chalkboard.": {
+        "adjs": [],
+        "nearby": [
+            "snacks",
+            "fridge",
+            "armchair",
+            "blinds"
+        ],
+        "target": "chalkboard"
+    },
+    "the closet shelf located above the cabinet. the closet shelf is a white shelf with a wooden floor.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "cabinet",
+            "floor"
+        ],
+        "target": "closet shelf"
+    },
+    "the cloth that is embroidered with gold and silver threads, which is located near the arch.": {
+        "adjs": [],
+        "nearby": [
+            "arch",
+            "gold silver threads"
+        ],
+        "target": "cloth"
+    },
+    "the clothes dryer, which is stacked on top of the washing machine.": {
+        "adjs": [],
+        "nearby": [
+            "top",
+            "washing machine"
+        ],
+        "target": "clothes dryer"
+    },
+    "the coffee table located near the armchair and the couch.": {
+        "adjs": [],
+        "nearby": [
+            "armchair",
+            "couch"
+        ],
+        "target": "coffee table"
+    },
+    "the dark blue couch located near the curtain and pillow.": {
+        "adjs": [
+            "dark",
+            "blue"
+        ],
+        "nearby": [
+            "pillow",
+            "curtain"
+        ],
+        "target": "couch"
+    },
+    "the display cabinet located below the kitchen lower cabinet and adjacent to the plate. it is on the right side of the flowerpot and just above the shelf. the display cabinet is made of glass.": {
+        "adjs": [],
+        "nearby": [
+            "flowerpot",
+            "glass",
+            "plate",
+            "shelf",
+            "kitchen cabinet"
+        ],
+        "target": "display cabinet"
+    },
+    "the dresser and find the plush toy, which is a teddy bear.": {
+        "adjs": [],
+        "nearby": [
+            "teddy bear",
+            "toy"
+        ],
+        "target": "dresser"
+    },
+    "the dresser with a mirror on it. it is located next to the window curtain and there is a flower nearby.": {
+        "adjs": [],
+        "nearby": [
+            "flower",
+            "mirror",
+            "window curtain"
+        ],
+        "target": "dresser"
+    },
+    "the flat screen tv that is mounted on the wall above the fireplace.": {
+        "adjs": [
+            "flat"
+        ],
+        "nearby": [
+            "fireplace",
+            "wall"
+        ],
+        "target": "screen tv"
+    },
+    "the gas oven located in the kitchen cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen cabinet"
+        ],
+        "target": "gas oven"
+    },
+    "the gas range in the kitchen.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen"
+        ],
+        "target": "gas range"
+    },
+    "the honed travertine countertop located on the surface above the cabinet, which is towards the left side of the mirror.": {
+        "adjs": [
+            "travertine"
+        ],
+        "nearby": [
+            "mirror",
+            "cabinet",
+            "surface"
+        ],
+        "target": "countertop"
+    },
+    "the king size bed located in the region defined by the curtain to the left, the cabinet to the right, and the pillow at the bottom.": {
+        "adjs": [],
+        "nearby": [
+            "bottom",
+            "pillow",
+            "bed",
+            "cabinet",
+            "curtain"
+        ],
+        "target": "king"
+    },
+    "the king size bed located near the mirror and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "pillow",
+            "mirror"
+        ],
+        "target": "king"
+    },
+    "the kitchen area and locate the lower cabinet. it is a cabinet with a lower shelf and drawers. look for it adjacent to the display cabinet and the sink.": {
+        "adjs": [],
+        "nearby": [
+            "drawers",
+            "cabinet",
+            "sink",
+            "shelf",
+            "display cabinet"
+        ],
+        "target": "kitchen area"
+    },
+    "the kitchen cabinet and find the kitchen table.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen table"
+        ],
+        "target": "kitchen cabinet"
+    },
+    "the kitchen shelf which is located above the dishwasher and to the left of the mirror. the kitchen shelf has a black granite counter top.": {
+        "adjs": [],
+        "nearby": [
+            "mirror",
+            "granite counter top",
+            "dishwasher"
+        ],
+        "target": "kitchen shelf"
+    },
+    "the kitchen shelf, which can be found on the left side of the frame. the kitchen shelf is located below the oven and next to the chair. on the kitchen shelf, you will find a wooden shelf supporting a stainless steel refrigerator.": {
+        "adjs": [],
+        "nearby": [
+            "chair",
+            "frame",
+            "oven",
+            "shelf",
+            "steel refrigerator"
+        ],
+        "target": "kitchen shelf"
+    },
+    "the kitchen shelf, which is located near the refrigerator, oven, microwave, and chair. it is a kitchen island with a granite countertop and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator",
+            "microwave",
+            "chair",
+            "oven",
+            "steel appliances",
+            "kitchen island",
+            "granite countertop"
+        ],
+        "target": "kitchen shelf"
+    },
+    "the kitchen shelf. it is located on top of the kitchen lower cabinet, near the sink. the kitchen shelf is a wooden shelf with a glass door.": {
+        "adjs": [],
+        "nearby": [
+            "glass door",
+            "sink",
+            "shelf",
+            "kitchen cabinet",
+            "top"
+        ],
+        "target": "kitchen shelf"
+    },
+    "the lcd monitor located to the right of the computer desk and below the painting.": {
+        "adjs": [],
+        "nearby": [
+            "painting",
+            "computer desk"
+        ],
+        "target": "lcd monitor"
+    },
+    "the long dining table located near the chair.": {
+        "adjs": [
+            "long"
+        ],
+        "nearby": [
+            "chair"
+        ],
+        "target": "dining table"
+    },
+    "the mounted tv. it is located above the rug and to the right of the sofa chair.": {
+        "adjs": [],
+        "nearby": [
+            "sofa chair",
+            "rug"
+        ],
+        "target": "tv"
+    },
+    "the queen-sized bed located near the pillow.": {
+        "adjs": [
+            "sized"
+        ],
+        "nearby": [
+            "pillow"
+        ],
+        "target": "queen bed"
+    },
+    "the red and gold cloth located below the arch and to the right of the lighting fixture.": {
+        "adjs": [
+            "red"
+        ],
+        "nearby": [
+            "arch",
+            "lighting fixture"
+        ],
+        "target": "gold cloth"
+    },
+    "the sink cabinet, which is a double sink cabinet, located next to the kitchen counter and dishwasher.": {
+        "adjs": [
+            "double"
+        ],
+        "nearby": [
+            "kitchen counter",
+            "dishwasher"
+        ],
+        "target": "sink cabinet"
+    },
+    "the sink located near the washing machine, tap, clothes dryer, basket, and bottle of detergent.": {
+        "adjs": [],
+        "nearby": [
+            "bottle",
+            "detergent",
+            "tap",
+            "washing machine",
+            "basket",
+            "clothes dryer"
+        ],
+        "target": "sink"
+    },
+    "the small table positioned near the four chairs.": {
+        "adjs": [
+            "small"
+        ],
+        "nearby": [
+            "chairs"
+        ],
+        "target": "table"
+    },
+    "the sofa chair, which is positioned next to a curtain and a cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "curtain"
+        ],
+        "target": "sofa chair"
+    },
+    "the stacked washer-dryer. the stacked washer-dryer is located to the right and below the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "washer dryer"
+    },
+    "the table located in the kitchen. the table is positioned near a bar chair, a bowl of fruit, a shelf, a couch, a microwave, a faucet, and a sink.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "microwave",
+            "bar chair",
+            "faucet",
+            "couch",
+            "kitchen",
+            "sink",
+            "bowl",
+            "fruit"
+        ],
+        "target": "table"
+    },
+    "the tv stand located near the entertainment set. on the tv stand, you will find the tv.": {
+        "adjs": [],
+        "nearby": [
+            "tv",
+            "tv stand"
+        ],
+        "target": "entertainment set"
+    },
+    "the wardrobe that is full of clothes. it is located to the right of the clothes.": {
+        "adjs": [],
+        "nearby": [
+            "clothes"
+        ],
+        "target": "wardrobe"
+    },
+    "the wardrobe that is positioned below the curtain and to the left of the toy. the wardrobe is made of wood and has a teddy bear on top.": {
+        "adjs": [],
+        "nearby": [
+            "wood",
+            "toy",
+            "teddy",
+            "curtain",
+            "top"
+        ],
+        "target": "wardrobe"
+    },
+    "the wardrobe which is located on the left side of the room, near the cloth.": {
+        "adjs": [],
+        "nearby": [
+            "cloth",
+            "room"
+        ],
+        "target": "wardrobe"
+    },
+    "the white cabinet with a door and drawers. it is located in the region near the hanging clothes and laundry basket.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "drawers",
+            "clothes",
+            "basket"
+        ],
+        "target": "white cabinet"
+    },
+    "the white cabinet with a wooden counter top. the cabinet is located near a can and a coffee maker.": {
+        "adjs": [],
+        "nearby": [
+            "can",
+            "cabinet",
+            "coffee maker",
+            "counter top"
+        ],
+        "target": "white cabinet"
+    },
+    "the white couch located near the armchair and coffee table.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "armchair coffee table"
+        ],
+        "target": "couch"
+    },
+    "the white couch with blue pillows. it is located to the left of a table and a table lamp and towards the bottom of a painting.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bottom",
+            "table",
+            "table lamp",
+            "painting",
+            "pillows"
+        ],
+        "target": "couch"
+    },
+    "the wooden cabinet with a clock on it. the cabinet is located on the left side of the frame next to a chair.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair",
+            "clock",
+            "frame"
+        ],
+        "target": "cabinet"
+    },
+    "the wooden cabinet with a flat screen tv. it is located to the right side of the painting and below the led tv.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "screen tv",
+            "painting",
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "the wooden cabinet with a glass door. the cabinet is located near the kitchen cabinet and curtain.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "kitchen cabinet",
+            "glass door",
+            "curtain"
+        ],
+        "target": "cabinet"
+    },
+    "the wooden cabinet with a mirror on the door. the cabinet is located next to the table, heater, and bowl.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "table",
+            "heater",
+            "mirror",
+            "bowl"
+        ],
+        "target": "cabinet"
+    },
+    "the wooden cabinet with a tv on it, located above the electrical box.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "box",
+            "tv"
+        ],
+        "target": "cabinet"
+    },
+    "the wooden crib with a teddy bear on it. the crib is located below and slightly to the right of the plush toy.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "toy",
+            "teddy"
+        ],
+        "target": "crib"
+    },
+    "the wooden table located near the chair, couch, cabinet, rug, and curtain rod.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "rug",
+            "chair",
+            "cabinet",
+            "curtain rod",
+            "couch"
+        ],
+        "target": "table"
+    },
+    "towel in the bathroom cabinet.": {
+        "adjs": [],
+        "nearby": [],
+        "target": "bathroom cabinet"
+    },
+    "towel rack located near the mirror and the bathroom cabinet in the bathroom.": {
+        "adjs": [],
+        "nearby": [
+            "bathroom cabinet",
+            "bathroom",
+            "mirror"
+        ],
+        "target": "towel rack"
+    },
+    "towel that is located on the couch, near the table and sofa chair. it is a white towel with a blue stripe on it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "table sofa chair",
+            "stripe",
+            "couch"
+        ],
+        "target": "towel"
+    },
+    "towel that is located on the table, near the bath cabinet and bath sink. the towel is white with a blue polka dot on it.": {
+        "adjs": [],
+        "nearby": [
+            "dot",
+            "bath cabinet bath sink",
+            "table"
+        ],
+        "target": "towel"
+    },
+    "towel that is located to the right of the painting and below the curtain. the towel is white and blue in color.": {
+        "adjs": [],
+        "nearby": [
+            "towel",
+            "color",
+            "curtain"
+        ],
+        "target": "painting"
+    },
+    "towel that is located underneath the painting and above the bathtub. it is a white towel with a blue polka dot on it.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "dot",
+            "bathtub",
+            "painting"
+        ],
+        "target": "towel"
+    },
+    "towel with a blue stripe on it. it is located near the couch and shower soap shelf.": {
+        "adjs": [
+            "blue"
+        ],
+        "nearby": [
+            "couch shower soap shelf"
+        ],
+        "target": "stripe"
+    },
+    "towel with a white color and a blue stripe. the towel is located on a table that is positioned towards the right side of the scene. the table is near a mirror, which is positioned towards the left side of the scene. additionally, there is a chair located below the table.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "towel",
+            "chair",
+            "table",
+            "stripe",
+            "mirror"
+        ],
+        "target": "color"
+    },
+    "tv by locating it near the heater in the region.": {
+        "adjs": [],
+        "nearby": [
+            "heater"
+        ],
+        "target": "tv"
+    },
+    "tv mounted on the wall above the fireplace.": {
+        "adjs": [],
+        "nearby": [
+            "fireplace",
+            "wall"
+        ],
+        "target": "tv"
+    },
+    "tv mounted on the wall above the fireplace. look for the fireplace, which is located in the bottom center of your current view. from there, locate the wall above the fireplace and you will find the tv.": {
+        "adjs": [],
+        "nearby": [
+            "center",
+            "fireplace",
+            "wall"
+        ],
+        "target": "tv"
+    },
+    "tv mounted on the wall. the tv is located below the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "wall"
+        ],
+        "target": "tv"
+    },
+    "tv positioned on the left side of the cabinet and the right side of the mirror.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "mirror"
+        ],
+        "target": "tv"
+    },
+    "tv that is located above the cabinet and to the right of the basket.": {
+        "adjs": [],
+        "nearby": [
+            "basket",
+            "cabinet"
+        ],
+        "target": "tv"
+    },
+    "tv that is located above the dresser, to the right of the mirror, and below the bed. the tv has a flat screen and is mounted on the wall.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "screen",
+            "mirror",
+            "wall",
+            "dresser"
+        ],
+        "target": "tv"
+    },
+    "tv that is located on the table.": {
+        "adjs": [],
+        "nearby": [
+            "table"
+        ],
+        "target": "tv"
+    },
+    "tv that is located on top of the tv stand, near an appliance.": {
+        "adjs": [],
+        "nearby": [
+            "appliance",
+            "tv stand",
+            "top"
+        ],
+        "target": "tv"
+    },
+    "tv that is mounted on the wall, located to the right of the chest of drawers, below the mirror, and slightly above the picture. use these objects as reference points to identify its position.": {
+        "adjs": [],
+        "nearby": [
+            "drawers",
+            "chest",
+            "picture",
+            "reference points",
+            "mirror",
+            "wall"
+        ],
+        "target": "tv"
+    },
+    "tv that is mounted on the wall. it is located near the desk and above the bathtub.": {
+        "adjs": [],
+        "nearby": [
+            "bathtub",
+            "wall",
+            "desk"
+        ],
+        "target": "tv"
+    },
+    "tv that is mounted on the wall. look for it in the region that is located to the right of the sideboard.": {
+        "adjs": [],
+        "nearby": [
+            "sideboard",
+            "wall"
+        ],
+        "target": "tv"
+    },
+    "tv that is mounted on the wall. the tv is located above the display table and to the right of the picture.": {
+        "adjs": [],
+        "nearby": [
+            "display table",
+            "wall",
+            "picture"
+        ],
+        "target": "tv"
+    },
+    "tv. it is located to the right of the media console, slightly above the cabinet and towards the center of the frame.": {
+        "adjs": [],
+        "nearby": [
+            "media console",
+            "cabinet",
+            "center",
+            "frame"
+        ],
+        "target": "tv"
+    },
+    "two twin beds in the room. the beds are located near the wardrobe.": {
+        "adjs": [
+            "twin"
+        ],
+        "nearby": [
+            "wardrobe",
+            "room"
+        ],
+        "target": "beds"
+    },
+    "two twin beds located next to the nightstand and pillow.": {
+        "adjs": [
+            "twin"
+        ],
+        "nearby": [
+            "nightstand",
+            "pillow"
+        ],
+        "target": "beds"
+    },
+    "two twin beds. the beds are located near a rafter, a nightstand, a curtain, and a pillow.": {
+        "adjs": [
+            "twin"
+        ],
+        "nearby": [
+            "rafter",
+            "nightstand",
+            "pillow",
+            "curtain"
+        ],
+        "target": "beds"
+    },
+    "two-seater couch that is located towards the left of the table and slightly below the chair.": {
+        "adjs": [],
+        "nearby": [
+            "chair",
+            "table"
+        ],
+        "target": "seater couch"
+    },
+    "two-seater sofa located near the table and the pillow.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "table"
+        ],
+        "target": "seater sofa"
+    },
+    "victorian wardrobe in the room. it is located near a luggage.": {
+        "adjs": [
+            "victorian"
+        ],
+        "nearby": [
+            "room",
+            "luggage"
+        ],
+        "target": "wardrobe"
+    },
+    "walk-in closet located near the area where the hanging clothes are.": {
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "area"
+        ],
+        "target": "closet"
+    },
+    "walk-in wardrobe in the room. it is located near the clothes, pillow, basket, and shoe.": {
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "pillow",
+            "basket",
+            "room",
+            "shoe"
+        ],
+        "target": "wardrobe"
+    },
+    "walk-in wardrobe located near the bed, carpet, and pillow.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "pillow",
+            "carpet"
+        ],
+        "target": "wardrobe"
+    },
+    "walk-in wardrobe located to the right of the clock, below the bedside cabinet, and to the left of the drawer.": {
+        "adjs": [],
+        "nearby": [
+            "clock",
+            "bedside cabinet",
+            "drawer"
+        ],
+        "target": "wardrobe"
+    },
+    "walk-in wardrobe which is located beside the chair and near the radiator.": {
+        "adjs": [],
+        "nearby": [
+            "radiator",
+            "chair"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe in the room. it is located near the photo mount and next to the drawer.": {
+        "adjs": [],
+        "nearby": [
+            "drawer",
+            "room",
+            "photo mount"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe located near the window glass. it is a wooden door with a mirror on it.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "window glass",
+            "mirror"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe located next to the chest of drawers. it is a grey wardrobe with drawers and a teddy bear on top.": {
+        "adjs": [
+            "grey"
+        ],
+        "nearby": [
+            "drawers",
+            "chest",
+            "teddy",
+            "top"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe located next to the couch, on the left side of the room.": {
+        "adjs": [],
+        "nearby": [
+            "room",
+            "couch"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe located to the right of the radiator.": {
+        "adjs": [],
+        "nearby": [
+            "radiator"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe near the bar. pay attention to a glass material on the wardrobe.": {
+        "adjs": [],
+        "nearby": [
+            "glass material",
+            "bar"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe that contains a tv. the wardrobe is located below the tv and to the right of it.": {
+        "adjs": [],
+        "nearby": [
+            "tv"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe that is full of clothes in the closet area for hanging clothes.": {
+        "adjs": [],
+        "nearby": [
+            "clothes",
+            "closet area"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe that is located near the bag and robe. the wardrobe has a lot of clothes on it.": {
+        "adjs": [],
+        "nearby": [
+            "bag",
+            "clothes",
+            "robe"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe that is located to the right of the drawer and below the parapet. it is also located between the curtain and the back of the room. the wardrobe has a mirror on its door.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "room",
+            "mirror",
+            "parapet",
+            "curtain",
+            "drawer"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe that is spatially relative to the heater and window curtain. it has a wooden door and a window.": {
+        "adjs": [],
+        "nearby": [
+            "door",
+            "window",
+            "heater",
+            "window curtain"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe which is located below the flower, to the right of the bed, and above the pillow. it is a grey dresser with a mirror above it.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "flower",
+            "bed",
+            "mirror",
+            "dresser"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe which is located near the led tv and cabinet. it is made of woven rattan.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "tv",
+            "rattan"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe, which is located in the same room as the bed. the wardrobe is positioned towards the right side of the bed. additionally, you can find a nightstand near the wardrobe. the painting is on the left side of the wardrobe, while the pillow is located below it.": {
+        "adjs": [],
+        "nearby": [
+            "pillow",
+            "bed",
+            "room",
+            "nightstand",
+            "painting"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe, which is located next to a support beam. the wardrobe is a large walk-in closet with lots of storage space.": {
+        "adjs": [],
+        "nearby": [
+            "walk closet",
+            "storage space",
+            "support beam"
+        ],
+        "target": "wardrobe"
+    },
+    "wardrobe. the wardrobe is located to the right of the armchair and below the window curtain. look for a wooden wardrobe with a wooden floor and a wooden door.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "floor",
+            "armchair",
+            "window curtain"
+        ],
+        "target": "wardrobe"
+    },
+    "washer-dryer located near the cabinet and bathtub. the washer-dryer consists of an lg front-loading washer and an lg front-loading dryer.": {
+        "adjs": [],
+        "nearby": [
+            "bathtub",
+            "cabinet",
+            "loading washer",
+            "loading dryer"
+        ],
+        "target": "washer dryer"
+    },
+    "washing machine in the basement. the washing machine is located below the sink and to the right of the tap. look for a white washing machine.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "sink",
+            "tap",
+            "basement"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine in the laundry room. look for a white washing machine in the vicinity of other objects.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "vicinity",
+            "room"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine located to the right of the shelf and below the clothes dryer.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "clothes dryer"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine stacked on top of the dryer.": {
+        "adjs": [],
+        "nearby": [
+            "dryer",
+            "top"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine that is located below the ironing board.": {
+        "adjs": [],
+        "nearby": [
+            "ironing board"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine, a lg front loader washing machine, relative to the outlet.": {
+        "adjs": [],
+        "nearby": [
+            "lg loader washing machine",
+            "outlet"
+        ],
+        "target": "washing machine"
+    },
+    "washing machine, which is described as a front-loading washer and dryer. look for it in the vicinity of the other objects. to locate it, start by finding a box positioned above a shelf. the washing machine is located between the box and the shelf.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "shelf",
+            "vicinity",
+            "dryer",
+            "loading washer"
+        ],
+        "target": "washing machine"
+    },
+    "whirlpool tub located near a painting in the room.": {
+        "adjs": [],
+        "nearby": [
+            "painting",
+            "room"
+        ],
+        "target": "whirlpool tub"
+    },
+    "whirlpool tub located near other objects. the bathtub is positioned close to the towel, blinds, bathroom accessory, shelf, and flower.": {
+        "adjs": [],
+        "nearby": [
+            "bathroom accessory",
+            "towel",
+            "flower",
+            "bathtub",
+            "shelf",
+            "blinds"
+        ],
+        "target": "whirlpool tub"
+    },
+    "whirlpool tub located near the shower curtain and toilet.": {
+        "adjs": [],
+        "nearby": [
+            "shower curtain",
+            "toilet"
+        ],
+        "target": "whirlpool tub"
+    },
+    "white bed with blue comforter. the bed is located near a mirror, towards the right side of the mirror. there is a pillow on top of the bed.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "pillow",
+            "mirror",
+            "top",
+            "comforter"
+        ],
+        "target": "bed"
+    },
+    "white board located near the window curtain, pillar, and projector screen.": {
+        "adjs": [],
+        "nearby": [
+            "projector screen",
+            "pillar",
+            "window curtain"
+        ],
+        "target": "white board"
+    },
+    "white box with a plant in it. the box is located towards the right of the plant and slightly above it. to find it, move towards the right of the plant until you reach a cabinet. the box is positioned on top of the cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "cabinet",
+            "top",
+            "plant"
+        ],
+        "target": "white box"
+    },
+    "white box with blue walls located near the cabinet in the region.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "walls"
+        ],
+        "target": "white box"
+    },
+    "white cabinet in the kitchen counter area, located near the faucet, sink, and drawer.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen counter area",
+            "drawer",
+            "faucet"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet in the room. look for a cabinet that is spatially close to a shelving and a kitchen counter.": {
+        "adjs": [],
+        "nearby": [
+            "kitchen counter",
+            "cabinet",
+            "shelving",
+            "room"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet located on the worktop near the fruit and flowerpot, and to the left of the shelf.": {
+        "adjs": [],
+        "nearby": [
+            "shelf",
+            "flowerpot",
+            "worktop",
+            "fruit"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet that is located near the bed, the washing machine, the picture, and the curtain.": {
+        "adjs": [],
+        "nearby": [
+            "bed",
+            "curtain",
+            "picture",
+            "washing machine"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a black countertop located on the left side of the stove and above the cutting board.": {
+        "adjs": [],
+        "nearby": [
+            "countertop",
+            "stove",
+            "cutting board"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a black stove in the kitchen.   to locate the cabinet, navigate towards the stove and look for a white cabinet adjacent to it.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "kitchen",
+            "stove"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a black tv on top of it. it is located to the right and slightly below the printer.": {
+        "adjs": [],
+        "nearby": [
+            "printer",
+            "tv",
+            "top"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a broken window located on the table.": {
+        "adjs": [],
+        "nearby": [
+            "window",
+            "table"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a multi-colored painting on it located to the right of the painting.": {
+        "adjs": [],
+        "nearby": [
+            "painting"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a white washer and dryer. the cabinet is located towards the top right corner of the frame relative to the washer-dryer.": {
+        "adjs": [],
+        "nearby": [
+            "corner",
+            "washer dryer",
+            "frame",
+            "cabinet",
+            "washer",
+            "dryer"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with a window in it. it is located next to the refrigerator cabinet.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator cabinet",
+            "window"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with an owl painting on it located to the right of the box and below the painting.": {
+        "adjs": [],
+        "nearby": [
+            "box",
+            "painting"
+        ],
+        "target": "white cabinet"
+    },
+    "white cabinet with shelves and drawers positioned next to the vase and the stand. it is located towards the right side of the frame, slightly above the plant.": {
+        "adjs": [],
+        "nearby": [
+            "drawers",
+            "stand",
+            "frame",
+            "vase",
+            "shelves",
+            "plant"
+        ],
+        "target": "white cabinet"
+    },
+    "white cloth located near the dresser and the curtain.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "curtain",
+            "dresser"
+        ],
+        "target": "cloth"
+    },
+    "white couch near the stand and the table.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "stand",
+            "table"
+        ],
+        "target": "couch"
+    },
+    "white couch with a floral pattern located near the curtain, to the left of the stand, and slightly above the vase.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "pattern",
+            "stand",
+            "curtain",
+            "vase"
+        ],
+        "target": "couch"
+    },
+    "white couch with a valance over it. the couch is located near the curtain and table stand. the lamp is on the right side of the couch, and the antique clock is on the top-right corner of the couch. the flower is placed near the bottom of the couch.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "bottom",
+            "corner",
+            "flower",
+            "lamp",
+            "valance",
+            "clock",
+            "curtain table stand"
+        ],
+        "target": "couch"
+    },
+    "white desk located near the chair.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "chair"
+        ],
+        "target": "desk"
+    },
+    "white marble table located beside the candle and below the picture.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "candle",
+            "picture"
+        ],
+        "target": "marble table"
+    },
+    "white oven and stove located on the kitchen counter.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "kitchen counter",
+            "stove"
+        ],
+        "target": "oven"
+    },
+    "white pedestal sink located near the mirror and the shelf.": {
+        "adjs": [
+            "pedestal"
+        ],
+        "nearby": [
+            "shelf",
+            "mirror"
+        ],
+        "target": "white sink"
+    },
+    "white quartzite countertop located on a cabinet.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "quartzite countertop"
+    },
+    "white quartzite countertop located on the cabinet.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "quartzite countertop"
+    },
+    "white radiator with a mirror on the wall. the radiator is located below and to the right of the mirror.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "wall",
+            "mirror"
+        ],
+        "target": "radiator"
+    },
+    "white robe hanging on a rack. to locate the target object, refer to the support beam located on the left side. the clothes are within the region bounded by the support beam and the closet area for hanging clothes.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "clothes",
+            "support beam",
+            "rack",
+            "closet area"
+        ],
+        "target": "robe"
+    },
+    "white table with a pink chair. the table is located towards the right side of the frame, next to the pink chair.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "chair",
+            "frame"
+        ],
+        "target": "table"
+    },
+    "white table with blue walls. the table is located near a painting and a chair.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "walls",
+            "painting",
+            "chair"
+        ],
+        "target": "table"
+    },
+    "white table with white chairs. the table is located in the kitchen area, next to the kitchen shelf and the kitchen lower cabinet.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "kitchen cabinet",
+            "kitchen shelf",
+            "kitchen area",
+            "chairs"
+        ],
+        "target": "table"
+    },
+    "white towel located below the shower curtain and to the left of the bathrobe, near the hanger.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "shower curtain",
+            "hanger",
+            "bathrobe"
+        ],
+        "target": "towel"
+    },
+    "white towel located inside the cabinet.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "towel"
+    },
+    "white towel located near the hanger and to the left of the painting.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "painting",
+            "hanger"
+        ],
+        "target": "towel"
+    },
+    "white towel near the clothes, curtain, and blanket.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "clothes",
+            "blanket",
+            "curtain"
+        ],
+        "target": "towel"
+    },
+    "white towel with a blue stripe on it located on the closet shelf.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "closet shelf",
+            "stripe"
+        ],
+        "target": "towel"
+    },
+    "white wardrobe with a mirror on the door. it is located below the bathtub.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "door",
+            "bathtub",
+            "mirror"
+        ],
+        "target": "wardrobe"
+    },
+    "white wardrobe with shutters on the doors. the wardrobe is located to the right of the curtain and above the parapet. the drawer is below the wardrobe.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "shutters",
+            "doors",
+            "parapet",
+            "curtain",
+            "drawer"
+        ],
+        "target": "wardrobe"
+    },
+    "white washing machine in the kitchen. it is located relative to a cabinet, a picture, a bed, and a curtain.": {
+        "adjs": [
+            "white"
+        ],
+        "nearby": [
+            "picture",
+            "bed",
+            "cabinet",
+            "kitchen",
+            "curtain"
+        ],
+        "target": "washing machine"
+    },
+    "whiteboard located on the desk.": {
+        "adjs": [],
+        "nearby": [
+            "desk"
+        ],
+        "target": "whiteboard"
+    },
+    "wingback chair located near a couch, a cabinet, a lamp, a picture, and a pillow.": {
+        "adjs": [],
+        "nearby": [
+            "picture",
+            "pillow",
+            "lamp",
+            "cabinet",
+            "couch"
+        ],
+        "target": "wingback chair"
+    },
+    "wood cabinets that are located near the sink, oven and stove, and oven vent.": {
+        "adjs": [],
+        "nearby": [
+            "sink",
+            "stove",
+            "oven"
+        ],
+        "target": "wood cabinets"
+    },
+    "wooden board with a picture on it. it is located to the right of the cabinet, near the guitar and slightly above the box.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "guitar",
+            "cabinet",
+            "box",
+            "picture"
+        ],
+        "target": "board"
+    },
+    "wooden board with a whiteboard on it. it is located on the countertop and next to the cabinet.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "cabinet",
+            "whiteboard",
+            "countertop"
+        ],
+        "target": "board"
+    },
+    "wooden box with a hinged lid. it is located on the desk, which is towards the middle of the frame.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "middle",
+            "desk",
+            "lid",
+            "frame"
+        ],
+        "target": "box"
+    },
+    "wooden cabinet in the room with a window. locate the cabinet relative to the other objects as references.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "window",
+            "room",
+            "references"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet located next to the armchair, kitchen appliance, decorative plate, and book.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "book",
+            "kitchen appliance",
+            "plate",
+            "armchair"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a flat screen tv mounted on it. the cabinet is located below the speaker.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "speaker",
+            "screen tv"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a flat screen tv on it. the cabinet is located to the right of the tv and below the curtain.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "screen tv",
+            "tv",
+            "curtain"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a lamp and a typewriter on it. the cabinet is located below the window curtain and to the right of the table lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp",
+            "window curtain",
+            "table lamp"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a mirror above it. the cabinet is located near the sink and opposite to the toilet.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "sink",
+            "mirror",
+            "toilet"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a mirror on it. it is located near the shower cabin, sink, and tap.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "tap",
+            "mirror",
+            "shower cabin"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a mirror on it. it is located on top of the computer desk, towards the back of the room.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "room",
+            "computer desk",
+            "mirror",
+            "top"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a mirror on the door. the cabinet is located next to the box and below the picture.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "picture",
+            "box",
+            "mirror"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a mirror on the door. the cabinet is located next to the hanger towards the right and below the robe.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "mirror",
+            "hanger",
+            "robe"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a red door. the cabinet is located near the fireplace, on the left side of the room.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "fireplace",
+            "room"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a sink and a mirror. it is located next to the folding chair, towards the left side of the frame.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "folding chair",
+            "sink",
+            "mirror",
+            "frame"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a tv on it located above the clock and to the right of the cloth.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "clock",
+            "tv",
+            "cloth"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with a tv on it. the cabinet is located to the left of the armchair, above the couch, below the picture, and to the right of the box of tissues.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "picture",
+            "box",
+            "armchair",
+            "tissues",
+            "tv",
+            "couch"
+        ],
+        "target": "cabinet"
+    },
+    "wooden cabinet with two drawers and a shelf. the cabinet is located to the right of the bed, below the picture, and to the left of the lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers",
+            "picture",
+            "lamp",
+            "bed",
+            "shelf"
+        ],
+        "target": "cabinet"
+    },
+    "wooden chair located near the desk, radiator, photo mount, and drawer.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "radiator",
+            "desk",
+            "photo mount",
+            "drawer"
+        ],
+        "target": "chair"
+    },
+    "wooden chair located near the table, shelf/cabinet, and picture.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "picture",
+            "shelf cabinet",
+            "table"
+        ],
+        "target": "chair"
+    },
+    "wooden crate located near the plant and the sofa.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "sofa",
+            "plant"
+        ],
+        "target": "crate"
+    },
+    "wooden desk in the room. it is located near a chair, notebook, and a drawer.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair",
+            "room",
+            "drawer",
+            "notebook"
+        ],
+        "target": "desk"
+    },
+    "wooden desk in the room. it is located near a rack, a lamp, a picture, a guitar, a desk chair, paper, and a box.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "desk chair",
+            "picture",
+            "rack",
+            "box",
+            "paper",
+            "lamp",
+            "room",
+            "guitar"
+        ],
+        "target": "desk"
+    },
+    "wooden desk located near the curtain and the heater.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "heater",
+            "curtain"
+        ],
+        "target": "desk"
+    },
+    "wooden desk located near the lamp and the electric box in a stone walled room.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp",
+            "stone room",
+            "electric box"
+        ],
+        "target": "desk"
+    },
+    "wooden desk located near the picture and heater.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "heater",
+            "picture"
+        ],
+        "target": "desk"
+    },
+    "wooden desk with a lamp on it. the desk is located near the lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp"
+        ],
+        "target": "desk"
+    },
+    "wooden desk with a lamp on it. the desk is located near the rack and the chair, while being slightly to the left of the teapot.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp",
+            "chair",
+            "rack",
+            "teapot"
+        ],
+        "target": "desk"
+    },
+    "wooden desk with a sewing machine on it. the desk is located in front of a chair and next to a table lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "sewing machine",
+            "chair",
+            "table lamp"
+        ],
+        "target": "desk"
+    },
+    "wooden desk with a shelf above it. the desk is located below the shelf.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "shelf"
+        ],
+        "target": "desk"
+    },
+    "wooden dining table located near the chair, lamp, curtain, plant, bowl of fruit, and blinds.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair",
+            "lamp",
+            "plant",
+            "bowl",
+            "blinds",
+            "curtain",
+            "fruit"
+        ],
+        "target": "dining table"
+    },
+    "wooden drawer located near the lamp and picture.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp",
+            "picture"
+        ],
+        "target": "drawer"
+    },
+    "wooden rack located near the picture, clothes, and curtain.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "clothes",
+            "picture",
+            "curtain"
+        ],
+        "target": "rack"
+    },
+    "wooden rack located next to the painting, between the table and the carpet.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "carpet",
+            "painting",
+            "table"
+        ],
+        "target": "rack"
+    },
+    "wooden rack with a guitar on it. the rack is located in the region next to the desk and below the lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "lamp",
+            "desk",
+            "guitar"
+        ],
+        "target": "rack"
+    },
+    "wooden rack with a picture of a deer on it. it is located near a picture frame, a carpet, a picture, and a refrigerator.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "refrigerator",
+            "picture",
+            "carpet",
+            "picture frame"
+        ],
+        "target": "rack"
+    },
+    "wooden rack with shelves and drawers. the rack is located near the bed, towards the right side. it is positioned between the box and the pillow.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers",
+            "box",
+            "pillow",
+            "shelves",
+            "bed"
+        ],
+        "target": "rack"
+    },
+    "wooden shelf with a deer head on it. it is located near a chair, picture frame, blinds, a record player, and a speaker.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "record player",
+            "chair",
+            "speaker",
+            "blinds",
+            "picture frame"
+        ],
+        "target": "shelf"
+    },
+    "wooden table in a dining room. the table is located on the left side of the painting and below the flower. it is also positioned to the right of the chair.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "dining room",
+            "chair",
+            "painting",
+            "flower"
+        ],
+        "target": "table"
+    },
+    "wooden table in a room with stone walls. the table is located next to a cabinet, towards the right side of a chair, and below a lamp.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "chair",
+            "lamp",
+            "cabinet",
+            "room",
+            "stone walls"
+        ],
+        "target": "table"
+    },
+    "wooden table in a small room by using the relative positions of other objects as references. the table is located near the chair and flower vase, and is not far from the cabinet and curtain. look for a rectangular surface within the given region.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "flower vase",
+            "chair",
+            "surface",
+            "cabinet",
+            "room",
+            "curtain",
+            "references"
+        ],
+        "target": "table"
+    },
+    "wooden table in the dining room. it is located on the shelf/cabinet, towards the center-right of the frame. there is also a chair nearby, positioned slightly above the table.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "center",
+            "chair",
+            "frame",
+            "dining room",
+            "shelf cabinet"
+        ],
+        "target": "table"
+    },
+    "wooden table in the garage.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "garage"
+        ],
+        "target": "table"
+    },
+    "wooden table in the kitchen. it is located near a cabinet, a shelf, kitchen utensils, a jar, and a flower vase.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "jar",
+            "kitchen utensils",
+            "flower vase",
+            "cabinet",
+            "kitchen",
+            "shelf"
+        ],
+        "target": "table"
+    },
+    "wooden table in the kitchen. locate the painting, it is on the left of the table. next, look for the kitchen cabinet, it is on the right side of the table. finally, observe the oven, it is below the table. use these objects as references to find the target table.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "target table",
+            "oven",
+            "kitchen",
+            "kitchen cabinet",
+            "references",
+            "painting"
+        ],
+        "target": "table"
+    },
+    "wooden table in the region. look for a table located near a cabinet.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "cabinet"
+        ],
+        "target": "table"
+    },
+    "wooden table in the room. look for a table near the air vent, picture, and chair.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "picture",
+            "chair",
+            "room",
+            "air vent"
+        ],
+        "target": "table"
+    },
+    "wooden table that is located in front of the shelf, next to the teapot, and near the telephone.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "shelf",
+            "telephone",
+            "teapot"
+        ],
+        "target": "table"
+    },
+    "wooden table with a bench on one side. the table is located near the sofa and cushion.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "cushion",
+            "sofa",
+            "bench"
+        ],
+        "target": "table"
+    },
+    "wooden table with a fan above it. look for the table, which is located beside a chair. the table is covered with a table cloth. there is also a plant nearby.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "table cloth",
+            "plant",
+            "chair",
+            "fan"
+        ],
+        "target": "table"
+    },
+    "wooden table with a glass top. the table is located on top of the bench, near the curtain and lamp. it is situated to the right of the painting and beneath the chair.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "glass top",
+            "chair",
+            "lamp",
+            "bench",
+            "painting",
+            "curtain",
+            "top"
+        ],
+        "target": "table"
+    },
+    "wooden table with a large bowl on it. the table is located next to the kitchen cabinet on the left side.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bowl",
+            "kitchen cabinet"
+        ],
+        "target": "table"
+    },
+    "wooden table with a mirror above it. the table is located to the left of the mirror and there is a table lamp on the table.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "table lamp",
+            "mirror"
+        ],
+        "target": "table"
+    },
+    "wooden table with a mirror on it. locate the table in relation to the other objects in the space.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "relation",
+            "mirror"
+        ],
+        "target": "table"
+    },
+    "wooden table with a mirror on it. the table is located next to the bath cabinet and the bath sink.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bath cabinet",
+            "bath sink",
+            "mirror"
+        ],
+        "target": "table"
+    },
+    "wooden table with a vase of flowers on it. the table is located near a lamp, a flower vase, a piano, a chair, and a picture.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "picture",
+            "flower vase",
+            "chair",
+            "vase",
+            "lamp",
+            "flowers",
+            "piano"
+        ],
+        "target": "table"
+    },
+    "wooden table with a vase on it. the table is located near the armchair, towards the left side.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "armchair",
+            "vase"
+        ],
+        "target": "table"
+    },
+    "wooden table. the table is located below the board and above the bucket.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "bucket",
+            "board"
+        ],
+        "target": "table"
+    },
+    "wooden wardrobe in the room. locate it near the drawer, which is positioned below the top corner of the wardrobe.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "corner",
+            "room",
+            "drawer"
+        ],
+        "target": "wardrobe"
+    },
+    "wooden wardrobe with a lot of stuffed animals on top of it. it is located to the left of the toy, in the same vertical line as the chest of drawers, and below the box.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "drawers",
+            "chest",
+            "box",
+            "toy",
+            "line",
+            "top"
+        ],
+        "target": "wardrobe"
+    },
+    "wooden wardrobe with a mirror on the door. it is located to the right of the couch, below the toy, and above the bicycle.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "bicycle",
+            "toy",
+            "mirror",
+            "couch"
+        ],
+        "target": "wardrobe"
+    },
+    "wooden wardrobe with a wooden door. it is located below the bed and to the right of the pillow.": {
+        "adjs": [
+            "wooden"
+        ],
+        "nearby": [
+            "door",
+            "bed",
+            "pillow"
+        ],
+        "target": "wardrobe"
+    },
+    "worktop located near the kitchen cabinet, refrigerator, sink, dishwasher, flag, and coffee machine. the worktop has granite counters and stainless steel appliances.": {
+        "adjs": [],
+        "nearby": [
+            "refrigerator",
+            "flag",
+            "granite counters",
+            "coffee machine",
+            "sink",
+            "steel appliances",
+            "dishwasher",
+            "kitchen cabinet"
+        ],
+        "target": "worktop"
+    },
+    "worktop located on the cabinet, near the fruit and picture. the worktop is a white quartzite worktop.": {
+        "adjs": [],
+        "nearby": [
+            "cabinet",
+            "picture",
+            "quartzite worktop",
+            "fruit"
+        ],
+        "target": "worktop"
+    },
+    "yellow handbag located near the clothes hanger rod.": {
+        "adjs": [
+            "yellow"
+        ],
+        "nearby": [
+            "clothes hanger rod"
+        ],
+        "target": "handbag"
+    }
+}

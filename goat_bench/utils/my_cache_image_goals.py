@@ -141,7 +141,7 @@ class CacheGoals:
                     )
                     
                     print(out_fname, caption)
-                    data_goal[file.replace('.png', '')] = metadata
+                    data_goal[f"{scene_name}/{file.replace('.png', '')}"] = metadata
         
         # Write the metadata to a JSON file
         write_json(data_goal, os.path.join(self.output_path, f"image_goal_vqa_blip2/{split}_image_goal_blip2.json"))

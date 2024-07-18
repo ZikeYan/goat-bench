@@ -759,7 +759,7 @@ class GoatGoalSensor(Sensor):
                 category = episode.tasks[task.active_subtask_idx][0]
                 task_type = "object"
                 if self._return_gt_pos:
-                    return (category, task_type, episode.goals[task.active_subtask_idx][0]['position'])
+                    return (category, task_type, [obj['position'] for obj in episode.goals[task.active_subtask_idx]])
                 return (category, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "description":
                 instance_id = episode.tasks[task.active_subtask_idx][2]

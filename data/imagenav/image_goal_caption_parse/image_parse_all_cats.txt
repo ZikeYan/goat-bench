@@ -1,8 +1,6 @@
 accents
 air
-animal
 animal print rug
-animals
 appliances
 armoire
 arms
@@ -17,7 +15,6 @@ bathroom mirror
 bathroom vanity
 bathtub
 beam
-bear
 bed
 bedroom
 bedroom door
@@ -28,7 +25,6 @@ bedspread
 bench
 bike
 bin
-bird
 blackboard
 blanket
 book
@@ -39,14 +35,12 @@ bottles
 bowl
 box
 boxes
-branches
 brick hearth
 brick surround
 brick wall
 broom
 bucket
 buddha statue
-building
 bunch
 bunk bed
 cabinet
@@ -66,7 +60,6 @@ chest
 chevron pattern
 children play table
 christmas tree
-city
 clock
 closet
 clothes
@@ -90,23 +83,18 @@ counter
 counter top
 countertop
 cover
-cow
-cow head
 crib
 curtain
 curtains
 dark
-deer head
 design
 desk
 dining room table
 dining table
 disciples
 dishes
-dog
 dog bed
 dog crate
-dog head
 door
 doors
 drawer
@@ -117,7 +105,6 @@ dryer
 embroidery
 entertainment center
 fabric
-feather
 feather print
 filing cabinet
 fire
@@ -167,14 +154,11 @@ heart shelf
 hole
 hook
 hooks
-horse
 hp monitor
-husband
 hutch
 ironing board
 items
 jacuzzi tub
-jesus
 kitchen
 kitchen cabinet
 kitchen counter
@@ -199,7 +183,6 @@ living room
 log
 logs
 lot
-man
 mantle
 map
 marble countertop
@@ -219,13 +202,9 @@ metal umbrella
 microwave
 microwave coffee maker
 microwave oven
-middle
 mirror
 mirror wall
 mirrors
-monitors
-mountains
-nativity
 nightstand
 note
 number
@@ -240,7 +219,6 @@ pans
 pantry
 papers
 pattern
-people
 photo
 photograph
 piano
@@ -252,7 +230,6 @@ pile
 pillow
 pillows
 ping pong table
-plane
 plant
 plant pot
 plants
@@ -272,7 +249,6 @@ recliner
 recliner chair
 refrigerator
 robe
-room
 rug
 screen
 screen television
@@ -304,12 +280,10 @@ snack bar
 snacks
 soccer ball
 sofa
-space station
 stair case
 staircase
 stairs
 stand
-starfish
 statue
 steel appliances
 steel oven
@@ -328,10 +302,11 @@ stove
 stove microwave oven
 stove oven
 stove top
+stuffed animal
+stuffed animals
 suit
 suitcase
 supper
-swan
 sword
 table
 tables
@@ -345,15 +320,11 @@ tiles
 toilet
 toilet door
 tools
-top
 towel
 towel rack
 towels
-train
-train station
 treadmill
 tree
-trees
 tripod
 tub
 turtle ottoman
@@ -367,27 +338,22 @@ vanity
 variety
 vase
 vegetables
-view
-virgin mary
 wall
 walls
 washer
 washing machine
-water
 water heater
 wheel
 white box
 whiteboard
 wicker basket
 wicker screen
-wicker screen door
 window
 wine bottle
 wine cellar
 wine fridge
 wine rack
 wires
-woman
 wood
 wood ceiling
 wood mantle

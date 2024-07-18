@@ -773,7 +773,7 @@ class GoatGoalSensor(Sensor):
                 uuid_dict['goal'] = uuid
                 task_type = "lang"
                 if self._return_gt_pos:
-                    return (uuid_dict, task_type, episode.goals[task.active_subtask_idx][0]['position'])
+                    return (uuid_dict, task_type, [episode.goals[task.active_subtask_idx][0]['position']])
                 return (uuid, task_type)
             elif episode.tasks[task.active_subtask_idx][1] == "image":
                 instance_id = episode.tasks[task.active_subtask_idx][2]
@@ -791,7 +791,7 @@ class GoatGoalSensor(Sensor):
                 img_dict = self.image_parse_cache[img_id]
                 img_dict['goal'] = img
                 if self._return_gt_pos:
-                    return (img_dict, task_type, episode.goals[task.active_subtask_idx][0]['position'])
+                    return (img_dict, task_type, [episode.goals[task.active_subtask_idx][0]['position']])
                 return (img, task_type)
             else:
                 raise NotImplementedError
